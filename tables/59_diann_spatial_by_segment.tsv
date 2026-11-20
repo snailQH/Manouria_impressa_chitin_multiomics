@@ -1,0 +1,73 @@
+animal	category	segment	n_proteins	mean_log2	sd
+MI01	GH18 locus (catalytic)	Stomach	6	16.181	2.171
+MI01	GH18 locus (catalytic)	Duodenum	6	17.548	2.699
+MI01	GH18 locus (catalytic)	Jejunum	6	17.376	2.916
+MI01	GH18 locus (catalytic)	Ileum	6	17.952	3.331
+MI01	GH18 locus (catalytic)	Colon	6	16.593	3.912
+MI01	GH18 locus (catalytic)	Rectum	6	15.19	2.048
+MI01	GH18 locus (inactive CLP)	Stomach	1	18.742	
+MI01	GH18 locus (inactive CLP)	Duodenum	1	18.347	
+MI01	GH18 locus (inactive CLP)	Jejunum	1	18.289	
+MI01	GH18 locus (inactive CLP)	Ileum	1	18.23	
+MI01	GH18 locus (inactive CLP)	Colon	1	18.172	
+MI01	GH18 locus (inactive CLP)	Rectum	1	18.2	
+MI01	other host GH18	Stomach	2	13.647	0.925
+MI01	other host GH18	Duodenum	2	14.302	0.792
+MI01	other host GH18	Jejunum	2	14.312	0.846
+MI01	other host GH18	Ileum	2	14.56	0.662
+MI01	other host GH18	Colon	2	14.522	0.383
+MI01	other host GH18	Rectum	2	14.229	0.473
+MI01	GH20 hexosaminidase	Stomach	3	15.315	2.862
+MI01	GH20 hexosaminidase	Duodenum	3	15.078	2.784
+MI01	GH20 hexosaminidase	Jejunum	3	15.157	2.646
+MI01	GH20 hexosaminidase	Ileum	3	14.929	3.119
+MI01	GH20 hexosaminidase	Colon	3	15.091	2.628
+MI01	GH20 hexosaminidase	Rectum	3	15.622	2.302
+MI01	GlcNAc metabolism	Stomach	10	15.231	2.262
+MI01	GlcNAc metabolism	Duodenum	9	16.073	1.79
+MI01	GlcNAc metabolism	Jejunum	10	15.57	2.019
+MI01	GlcNAc metabolism	Ileum	10	15.561	2.044
+MI01	GlcNAc metabolism	Colon	10	15.593	2.526
+MI01	GlcNAc metabolism	Rectum	9	15.888	1.569
+MI01	metagenome	Stomach	115	14.491	1.994
+MI01	metagenome	Duodenum	115	14.632	1.846
+MI01	metagenome	Jejunum	124	14.579	1.818
+MI01	metagenome	Ileum	118	14.78	1.685
+MI01	metagenome	Colon	108	14.61	2.049
+MI01	metagenome	Rectum	105	14.587	2.046
+MI02	GH18 locus (catalytic)	Stomach	5	17.798	1.999
+MI02	GH18 locus (catalytic)	Duodenum	5	18.968	1.514
+MI02	GH18 locus (catalytic)	Jejunum	5	15.176	1.047
+MI02	GH18 locus (catalytic)	Ileum	5	14.912	0.814
+MI02	GH18 locus (catalytic)	Colon	5	16.861	1.75
+MI02	GH18 locus (catalytic)	Rectum	5	15.583	0.723
+MI02	GH18 locus (inactive CLP)	Stomach	1	18.305	
+MI02	GH18 locus (inactive CLP)	Duodenum	1	17.697	
+MI02	GH18 locus (inactive CLP)	Jejunum	1	17.334	
+MI02	GH18 locus (inactive CLP)	Ileum	1	17.447	
+MI02	GH18 locus (inactive CLP)	Colon	1	17.257	
+MI02	GH18 locus (inactive CLP)	Rectum	1	17.465	
+MI02	other host GH18	Stomach	2	14.359	0.756
+MI02	other host GH18	Duodenum	2	14.462	2.199
+MI02	other host GH18	Jejunum	2	14.563	0.516
+MI02	other host GH18	Ileum	2	14.493	0.436
+MI02	other host GH18	Colon	2	14.452	1.681
+MI02	other host GH18	Rectum	2	14.148	1.199
+MI02	GH20 hexosaminidase	Stomach	3	15.469	2.534
+MI02	GH20 hexosaminidase	Duodenum	3	16.038	2.904
+MI02	GH20 hexosaminidase	Jejunum	3	15.158	2.847
+MI02	GH20 hexosaminidase	Ileum	3	14.905	2.986
+MI02	GH20 hexosaminidase	Colon	3	16.265	2.973
+MI02	GH20 hexosaminidase	Rectum	3	15.746	2.554
+MI02	GlcNAc metabolism	Stomach	9	16.156	1.614
+MI02	GlcNAc metabolism	Duodenum	9	15.608	1.32
+MI02	GlcNAc metabolism	Jejunum	9	16.328	1.749
+MI02	GlcNAc metabolism	Ileum	9	16.257	1.715
+MI02	GlcNAc metabolism	Colon	9	15.904	1.558
+MI02	GlcNAc metabolism	Rectum	9	16.184	1.479
+MI02	metagenome	Stomach	100	15.04	1.983
+MI02	metagenome	Duodenum	91	14.555	1.877
+MI02	metagenome	Jejunum	100	14.777	1.827
+MI02	metagenome	Ileum	96	14.727	1.806
+MI02	metagenome	Colon	93	14.784	1.83
+MI02	metagenome	Rectum	96	15.043	1.932

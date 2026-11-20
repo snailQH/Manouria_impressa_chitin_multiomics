@@ -1,0 +1,20 @@
+# PROVENANCE ONLY - vendor per-cohort statistical tests, NOT the manuscript's numbers.
+# Published tests: tables/36_unified_cazy_tests.tsv, 40_unified_permanova.tsv, 46_unified_ko_tests.tsv
+# SD columns below are POPULATION standard deviations (ddof=0).
+# Sample SDs (ddof=1), recomputed from tables/07 on 2026-09-02:
+#   GH18: DS02 5324.7  DS03 1251.9
+#   GH19: DS02 915.2  DS03 836.9
+#   GH20: DS02 13198.3  DS03 5126.5
+# Mann-Whitney U is two-sided; effect size is the rank-biserial correlation.
+Gene	DS02_mean	DS02_sd	DS03_mean	DS03_sd	Fold_change	Mann_Whitney_U	P_value	Rank_biserial_r	Significant
+GH18	13946.1	5115.8	8253.2	1159.0	1.69	84.0	0.0012	-0.846	Yes
+GH19	3063.0	879.3	2623.3	774.8	1.17	60.0	0.2749	-0.319	No
+GH20	30259.7	12680.5	21574.9	4746.2	1.40	65.0	0.1348	-0.429	No
+Shannon (P.eryngii vs H.tessellatus)	5.048		4.897				0.9783		No
+Shannon (P.eryngii vs P.ostreatus)	5.048		3.996				0.0001		Yes
+Shannon (H.tessellatus vs P.ostreatus)	4.897		3.996				0.1574		No
+Simpson (P.eryngii vs H.tessellatus)	0.957		0.836				0.0003		Yes
+Simpson (P.eryngii vs P.ostreatus)	0.957		0.932				0.0008		Yes
+Simpson (H.tessellatus vs P.ostreatus)	0.836		0.932				0.1146		No
+Shannon (Kruskal-Wallis 3-way)							0.0214		Yes
+Simpson (Kruskal-Wallis 3-way)							0.0002		Yes

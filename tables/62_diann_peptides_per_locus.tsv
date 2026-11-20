@@ -1,0 +1,13 @@
+model	locus	clade	peptides_any_group	peptides_in_own_group	proteotypic	protein_group
+MIMP3_g08468	g08468 TAF8 (v1 088402 N-term; not GH18)	other	0	0	0	
+MIMP3_g08469	088402a GH18+CBM14	catalytic	19	19	19	host|MIMP3_g08469.t1
+MIMP3_g08470	088402b GH18	catalytic	11	11	11	host|MIMP3_g08470.t1
+MIMP3_g08471	g08471 (GH18 fragment)	catalytic	0	0	0	
+MIMP3_g08472	L7 CHIA array	catalytic	4	4	4	host|MIMP3_g08472.t1
+MIMP3_g08473	L6 CHIA array	catalytic	6	6	0	host|MIMP3_g08473.t1;host|MIMP3_g08474.t1;host|MIMP3_g08475.t1
+MIMP3_g08474	L5 CHIA array	catalytic	6	6	0	host|MIMP3_g08473.t1;host|MIMP3_g08474.t1;host|MIMP3_g08475.t1
+MIMP3_g08475	L4 CHIA array	catalytic	6	6	0	host|MIMP3_g08473.t1;host|MIMP3_g08474.t1;host|MIMP3_g08475.t1
+MIMP3_g08476	L3 CHIA-related	catalytic	12	12	12	host|MIMP3_g08476.t1
+MIMP3_g08477	088393 fragment (g08477)	inactive CLP	1	1	1	host|MIMP3_g08477.t1
+MIMP3_g08478	L2 088393 CLP	inactive CLP	17	17	17	host|MIMP3_g08478.t1
+MIMP3_g08479	L1 088392 CHIT1-clade	catalytic	11	11	11	host|MIMP3_g08479.t1

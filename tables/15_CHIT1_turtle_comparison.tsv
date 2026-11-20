@@ -1,0 +1,53 @@
+# ⚠ SUPERSEDED IN PART - see tables/25_CHIA_CHIT1_blast_verification.tsv (2026-09-02)
+# The "signal peptide only" / "QUESTIONABLE" calls below were produced with a TRUNCATED
+# 396 aa CHIT1 query. Human CHIT1 is 466 aa. Re-running with the full-length UniProt
+# sequence aligns these same turtle proteins over 387-388 aa at 59.5-61.0%% identity
+# (83%% query coverage, E = 0.0). They ARE full-length GH18 chitinase-family proteins.
+# The conclusion that they are not CHIT1 ORTHOLOGS still stands, but rests on the
+# phylogeny (Figure 5B), not on these similarity values.
+# Human CHIT1 (Q13231) BLASTP vs turtle/tortoise genomes (NCBI nr, Testudines)
+# Search date: 2026-04-02
+# Standard E-value cutoff: 1e-5 (NO hits found)
+# Relaxed E-value cutoff: 1e-3 (hits shown below - all are signal-peptide-only matches)
+#
+# CRITICAL NOTE: All turtle "CHIT1-like" hits in NCBI are SIGNAL PEPTIDE MATCHES ONLY
+# Alignment lengths: 34-44 aa out of 395 aa full-length CHIT1
+# Query coverage: <10% of full-length CHIT1
+# These are NOT true CHIT1 orthologs. They are GH18 family chitinase-like proteins
+# that share only the N-terminal signal peptide region with CHIT1.
+#
+Species	Common_Name	Accession	Pident	Alignment_Length	E-value	Bitscore	Annotation	True_CHIT1_Ortholog
+Manouria impressa	Impressed tortoise	none	-	-	-	-	No hit in proteome	NO
+Chelonia mydas	Green sea turtle	XP_007065194.2	62.857	35	2.07e-05	51.6	chitotriosidase-1	QUESTIONABLE (signal peptide only)
+Chrysemys picta bellii	Painted turtle	XP_005308333.2	58.333	36	7.24e-05	49.7	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Pelodiscus sinensis	Chinese softshell turtle	XP_014434032.1	62.857	35	1.40e-04	49.3	chitotriosidase-1	QUESTIONABLE (signal peptide only)
+Gopherus evgoodei	Goode's thornscrub tortoise	XP_030417332.1	60.000	35	8.27e-05	49.7	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Gopherus flavomarginatus	Bolson tortoise	XP_050811832.1	60.000	35	8.42e-05	49.7	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Chelonoidis abingdonii	Pinta Island tortoise	XP_032641725.1	57.143	35	2.46e-04	48.1	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Terrapene triunguis	Three-toed box turtle	XP_026511014.1	58.333	36	7.18e-05	49.7	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Dermochelys coriacea	Leatherback sea turtle	XP_038235475.1	63.889	36	7.14e-06	53.1	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Emydura macquarii	Murray River turtle	XP_067387583.1	63.889	36	4.33e-06	53.5	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Trachemys scripta elegans	Red-eared slider	XP_034623204.1	61.111	36	2.56e-05	51.2	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Emys orbicularis	European pond turtle	XP_065259584.1	61.111	36	2.21e-05	51.6	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Mauremys reevesii	Chinese pond turtle	XP_039394257.1	60.000	35	6.51e-05	50.1	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Mauremys mutica	Asian yellow pond turtle	XP_044870066.1	60.000	35	6.57e-05	50.1	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Caretta caretta	Loggerhead sea turtle	XP_048682686.1	62.857	35	2.07e-05	51.6	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Lepidochelys kempii	Kemp's ridley sea turtle	XP_073175617.1	62.857	35	2.05e-05	51.6	chitotriosidase-1	QUESTIONABLE (signal peptide only)
+Eretmochelys imbricata	Hawksbill sea turtle	XP_077695161.1	62.857	35	2.04e-05	51.6	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Natator depressus	Flatback sea turtle	XP_074791955.1	62.857	35	2.11e-05	51.6	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Malaclemys terrapin	Diamondback terrapin	XP_053881674.1	58.333	36	7.22e-05	49.7	chitotriosidase-1-like	QUESTIONABLE (signal peptide only)
+Macrochelys suwanniensis	Suwannee alligator snapping turtle	KAM7169406.1	63.889	36	2.80e-05	51.6	acidic mammalian chitinase-like	QUESTIONABLE (signal peptide only)
+Chelydra serpentina	Common snapping turtle	KAG6935466.1	57.143	35	6.17e-04	47.0	chitinase 1 partial	QUESTIONABLE (signal peptide only)
+Pangshura tecta	Indian roofed turtle	KAM9148918.1	60.000	35	2.12e-04	48.9	acidic mammalian chitinase-like	QUESTIONABLE (signal peptide only)
+#
+# SUMMARY:
+# - M. impressa: NO CHIT1 or CHIA found (no hits at E-value 1e-5 in local proteome BLAST)
+# - All other turtles (22 species tested): NCBI annotations show "chitotriosidase-1-like" proteins,
+#   BUT these only match the signal peptide region of human CHIT1 (35-36 aa / 395 aa = ~9% coverage).
+# - These turtle proteins are likely GH18 family chitinase-like proteins (e.g., CHIA/AMCase-like)
+#   that were AUTO-ANNOTATED as "chitotriosidase-1" due to shared N-terminal signal peptide similarity.
+# - TRUE CHIT1 (full-length chitotriosidase with catalytic domain homology) appears to be ABSENT
+#   from ALL tested turtle genomes, including M. impressa.
+# - This is consistent with known biology: CHIT1 and CHIA are GH18 family members that share
+#   signal peptide and some structural features but differ in substrate specificity and expression.
+#   Turtles appear to have GH18 family members (annotated as chitinase-like) but lack true CHIT1.

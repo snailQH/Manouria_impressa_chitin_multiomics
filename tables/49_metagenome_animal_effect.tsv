@@ -1,0 +1,27 @@
+# Animal-aware re-test of the cross-diet metagenome results (faecal donors: series 1 = MI02, series 2 = MI03; confirmed by the authors 2026-11-10).
+section	test	value	P	note
+design	DS01 × MI02	n=6; GH18 CPM 367 ± 129		
+design	DS01 × MI03	n=6; GH18 CPM 576 ± 143		
+design	DS02 × MI02	n=9; GH18 CPM 741 ± 223		
+design	DS02 × MI03	n=4; GH18 CPM 495 ± 86		
+design	DS03 × MI02	n=2; GH18 CPM 352 ± 21		
+design	DS03 × MI03	n=5; GH18 CPM 303 ± 68		
+animal effect within cohort (GH18)	DS01: MI02 vs MI03	367 vs 576 CPM (n=6, 6)	0.026	Mann–Whitney U, two-sided
+animal effect within cohort (GH18)	DS02: MI02 vs MI03	741 vs 495 CPM (n=9, 4)	0.076	Mann–Whitney U, two-sided
+animal effect within cohort (GH18)	DS03: MI02 vs MI03	352 vs 303 CPM (n=2, 5)	0.381	Mann–Whitney U, two-sided
+animal effect (GH18)	MI02 vs MI03, all cohorts	563 vs 463 CPM	0.417	Kruskal–Wallis
+diet effect within animal (GH18)	MI02: 3 cohorts	DS01 367 (n=6); DS02 741 (n=9); DS03 352 (n=2)	0.009	Kruskal–Wallis
+diet effect within animal (GH18)	MI02: DS01 vs DS03	fold 1.04 (n=6, 2)	1.000	Mann–Whitney U, two-sided
+diet effect within animal (GH18)	MI02: DS02 vs DS03	fold 2.10 (n=9, 2)	0.036	Mann–Whitney U, two-sided
+diet effect within animal (GH18)	MI02: DS01 vs DS02	fold 0.50 (n=6, 9)	0.005	Mann–Whitney U, two-sided
+diet effect within animal (GH18)	MI03: 3 cohorts	DS01 576 (n=6); DS02 495 (n=4); DS03 303 (n=5)	0.021	Kruskal–Wallis
+diet effect within animal (GH18)	MI03: DS01 vs DS03	fold 1.90 (n=6, 5)	0.017	Mann–Whitney U, two-sided
+diet effect within animal (GH18)	MI03: DS02 vs DS03	fold 1.63 (n=4, 5)	0.032	Mann–Whitney U, two-sided
+diet effect within animal (GH18)	MI03: DS01 vs DS02	fold 1.16 (n=6, 4)	0.352	Mann–Whitney U, two-sided
+diet effect adjusted for animal (GH18)	KW across cohorts on animal-centred GH18 CPM		0.0052	each sample minus its animal mean
+PERMANOVA (Bray–Curtis, genus, 32 samples)	diet, free permutations	pseudo-F 4.61, R² 0.241	0.0001	9999 permutations
+PERMANOVA (Bray–Curtis, genus, 32 samples)	diet, permutations within animal (strata = animal)	pseudo-F 4.61, R² 0.241	0.0001	9999 permutations
+PERMANOVA (Bray–Curtis, genus, 32 samples)	animal, free permutations	pseudo-F 3.79, R² 0.112	0.0006	9999 permutations
+PERMANOVA (Bray–Curtis, genus, 32 samples)	animal, permutations within diet (strata = diet)	pseudo-F 3.79, R² 0.112	0.0005	9999 permutations
+PERMANOVA within animal	diet within MI02 (n=17)	pseudo-F 5.63, R² 0.446	0.0001	9999 permutations
+PERMANOVA within animal	diet within MI03 (n=15)	pseudo-F 3.61, R² 0.376	0.0001	9999 permutations

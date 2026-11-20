@@ -1,0 +1,8 @@
+# Kraken2 confidence-threshold sweep (Supplementary Table S10)
+# Sample ITF-1-1, 2,000,000 host-depleted read pairs, standard Kraken2 DB (Oct 2025)
+# minimum-hit-groups = 2 throughout; generated 2026-09-02
+Confidence	Classified_reads	Classified_pct	Genera	Species	Species_ge100_reads	Species_lt10_reads	Pct_classified_reads_in_lt10read_species
+0.0	476442	23.82	2574	10705	330	7320	5.86
+0.05	320787	16.04	806	1424	100	1049	0.71
+0.1	227814	11.39	278	509	45	318	0.37
+0.2	169215	8.46	149	259	31	160	0.27

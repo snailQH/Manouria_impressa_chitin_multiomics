@@ -1,0 +1,41 @@
+# Within-locus centred 6-segment profiles (log2 MaxLFQ, mean of tissue pieces) of the GH18-locus protein groups from the species-specific DIA-NN search; paired SI (duodenum, jejunum, ileum) vs hindgut (colon, rectum) per animal; MI02 gut vs non-gut tissues.
+animal	group	locus	Stomach_centred_log2	Duodenum_centred_log2	Jejunum_centred_log2	Ileum_centred_log2	Colon_centred_log2	Rectum_centred_log2	SI_minus_hindgut_log2	note
+MI01	MIMP3_g08469	088402a (GH18+CBM14)	-0.556	1.034	0.639	0.487	-1.7	0.096	1.522	
+MI01	MIMP3_g08470	088402b (GH18)	0.351	0.923	0.388	0.893	-1.117	-1.438	2.012	
+MI01	MIMP3_g08472	L7 (CHIA array)	-1.362	0.739	0.616	1.536	0.75	-2.279	1.729	
+MI01	MIMP3_g08473;MIMP3_g08474;MIMP3_g08475	L6 (CHIA array) + L5 (CHIA array) + L4 (CHIA array)	-1.274	0.441	0.686	1.779	0.996	-2.628	1.785	
+MI01	MIMP3_g08476	L3 (CHIA-related)	-1.304	0.752	0.668	1.488	0.521	-2.126	1.772	
+MI01	MIMP3_g08478	L2 (CHI3L-clade inactive CLP, 088393)	0.412	0.017	-0.041	-0.1	-0.158	-0.13	0.103	
+MI01	MIMP3_g08479	L1 (CHIT1-clade, 088392)	0.391	0.557	0.421	0.688	-0.73	-1.328	1.585	
+MI01	SUMMARY	7 GH18 protein groups with complete 6-segment profiles	-0.477	0.638	0.482	0.967	-0.205	-1.405	1.729	SI>hindgut in 7/7; Wilcoxon P=0.0156; Friedman P=0.00113
+MI02	MIMP3_g08469	088402a (GH18+CBM14)	-2.016	2.999	-0.686	-1.427	2.204	-1.074	-0.27	
+MI02	MIMP3_g08472	L7 (CHIA array)	2.828	2.793	-1.593	-1.933	-0.687	-1.408	0.802	
+MI02	MIMP3_g08473;MIMP3_g08474;MIMP3_g08475	L6 (CHIA array) + L5 (CHIA array) + L4 (CHIA array)	2.961	2.808	-1.926	-2.233	-0.351	-1.258	0.355	
+MI02	MIMP3_g08476	L3 (CHIA-related)	2.463	2.587	-1.947	-1.872	-0.265	-0.966	0.205	
+MI02	MIMP3_g08478	L2 (CHI3L-clade inactive CLP, 088393)	0.721	0.113	-0.25	-0.137	-0.327	-0.119	0.132	
+MI02	MIMP3_g08479	L1 (CHIT1-clade, 088392)	0.008	0.906	-0.714	-0.723	0.653	-0.128	-0.44	
+MI02	SUMMARY	6 GH18 protein groups with complete 6-segment profiles	1.161	2.034	-1.186	-1.388	0.205	-0.826	0.168	SI>hindgut in 4/6; Wilcoxon P=0.688; Friedman P=0.0025
+MI02	MIMP3_g08469	088402a (GH18+CBM14)								Liver: log2 12.65 vs gut mean 17.65
+MI02	MIMP3_g08470	088402b (GH18)								Liver: log2 12.63 vs gut mean nan
+MI02	MIMP3_g08472	L7 (CHIA array)								Liver: not detected (gut mean 15.96)
+MI02	MIMP3_g08473;MIMP3_g08474;MIMP3_g08475	L6 (CHIA array) + L5 (CHIA array) + L4 (CHIA array)								Liver: not detected (gut mean 17.02)
+MI02	MIMP3_g08476	L3 (CHIA-related)								Liver: log2 12.23 vs gut mean 16.42
+MI02	MIMP3_g08477	088393 fragment (g08477)								Liver: not detected (gut mean nan)
+MI02	MIMP3_g08478	L2 (CHI3L-clade inactive CLP, 088393)								Liver: log2 16.67 vs gut mean 17.58
+MI02	MIMP3_g08479	L1 (CHIT1-clade, 088392)								Liver: log2 16.43 vs gut mean 15.70
+MI02	MIMP3_g08469	088402a (GH18+CBM14)								Heart: log2 13.62 vs gut mean 17.65
+MI02	MIMP3_g08470	088402b (GH18)								Heart: not detected (gut mean nan)
+MI02	MIMP3_g08472	L7 (CHIA array)								Heart: log2 9.84 vs gut mean 15.96
+MI02	MIMP3_g08473;MIMP3_g08474;MIMP3_g08475	L6 (CHIA array) + L5 (CHIA array) + L4 (CHIA array)								Heart: log2 14.39 vs gut mean 17.02
+MI02	MIMP3_g08476	L3 (CHIA-related)								Heart: log2 11.70 vs gut mean 16.42
+MI02	MIMP3_g08477	088393 fragment (g08477)								Heart: log2 13.06 vs gut mean nan
+MI02	MIMP3_g08478	L2 (CHI3L-clade inactive CLP, 088393)								Heart: log2 16.48 vs gut mean 17.58
+MI02	MIMP3_g08479	L1 (CHIT1-clade, 088392)								Heart: log2 14.17 vs gut mean 15.70
+MI02	MIMP3_g08469	088402a (GH18+CBM14)								Muscle: log2 12.98 vs gut mean 17.65
+MI02	MIMP3_g08470	088402b (GH18)								Muscle: not detected (gut mean nan)
+MI02	MIMP3_g08472	L7 (CHIA array)								Muscle: not detected (gut mean 15.96)
+MI02	MIMP3_g08473;MIMP3_g08474;MIMP3_g08475	L6 (CHIA array) + L5 (CHIA array) + L4 (CHIA array)								Muscle: not detected (gut mean 17.02)
+MI02	MIMP3_g08476	L3 (CHIA-related)								Muscle: log2 13.02 vs gut mean 16.42
+MI02	MIMP3_g08477	088393 fragment (g08477)								Muscle: not detected (gut mean nan)
+MI02	MIMP3_g08478	L2 (CHI3L-clade inactive CLP, 088393)								Muscle: log2 18.14 vs gut mean 17.58
+MI02	MIMP3_g08479	L1 (CHIT1-clade, 088392)								Muscle: log2 15.25 vs gut mean 15.70

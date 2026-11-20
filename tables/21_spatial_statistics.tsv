@@ -1,0 +1,15 @@
+# WITHDRAWN - do not cite these statistics.
+# The Kruskal-Wallis P = 5.8e-4 "small-intestine-dominant" result is PSEUDOREPLICATED: protein and
+# tissue-piece were pooled as independent observations. The manuscript uses paired per-protein
+# statistics instead (tables/31; DIA-NN version tables/58-62, median +1.75 log2, paired Wilcoxon
+# P = 0.031 over 6 protein groups in one animal).
+Category	Test	H	p_value	significant
+Chitinase (GH18)	Kruskal-Wallis	21.77	5.7851e-04	True
+Chitinase (GH18)	Mann-Whitney SI vs Hindgut	U=18604	1.7028e-03	True
+Chitinase (GH18)	Mann-Whitney SI vs Stomach	U=11047	1.8543e-03	True
+Hexosaminidase (GH20)	Kruskal-Wallis	2.37	7.9549e-01	False
+Hexosaminidase (GH20)	Mann-Whitney SI vs Hindgut	U=369	2.3704e-01	False
+Hexosaminidase (GH20)	Mann-Whitney SI vs Stomach	U=153	9.8755e-01	False
+GlcNAc metabolism	Kruskal-Wallis	5.70	3.3628e-01	False
+GlcNAc metabolism	Mann-Whitney SI vs Hindgut	U=17706	2.1872e-01	False
+GlcNAc metabolism	Mann-Whitney SI vs Stomach	U=9673	1.0854e-01	False

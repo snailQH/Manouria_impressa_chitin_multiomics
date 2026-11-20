@@ -1,0 +1,7 @@
+# KEGG level-1 category abundance (reads per million mapped; a gene counted once per category) on the single 32-sample catalogue, eggNOG-mapper KEGG_Pathway column; categories by map-number range (00010-00999 metabolism; 02xxx environmental information processing / cellular processes; 03xxx genetic information processing; 04xxx cellular processes / organismal systems; 05xxx human diseases; 01xxx global/overview maps excluded). Kruskal-Wallis across the three cohorts.
+level	category	DS01_mean_CPM	DS02_mean_CPM	DS03_mean_CPM	DS01_sd	DS02_sd	DS03_sd	kruskal_P
+level 1	Cellular processes / Organismal systems	25382.0	23910.3	26243.1	1089.8	2631.2	923.2	0.0211
+level 1	Environmental information processing	50013.4	45953.4	47057.7	4657.3	6267.2	3359.6	0.0276
+level 1	Genetic information processing	53487.7	43850.6	53556.2	7975.2	9268.0	2958.0	0.0161
+level 1	Human diseases	13134.8	12280.8	13340.0	973.2	2472.0	1078.8	0.1211
+level 1	Metabolism	185760.2	181087.8	187335.1	9038.2	14425.8	5988.0	0.1784

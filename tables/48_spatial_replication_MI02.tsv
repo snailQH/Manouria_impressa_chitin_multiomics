@@ -1,0 +1,10 @@
+# Replication check of the proximal host-chitinase pattern in the second animal (MI02, DS05, 2 tissue pieces per segment) with the
+# procedure of tables/31 (per-protein segment means, within-protein centring, paired tests over the six shared GI segments). GH18 curated (CTBS, CHID1-clade removed).
+animal	dataset	pieces_per_segment	category	n_proteins	segment_means_centred_log2	friedman_P	wilcoxon_SI_vs_hindgut_P	median_SI_minus_hindgut_log2	proteins_SI_gt_hindgut	peak_segment_counts
+MI01	Proteomics_1st_GI	3	Chitinase (GH18)	23	Stomach -0.24; Duodenum +0.36; Jejunum +0.36; Ileum +0.60; Colon +0.01; Rectum -1.09	0.000112	7.32e-05	+0.85	20/23	{'Ileum': 9, 'Stomach': 5, 'Jejunum': 3, 'Colon': 3, 'Duodenum': 2, 'Rectum': 1}
+MI01	Proteomics_1st_GI	3	Hexosaminidase (GH20)	3	Stomach +0.27; Duodenum -0.28; Jejunum +0.11; Ileum +0.14; Colon -0.23; Rectum -0.01	0.0354	0.75	+0.11	2/3	{'Stomach': 2, 'Ileum': 1}
+MI01	Proteomics_1st_GI	3	GlcNAc metabolism	25	Stomach -0.14; Duodenum +0.00; Jejunum +0.16; Ileum +0.13; Colon +0.16; Rectum -0.32	0.00321	0.0667	+0.15	16/25	{'Ileum': 7, 'Colon': 7, 'Stomach': 5, 'Jejunum': 4, 'Rectum': 1, 'Duodenum': 1}
+MI02	Proteomics_2nd_MultiTissue	2	Chitinase (GH18)	19	Stomach +0.07; Duodenum +0.54; Jejunum -0.20; Ileum -0.23; Colon +0.06; Rectum -0.24	0.572	0.241	+0.25	13/19	{'Duodenum': 7, 'Colon': 3, 'Jejunum': 3, 'Ileum': 3, 'Stomach': 2, 'Rectum': 1}
+MI02	Proteomics_2nd_MultiTissue	2	Hexosaminidase (GH20)	4	Stomach -0.58; Duodenum +0.54; Jejunum -0.15; Ileum -0.50; Colon +0.68; Rectum +0.01	0.00684	0.125	-0.39	0/4	{'Duodenum': 2, 'Rectum': 1, 'Colon': 1}
+MI02	Proteomics_2nd_MultiTissue	2	GlcNAc metabolism	25	Stomach -0.28; Duodenum -0.11; Jejunum +0.30; Ileum +0.22; Colon -0.06; Rectum -0.07	0.000544	0.0957	+0.17	16/25	{'Jejunum': 9, 'Ileum': 4, 'Duodenum': 4, 'Colon': 3, 'Rectum': 3, 'Stomach': 2}
+MI01 vs MI02	DS04 vs DS05	3 vs 2	Chitinase (GH18) — per-protein SI−hindgut contrast	11			Spearman rho=0.35, P=0.3		same sign in 8/11	

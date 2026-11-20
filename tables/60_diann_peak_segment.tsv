@@ -1,0 +1,274 @@
+animal	category	label	protein_group	peak_segment	peak_region	SI_minus_hindgut_log2	Stomach_log2	Duodenum_log2	Jejunum_log2	Ileum_log2	Colon_log2	Rectum_log2
+MI01	GH18 locus (catalytic)	088402a GH18+CBM14	host|MIMP3_g08469.t1	Duodenum	Small intestine	1.522	13.23	14.82	14.42	14.27	12.09	13.88
+MI01	GH18 locus (catalytic)	088402b GH18	host|MIMP3_g08470.t1	Duodenum	Small intestine	2.013	14.63	15.2	14.67	15.17	13.16	12.84
+MI01	GH18 locus (catalytic)	L1 088392 CHIT1-clade	host|MIMP3_g08479.t1	Ileum	Small intestine	1.585	15.18	15.34	15.21	15.48	14.06	13.46
+MI01	GH18 locus (catalytic)	L3 CHIA-related	host|MIMP3_g08476.t1	Ileum	Small intestine	1.772	18.39	20.45	20.36	21.18	20.22	17.57
+MI01	GH18 locus (catalytic)	L6 CHIA array + L5 CHIA array + L4 CHIA array	host|MIMP3_g08473.t1;host|MIMP3_g08474.t1;host|MIMP3_g08475.t1	Ileum	Small intestine	1.785	18.59	20.3	20.55	21.64	20.86	17.23
+MI01	GH18 locus (catalytic)	L7 CHIA array	host|MIMP3_g08472.t1	Ileum	Small intestine	1.729	17.07	19.17	19.05	19.97	19.18	16.15
+MI01	GH18 locus (inactive CLP)	L2 088393 CLP	host|MIMP3_g08478.t1	Stomach	Stomach	0.103	18.74	18.35	18.29	18.23	18.17	18.2
+MI01	other host GH18	CHID1	host|MIMP3_g08053.t1	Colon	Hindgut	-0.494	12.99	13.74	13.71	14.09	14.79	13.89
+MI01	other host GH18	CTBS	host|MIMP3_g13298.t1	Ileum	Small intestine	0.526	14.3	14.86	14.91	15.03	14.25	14.56
+MI01	GH20 hexosaminidase	HEXA	host|MIMP3_g15092.t1	Stomach	Stomach	-0.172	16.13	15.68	15.7	15.52	15.62	15.99
+MI01	GH20 hexosaminidase	HEXB	host|MIMP3_g10656.t1	Rectum	Hindgut	0.005	17.68	17.51	17.49	17.71	17.42	17.72
+MI01	GH20 hexosaminidase	HEXDC	host|MIMP3_g17845.t1	Rectum	Hindgut	-0.738	12.13	12.04	12.28	11.56	12.24	13.16
+MI01	GlcNAc metabolism	AMDHD2	host|MIMP3_g15168.t1	Duodenum	Small intestine	0.126	15.99	16.36	16.07	16.23	16.13	16.05
+MI01	GlcNAc metabolism	GFPT1	host|MIMP3_g04277.t2	Colon	Hindgut	0.525	17.2	19.09	19.11	19.26	19.61	17.65
+MI01	GlcNAc metabolism	GFPT2	host|MIMP3_g12618.t1	Duodenum	Small intestine	1.421	12.57	12.86	12.59	12.56	11.25	
+MI01	GlcNAc metabolism	GNPDA1	host|MIMP3_g12696.t1	Colon	Hindgut	-0.307	16.75	17.33	17.17	17.25	17.76	17.35
+MI01	GlcNAc metabolism	GNPDA2	host|MIMP3_g09296.t1	Stomach	Stomach	-0.317	15.8	15.31	15.24	15.14	15.46	15.63
+MI01	GlcNAc metabolism	GNPNAT1	host|MIMP3_g07074.t1	Ileum	Small intestine	0.367	10.15		12.49	12.7	11.87	12.59
+MI01	GlcNAc metabolism	NAGK	host|MIMP3_g08956.t1	Stomach	Stomach	-0.291	16.89	16.69	16.3	16.07	16.61	16.68
+MI01	GlcNAc metabolism	PGM3	host|MIMP3_g05854.t1	Jejunum	Small intestine	0.054	15.47	15.96	16.01	15.93	16.01	15.82
+MI01	GlcNAc metabolism	RENBP	host|MIMP3_g15716.t1	Stomach	Stomach	-0.234	16.92	16.76	16.37	16.39	16.71	16.78
+MI01	GlcNAc metabolism	UAP1	host|MIMP3_g12943.t1	Stomach	Stomach	-0.242	14.56	14.31	14.35	14.08	14.53	14.44
+MI01	metagenome	-	meta|HM.1.1_k141_116593_2;meta|HM.1.1_k141_9995_1;meta|ITF-2-1_k141_278362_2;meta|PM.1.2_k141_155448_7;meta|PM.1.2_k141_20381_2	Colon	Hindgut	-0.388	13.83	13.96	13.89	13.38	14.13	
+MI01	metagenome	-	meta|HM.1.1_k141_22286_61;meta|ITF-1-1_k141_298008_118;meta|PM.1.2_k141_96521_75	Stomach	Stomach	0.4	15.43	15.0	15.21		14.83	14.58
+MI01	metagenome	-	meta|HM.1.1_k141_77527_1;meta|ITF-1-1_k141_290676_3	Ileum	Small intestine	0.141	14.22	14.02	13.99	14.43	14.23	13.78
+MI01	metagenome	-	meta|HM.1.1_k141_89154_8;meta|ITF-1-4_k141_101308_2;meta|ITF-2-4_k141_38188_1;meta|ITF-2-5_k141_143657_8;meta|ITF-2-5_k141_325788_1	Duodenum	Small intestine	0.354	14.95	15.89	15.65	15.83	15.12	15.76
+MI01	metagenome	-	meta|HM.1.1_k141_93750_2;meta|ITF-1-4_k141_140006_2	Ileum	Small intestine		11.9	12.53	11.82	13.18		
+MI01	metagenome	-	meta|HM.1.2_k141_100319_1;meta|PM.2.2_k141_150068_4	Stomach	Stomach	-0.027	15.06	14.99	15.04		15.04	
+MI01	metagenome	-	meta|HM.1.2_k141_103722_6;meta|PM.1.2_k141_26047_2	Ileum	Small intestine	2.487	11.98	13.52	13.17	14.43	11.22	
+MI01	metagenome	-	meta|HM.1.2_k141_62386_2;meta|PM.1.2_k141_114356_1	Stomach	Stomach	0.406	20.41	20.2	20.31	20.39	19.84	19.96
+MI01	metagenome	-	meta|HM.1.2_k141_73368_1	Stomach	Stomach	-0.528	15.91	15.17	15.42	15.14	15.65	15.89
+MI01	metagenome	-	meta|HM.1.3_k141_159593_22;meta|PM.2.3_k141_191444_32	Duodenum	Small intestine	0.246	16.93	17.03	17.01	16.76	16.5	16.87
+MI01	metagenome	-	meta|HM.1.3_k141_26600_51;meta|ITF-1-1_k141_268855_52;meta|PM.1.1_k141_124075_51	Stomach	Stomach	0.724	14.84	14.22	14.45	14.1	13.36	13.7
+MI01	metagenome	-	meta|HM.1.3_k141_44890_4	Stomach	Stomach	0.206	13.41	12.79	13.29	12.2		12.56
+MI01	metagenome	-	meta|HM.1.3_k141_94772_9;meta|ITF-1-1_k141_105756_10;meta|PM.2.2_k141_184597_3	Rectum	Hindgut	-1.469	15.58	14.93	14.85	14.21	16.03	16.23
+MI01	metagenome	-	meta|HM.1.3_k141_99759_5;meta|ITF-1-2_k141_121115_5;meta|PM.2.1_k141_216076_4	Ileum	Small intestine	1.03		12.11	11.38	12.54		10.98
+MI01	metagenome	-	meta|HM.1.4_k141_3777_4;meta|ITF-2-1_k141_95417_116;meta|PM.1.1_k141_100125_2	Rectum	Hindgut	-1.578	16.82	16.09	16.49	16.69	17.8	18.2
+MI01	metagenome	-	meta|HM.1.4_k141_43614_2	Ileum	Small intestine	1.069	11.97	13.68	13.17	14.15	12.6	
+MI01	metagenome	-	meta|HM.1.4_k141_47399_1;meta|HM.1.4_k141_66462_46;meta|ITF-1-4_k141_37862_1;meta|PM.1.1_k141_44772_2	Rectum	Hindgut	-0.885	14.06	13.91	13.82	13.25	13.88	15.2
+MI01	metagenome	-	meta|HM.1.5_k141_107068_1	Ileum	Small intestine	0.867	14.23	13.79	14.3	14.73	12.46	14.35
+MI01	metagenome	-	meta|HM.1.7_k141_60435_1;meta|PM.1.2_k141_124816_2	Stomach	Stomach	0.485	13.41	12.89	12.87		12.56	12.23
+MI01	metagenome	-	meta|HM.1.8_k141_90770_1;meta|ITF-1-1_k141_318880_49;meta|PM.2.2_k141_101093_1	Jejunum	Small intestine	1.559	15.73	16.05	16.17	15.58	13.89	14.86
+MI01	metagenome	-	meta|HM.1.9_k141_110430_1;meta|ITF-1-2_k141_133505_1;meta|PM.2.3_k141_185208_1	Stomach	Stomach		13.0	12.65	12.75	12.98		
+MI01	metagenome	-	meta|HM.1.9_k141_188621_1	Rectum	Hindgut	-1.147	13.77	13.59	12.58	13.9	14.16	14.84
+MI01	metagenome	-	meta|HM.1.9_k141_65205_1	Colon	Hindgut	-0.944	14.88		13.97		15.9	13.93
+MI01	metagenome	-	meta|HM.2.1_k141_146245_3;meta|ITF-2-2_k141_195366_10	Rectum	Hindgut	-0.998			14.4	14.0	14.82	15.57
+MI01	metagenome	-	meta|HM.2.3_k141_122983_1	Ileum	Small intestine	0.295	11.46		11.92	12.92	12.27	11.97
+MI01	metagenome	-	meta|HM.2.3_k141_72660_2;meta|PM.2.1_k141_169593_1	Stomach	Stomach	0.465	16.01	15.37		15.68	15.9	14.21
+MI01	metagenome	-	meta|HM.2.4_k141_118500_5	Duodenum	Small intestine	0.506	13.51	15.56	15.28	15.05	15.33	14.25
+MI01	metagenome	-	meta|HM.2.4_k141_77416_1	Rectum	Hindgut	-2.439	19.31	17.72	17.79	17.35	19.92	20.2
+MI01	metagenome	-	meta|ITF-1-1_k141_230013_360	Rectum	Hindgut	-0.368	19.34	19.15	19.15	19.26	19.45	19.66
+MI01	metagenome	-	meta|ITF-1-1_k141_324994_4;meta|PM.2.4_k141_237103_4	Ileum	Small intestine	0.394	14.48		14.4	14.56	13.78	14.39
+MI01	metagenome	-	meta|ITF-1-1_k141_65759_2;meta|PM.2.4_k141_196563_2	Stomach	Stomach	0.482	18.6		18.05	17.44	17.26	
+MI01	metagenome	-	meta|ITF-1-1_k141_97760_2	Stomach	Stomach	-0.599	15.97	15.24	15.45	15.28	15.96	15.88
+MI01	metagenome	-	meta|ITF-1-4_k141_153733_7	Duodenum	Small intestine	0.837	17.27	18.48	17.43	17.13	16.71	16.98
+MI01	metagenome	-	meta|ITF-1-4_k141_235010_1	Ileum	Small intestine	0.477	13.2		13.47	13.68		13.1
+MI01	metagenome	-	meta|ITF-1-4_k141_24413_9	Jejunum	Small intestine	-0.009	16.88	17.07	17.08	16.79	17.04	16.94
+MI01	metagenome	-	meta|ITF-1-4_k141_300318_2	Stomach	Stomach		15.19	15.18	14.91	14.62		
+MI01	metagenome	-	meta|ITF-1-4_k141_58790_54	Ileum	Small intestine	1.446	11.64		12.6	13.53		11.62
+MI01	metagenome	-	meta|ITF-1-5_k141_113353_7	Colon	Hindgut	-1.213	14.65	14.32	14.28	14.29	16.56	14.46
+MI01	metagenome	-	meta|ITF-1-5_k141_136776_1	Stomach	Stomach	0.111	13.48	12.24	13.41	12.81	12.51	12.91
+MI01	metagenome	-	meta|ITF-1-5_k141_297624_1	Rectum	Hindgut	-0.34	15.21	15.01	15.51	15.89	15.63	15.99
+MI01	metagenome	-	meta|ITF-1-6_k141_146706_2	Rectum	Hindgut	-0.264	14.32	14.52	14.23	14.36		14.63
+MI01	metagenome	-	meta|ITF-1-6_k141_290893_1	Ileum	Small intestine	0.174	13.03	13.62	13.68	13.8	13.7	13.35
+MI01	metagenome	-	meta|ITF-1-6_k141_333412_1	Duodenum	Small intestine	0.71	12.84	13.7	12.88	13.63	12.53	12.86
+MI01	metagenome	-	meta|ITF-1-6_k141_58929_1	Duodenum	Small intestine	0.03	16.46	16.85	16.3	15.7	16.65	15.86
+MI01	metagenome	-	meta|ITF-2-1_k141_184668_4	Rectum	Hindgut	-1.371	12.44	11.49	12.49	11.17	12.99	13.19
+MI01	metagenome	-	meta|ITF-2-1_k141_248650_5	Rectum	Hindgut	-0.212	15.36	15.96	15.52	15.63	15.64	16.19
+MI01	metagenome	-	meta|ITF-2-1_k141_31399_1	Ileum	Small intestine	-0.331	11.03	10.49	11.07	12.35	11.64	
+MI01	metagenome	-	meta|ITF-2-3_k141_160867_15;meta|PM.1.2_k141_126530_5	Rectum	Hindgut	-0.681	16.99	17.04	17.22	17.2	17.54	18.14
+MI01	metagenome	-	meta|ITF-2-3_k141_275417_5	Rectum	Hindgut	-0.439	17.02	16.64	16.79	16.54	16.71	17.49
+MI01	metagenome	-	meta|ITF-2-4_k141_66174_1	Jejunum	Small intestine		12.87	14.24	15.03	14.26		
+MI01	metagenome	-	meta|PM.1.1_k141_97615_6	Rectum	Hindgut	-0.328	15.94	15.95	15.88	15.99	16.2	16.34
+MI01	metagenome	-	meta|PM.1.2_k141_30735_1	Rectum	Hindgut	-0.487	14.82	13.94	14.2	14.29	14.28	14.98
+MI01	metagenome	-	meta|PM.1.2_k141_36484_3	Duodenum	Small intestine	-0.468	12.8	13.1	11.42	12.63	12.85	
+MI01	metagenome	-	meta|PM.2.1_k141_195357_1	Jejunum	Small intestine	1.812	13.42	15.48	15.6	15.18	13.84	13.38
+MI01	metagenome	-	meta|PM.2.4_k141_238395_1	Colon	Hindgut	-0.356	12.12	12.73	12.08	12.21	12.76	12.63
+MI01	metagenome	AHCYL1	meta|ITF-1-1_k141_306314_1;meta|ITF-1-4_k141_256546_1	Jejunum	Small intestine	0.44	13.49	14.23	15.22	14.9	14.65	14.03
+MI01	metagenome	ATP2	meta|ITF-2-2_k141_138000_15	Colon	Hindgut	0.276	15.84	16.1	15.89	16.7	16.76	15.15
+MI01	metagenome	GCK	meta|HM.1.3_k141_110608_3;meta|ITF-1-2_k141_209268_14;meta|PM.1.1_k141_16692_3	Rectum	Hindgut	-0.386	18.72	18.46	18.5	18.58	18.57	19.22
+MI01	metagenome	amyA	meta|HM.1.1_k141_18333_32	Ileum	Small intestine	0.766	16.06	16.9	16.66	17.14	16.38	15.88
+MI01	metagenome	bglB	meta|ITF-1-5_k141_187929_1;meta|ITF-1-6_k141_198703_1	Jejunum	Small intestine	0.194	13.45	13.76	14.06	13.73	14.02	13.3
+MI01	metagenome	bglB	meta|PM.2.2_k141_104125_2	Rectum	Hindgut	-0.263	14.12	14.76	14.23	14.31	14.22	15.18
+MI01	metagenome	bglB/bglB_4	meta|HM.1.4_k141_52468_80;meta|HM.1.5_k141_90852_13;meta|HM.2.3_k141_88447_2;meta|ITF-1-1_k141_127924_45;meta|ITF-1-1_k141_129233_1;meta|PM.1.1_k141_32887_13;meta|PM.1.2_k141_189841_45	Ileum	Small intestine	0.285		12.05	11.04	12.79	11.68	
+MI01	metagenome	bglB_4	meta|ITF-1-4_k141_81970_5	Duodenum	Small intestine	1.037	10.58	13.0	12.77	12.84		11.84
+MI01	metagenome	bglH	meta|HM.1.5_k141_55428_2	Colon	Hindgut	-0.419		12.64	12.04	13.14	13.33	12.72
+MI01	metagenome	chvB3	meta|HM.2.1_k141_52156_2;meta|ITF-1-1_k141_108648_2;meta|PM.2.1_k141_197123_1	Duodenum	Small intestine	0.744	15.81	15.9	15.76	15.28	15.12	14.68
+MI01	metagenome	dpm1	meta|HM.1.3_k141_19452_6;meta|PM.2.2_k141_2944_2	Stomach	Stomach	0.36	16.12	16.03	16.07	15.98	15.83	15.51
+MI01	metagenome	glgA	meta|HM.1.1_k141_51620_2	Ileum	Small intestine	1.746		11.87	11.84	12.22	9.35	11.11
+MI01	metagenome	glgB	meta|HM.2.3_k141_81691_3;meta|ITF-1-1_k141_131220_59;meta|PM.1.2_k141_51775_18	Duodenum	Small intestine	0.428	14.18	14.92	14.57	14.84	14.43	14.27
+MI01	metagenome	glgB	meta|ITF-1-1_k141_128037_2	Duodenum	Small intestine	0.507	13.19	13.9	13.81	12.9	13.81	12.25
+MI01	metagenome	glgP	meta|HM.1.1_k141_153400_2;meta|HM.1.1_k141_15406_8;meta|HM.1.4_k141_39927_8;meta|HM.2.3_k141_171335_5;meta|ITF-1-1_k141_62752_62;meta|ITF-1-4_k141_95290_2;meta|ITF-2-1_k141_17772_2;meta|ITF-2-3_k141_75495_7;meta|PM.1.1_k141_30331_2;meta|PM.1.1_k141_67527_2;meta|PM.1.2_k141_126618_4;meta|PM.1.2_k141_31556_5;meta|PM.2.5_k141_177533_2	Ileum	Small intestine	-0.603	10.32	10.59		11.8		11.8
+MI01	metagenome	glgP	meta|HM.1.1_k141_42389_36;meta|ITF-2-1_k141_132301_56;meta|PM.1.1_k141_84721_14	Ileum	Small intestine	2.161	12.25	13.91	13.36	14.47	11.88	11.63
+MI01	metagenome	glgP	meta|HM.1.2_k141_106726_1	Ileum	Small intestine	1.709	13.42	13.71	13.66	14.79	11.86	12.84
+MI01	metagenome	glgP	meta|HM.1.3_k141_170444_1;meta|ITF-1-5_k141_66445_3;meta|ITF-2-1_k141_274391_3	Jejunum	Small intestine	0.918	14.53	14.59	14.84	14.62	14.48	13.04
+MI01	metagenome	glgP	meta|HM.1.3_k141_93947_1;meta|HM.2.4_k141_65605_1;meta|ITF-1-1_k141_75811_12;meta|ITF-2-2_k141_238722_9;meta|PM.1.1_k141_91581_1	Rectum	Hindgut	-0.979	15.47	14.71	14.63	14.53	15.36	15.85
+MI01	metagenome	glgP	meta|HM.1.7_k141_30959_56;meta|ITF-2-1_k141_289775_5;meta|PM.1.1_k141_168784_65	Colon	Hindgut	-1.356	13.93	13.05	13.56	11.09	13.93	13.92
+MI01	metagenome	glgP	meta|HM.2.3_k141_100522_1	Rectum	Hindgut	-0.632	14.72	14.01	14.67	13.46	14.54	14.82
+MI01	metagenome	glgP	meta|ITF-2-1_k141_110687_1	Rectum	Hindgut	-0.289	14.04	14.0	13.82	13.73	13.67	14.61
+MI01	metagenome	glgP	meta|ITF-2-1_k141_47607_2	Rectum	Hindgut	-0.626	16.48	16.36	16.3	16.2	16.36	17.46
+MI01	metagenome	glgP	meta|ITF-2-5_k141_93828_1	Ileum	Small intestine	2.207			15.1	15.42	12.52	13.58
+MI01	metagenome	glgP	meta|PM.2.4_k141_7719_33;meta|PM.2.5_k141_156192_2	Jejunum	Small intestine	0.525	15.26	15.46	15.87		15.33	14.95
+MI01	metagenome	glgX	meta|HM.1.3_k141_78073_2;meta|ITF-2-1_k141_85574_17	Colon	Hindgut	-0.155	15.31	14.82	15.43	14.89	15.99	14.41
+MI01	metagenome	glmS	meta|HM.1.1_k141_12009_23;meta|ITF-2-2_k141_205661_34;meta|ITF-2-2_k141_216700_23	Ileum	Small intestine	1.499	13.46	14.46	14.26	14.9	13.04	
+MI01	metagenome	glmS	meta|HM.1.4_k141_32464_4	Ileum	Small intestine	0.333	11.18	10.37	11.58	12.43	11.13	
+MI01	metagenome	glmS	meta|ITF-1-3_k141_822_3	Colon	Hindgut	-0.104	15.96	16.05	15.81	15.97	16.13	15.97
+MI01	metagenome	glmS	meta|ITF-2-3_k141_343689_7	Jejunum	Small intestine	-0.027		15.19	15.75	15.48	15.37	15.63
+MI01	metagenome	gmhA	meta|HM.1.1_k141_18333_33;meta|ITF-2-5_k141_48274_1;meta|PM.1.1_k141_145604_9	Ileum	Small intestine		13.52	14.28	14.2	15.23		
+MI01	metagenome	gmhA	meta|ITF-1-4_k141_120721_1	Ileum	Small intestine	0.375	16.4	16.05	15.87	16.65	16.17	15.47
+MI01	metagenome	gtrB	meta|ITF-1-4_k141_128266_1;meta|ITF-2-5_k141_169913_1	Rectum	Hindgut	0.106	13.05	12.91	13.07	13.04	12.54	13.26
+MI01	metagenome	lpg2	meta|PM.2.5_k141_66521_2	Stomach	Stomach	0.004	13.84	13.07	13.82	13.27	13.38	
+MI01	metagenome	lpxB	meta|PM.2.2_k141_115046_22	Ileum	Small intestine	0.554	14.82	15.62	15.74	16.0	14.98	15.48
+MI01	metagenome	malQ	meta|PM.1.2_k141_157631_2	Colon	Hindgut	-0.515	13.42	14.38	14.25	14.35	15.55	14.13
+MI01	metagenome	malS	meta|HM.2.1_k141_144440_1	Duodenum	Small intestine	0.586	17.63	18.46	17.83	17.64	17.61	17.18
+MI01	metagenome	mapA	meta|HM.1.4_k141_23224_2	Ileum	Small intestine	0.252		17.35	17.34	17.41	17.25	16.98
+MI01	metagenome	mngB	meta|ITF-1-3_k141_1143_2;meta|PM.2.5_k141_7894_1	Ileum	Small intestine	0.811	14.9		15.09	15.11	14.64	13.94
+MI01	metagenome	murG	meta|ITF-1-1_k141_187396_4;meta|ITF-2-1_k141_273189_14;meta|PM.1.1_k141_93246_3	Stomach	Stomach	0.124	14.34	14.15	14.04	13.92		13.91
+MI01	metagenome	murG	meta|ITF-1-5_k141_132382_1	Rectum	Hindgut	0.038	13.94	13.44	13.7	13.91	13.29	14.0
+MI01	metagenome	murG	meta|ITF-2-6_k141_97926_2	Rectum	Hindgut	-0.469	11.95	12.55	11.97	12.84		12.92
+MI01	metagenome	nagA	meta|HM.2.3_k141_137834_1;meta|ITF-2-1_k141_281635_5;meta|PM.1.1_k141_21561_2	Colon	Hindgut	-0.134	14.67	14.76	14.8	14.77	15.02	14.8
+MI01	metagenome	nagB	meta|HM.1.1_k141_133570_2	Ileum	Small intestine	0.698	12.91	14.46	14.3	15.02	13.93	13.87
+MI01	metagenome	nagB	meta|HM.1.1_k141_16417_10;meta|PM.1.1_k141_57595_36	Ileum	Small intestine	1.836	13.46	14.89	14.77	15.63	13.2	13.33
+MI01	metagenome	nagB	meta|HM.2.2_k141_20282_2;meta|ITF-1-1_k141_26256_3;meta|ITF-2-1_k141_2520_1;meta|PM.2.2_k141_192140_2	Rectum	Hindgut	-0.824	13.01		12.36		12.92	13.44
+MI01	metagenome	nagB	meta|HM.2.4_k141_31185_2	Ileum	Small intestine	0.389	16.06	15.63	15.96	16.08	15.51	15.49
+MI01	metagenome	nagB	meta|ITF-1-5_k141_113352_2	Colon	Hindgut	-0.027	15.96	16.51	16.38	16.28	16.62	16.21
+MI01	metagenome	nagB	meta|ITF-2-4_k141_245911_1	Stomach	Stomach	-0.516	19.07	18.47	18.59	18.05	18.8	18.97
+MI01	metagenome	nagB	meta|PM.1.2_k141_130245_3	Ileum	Small intestine	2.578	13.66	13.33	13.54	14.7	10.56	12.0
+MI01	metagenome	nagB	meta|PM.2.2_k141_194961_4	Ileum	Small intestine		11.53	12.48	12.75	13.5		
+MI01	metagenome	nagB	meta|PM.2.4_k141_38595_1	Duodenum	Small intestine		14.86	15.23	13.79	14.79		
+MI01	metagenome	nagZ3	meta|HM.1.1_k141_81581_2	Rectum	Hindgut	-0.359	16.23	15.88	15.94	15.73	15.79	16.63
+MI01	metagenome	nahA	meta|HM.2.1_k141_185396_2;meta|ITF-1-4_k141_255277_2	Jejunum	Small intestine	1.831			14.65	14.56	12.87	12.68
+MI01	metagenome	nanH	meta|HM.1.1_k141_89157_2	Stomach	Stomach	0.149	13.52	13.2	12.32	12.9	12.66	
+MI01	metagenome	nanH	meta|HM.1.2_k141_68595_1	Ileum	Small intestine	2.605	12.51	12.22	12.96	13.3		10.22
+MI01	metagenome	nanH	meta|ITF-2-1_k141_158011_2;meta|PM.1.2_k141_127797_2	Colon	Hindgut	-0.543		14.28	14.43	14.62	15.13	14.84
+MI01	metagenome	ndvB	meta|ITF-2-5_k141_135982_1	Stomach	Stomach	-0.736	16.89	15.45	16.03	16.28	16.71	16.61
+MI01	metagenome	nplT	meta|HM.1.3_k141_105434_1;meta|HM.2.2_k141_127577_1;meta|ITF-2-6_k141_410331_1;meta|PM.2.2_k141_136063_1	Ileum	Small intestine	1.202	16.1	16.16	16.11	16.69	15.46	14.78
+MI01	metagenome	pbpC	meta|ITF-2-3_k141_317156_8;meta|PM.2.3_k141_57850_8	Stomach	Stomach	-0.492	13.11	11.69	11.59			12.13
+MI01	metagenome	pbpC	meta|PM.1.2_k141_8704_2	Ileum	Small intestine	1.668	14.44	15.97	16.04	16.66	14.56	
+MI01	metagenome	pstP	meta|ITF-2-3_k141_356922_2	Stomach	Stomach	0.024	16.82	16.13	16.19	16.13	15.96	16.29
+MI01	metagenome	rsbW/waaC	meta|HM.1.1_k141_78636_2;meta|HM.1.3_k141_171366_3;meta|ITF-1-4_k141_351956_2	Duodenum	Small intestine	0.481	16.46	16.82	16.38	16.59	15.76	16.47
+MI01	metagenome	spr	meta|ITF-2-5_k141_315528_110	Stomach	Stomach	-0.384	15.36	15.25	14.63	14.5	15.27	15.09
+MI01	metagenome	susB	meta|HM.1.4_k141_57744_1	Ileum	Small intestine	2.307	11.68	13.58	13.43	14.51	11.53	
+MI01	metagenome	susB	meta|HM.1.4_k141_7175_2	Duodenum	Small intestine	0.371		13.93	13.41	12.95	13.17	12.94
+MI01	metagenome	susB	meta|ITF-1-4_k141_200560_2	Ileum	Small intestine	2.527	13.94	15.98	15.75	16.54	13.52	13.61
+MI01	metagenome	susB	meta|ITF-2-3_k141_145583_1	Ileum	Small intestine	2.504	12.27	14.52	14.48	15.3	13.05	11.48
+MI01	metagenome	tagA	meta|HM.1.3_k141_96518_4;meta|ITF-2-3_k141_25104_13;meta|ITF-2-5_k141_206698_1;meta|PM.2.2_k141_215129_1	Ileum	Small intestine	1.178	13.5	13.84	13.37	13.88	13.01	12.03
+MI01	metagenome	xyl3A_3	meta|ITF-1-2_k141_193237_1;meta|PM.2.4_k141_133614_5	Jejunum	Small intestine	0.503	11.99	12.36	12.57	12.45	11.94	11.96
+MI01	metagenome	xylS	meta|ITF-2-6_k141_248487_1	Rectum	Hindgut	0.331	10.77	11.46	11.11		10.1	11.8
+MI02	GH18 locus (catalytic)	088402a GH18+CBM14	host|MIMP3_g08469.t1	Duodenum	Small intestine	-0.27	15.63	20.64	16.96	16.22	19.85	16.57
+MI02	GH18 locus (catalytic)	L1 088392 CHIT1-clade	host|MIMP3_g08479.t1	Duodenum	Small intestine	-0.44	15.71	16.61	14.99	14.98	16.36	15.57
+MI02	GH18 locus (catalytic)	L3 CHIA-related	host|MIMP3_g08476.t1	Duodenum	Small intestine	0.205	18.88	19.01	14.47	14.55	16.15	15.45
+MI02	GH18 locus (catalytic)	L6 CHIA array + L5 CHIA array + L4 CHIA array	host|MIMP3_g08473.t1;host|MIMP3_g08474.t1;host|MIMP3_g08475.t1	Stomach	Stomach	0.354	19.98	19.83	15.1	14.79	16.67	15.76
+MI02	GH18 locus (catalytic)	L7 CHIA array	host|MIMP3_g08472.t1	Stomach	Stomach	0.803	18.79	18.75	14.37	14.03	15.27	14.55
+MI02	GH18 locus (inactive CLP)	L2 088393 CLP	host|MIMP3_g08478.t1	Stomach	Stomach	0.132	18.3	17.7	17.33	17.45	17.26	17.46
+MI02	other host GH18	CHID1	host|MIMP3_g08053.t1	Jejunum	Small intestine	0.482	13.82	12.91	14.2	14.18	13.26	13.3
+MI02	other host GH18	CTBS	host|MIMP3_g13298.t1	Duodenum	Small intestine	-0.07	14.89	16.02	14.93	14.8	15.64	15.0
+MI02	GH20 hexosaminidase	HEXA	host|MIMP3_g15092.t1	Colon	Hindgut	-0.753	14.91	15.75	14.96	14.93	16.39	15.54
+MI02	GH20 hexosaminidase	HEXB	host|MIMP3_g10656.t1	Colon	Hindgut	-0.434	18.24	19.08	18.1	17.88	19.18	18.4
+MI02	GH20 hexosaminidase	HEXDC	host|MIMP3_g17845.t1	Rectum	Hindgut	-0.729	13.26	13.29	12.42	11.91	13.23	13.3
+MI02	GlcNAc metabolism	AMDHD2	host|MIMP3_g15168.t1	Jejunum	Small intestine	0.685	15.78	16.08	16.92	16.68	15.83	15.92
+MI02	GlcNAc metabolism	GFPT1	host|MIMP3_g04277.t2	Ileum	Small intestine	0.646	17.72	16.78	17.88	18.68	16.92	17.34
+MI02	GlcNAc metabolism	GNPDA1	host|MIMP3_g12696.t1	Jejunum	Small intestine	0.21	17.11	17.17	18.17	17.82	17.64	17.39
+MI02	GlcNAc metabolism	GNPDA2	host|MIMP3_g09296.t1	Colon	Hindgut	-0.175	15.18	15.16	15.03	14.87	15.36	15.03
+MI02	GlcNAc metabolism	GNPNAT1	host|MIMP3_g07074.t1	Stomach	Stomach	0.377	14.05	13.93	13.76	13.9	12.97	14.0
+MI02	GlcNAc metabolism	NAGK	host|MIMP3_g08956.t1	Rectum	Hindgut	-0.633	17.32	16.33	16.86	16.62	17.07	17.41
+MI02	GlcNAc metabolism	PGM3	host|MIMP3_g05854.t1	Jejunum	Small intestine	0.656	16.16	15.37	16.96	16.62	15.21	16.12
+MI02	GlcNAc metabolism	RENBP	host|MIMP3_g15716.t1	Stomach	Stomach	-0.674	18.35	16.41	17.75	17.35	17.58	18.1
+MI02	GlcNAc metabolism	UAP1	host|MIMP3_g12943.t1	Colon	Hindgut	-0.912	13.75	13.23	13.62	13.78	14.56	14.35
+MI02	metagenome	-	meta|HM.1.1_k141_116593_2;meta|HM.1.1_k141_9995_1;meta|ITF-2-1_k141_278362_2;meta|PM.1.2_k141_155448_7;meta|PM.1.2_k141_20381_2	Stomach	Stomach	0.121	14.16	11.54	13.85	14.11	13.38	12.71
+MI02	metagenome	-	meta|HM.1.1_k141_77527_1;meta|ITF-1-1_k141_290676_3	Jejunum	Small intestine	0.048	14.76	14.45	15.21	15.08	14.67	15.06
+MI02	metagenome	-	meta|HM.1.2_k141_100305_2;meta|HM.1.4_k141_47511_2;meta|ITF-1-4_k141_120848_2;meta|ITF-1-4_k141_85935_9;meta|PM.1.2_k141_33245_2;meta|PM.1.2_k141_86077_2	Stomach	Stomach	0.653	14.84	14.22	13.23		14.27	11.87
+MI02	metagenome	-	meta|HM.1.2_k141_100319_1;meta|PM.2.2_k141_150068_4	Rectum	Hindgut	-0.305	15.07	14.72	15.15	14.69	15.0	15.31
+MI02	metagenome	-	meta|HM.1.2_k141_70910_1	Duodenum	Small intestine		13.02	13.35	11.83	13.02		
+MI02	metagenome	-	meta|HM.1.2_k141_73368_1	Colon	Hindgut	-0.756	14.35		13.87	13.1	14.6	13.88
+MI02	metagenome	-	meta|HM.1.3_k141_159593_22;meta|PM.2.3_k141_191444_32	Rectum	Hindgut	-0.305	16.65	16.19	16.3	16.9	16.59	16.94
+MI02	metagenome	-	meta|HM.1.3_k141_26600_51;meta|ITF-1-1_k141_268855_52;meta|PM.1.1_k141_124075_51	Rectum	Hindgut	-0.887	14.33	12.95	13.12	12.82	13.0	14.7
+MI02	metagenome	-	meta|HM.1.3_k141_44229_10;meta|PM.2.4_k141_87471_2	Jejunum	Small intestine	0.605	12.52	13.32	13.61	12.75	12.51	12.73
+MI02	metagenome	-	meta|HM.1.3_k141_44890_4	Duodenum	Small intestine	-0.635	16.6	18.96	14.73	14.95	17.73	15.97
+MI02	metagenome	-	meta|HM.1.3_k141_94772_9;meta|ITF-1-1_k141_105756_10;meta|PM.2.2_k141_184597_3	Stomach	Stomach	-1.713	18.87	15.05	16.67	16.33	16.97	18.49
+MI02	metagenome	-	meta|HM.1.3_k141_99759_5;meta|ITF-1-2_k141_121115_5;meta|PM.2.1_k141_216076_4	Duodenum	Small intestine	-1.037	11.76	15.05	12.62	12.3	14.37	14.35
+MI02	metagenome	-	meta|HM.1.4_k141_32392_19;meta|ITF-2-1_k141_27881_2	Duodenum	Small intestine	0.638	12.84	16.77	15.68	15.16	15.18	15.27
+MI02	metagenome	-	meta|HM.1.4_k141_33313_20	Rectum	Hindgut	-0.627		13.65	13.42	13.35		14.1
+MI02	metagenome	-	meta|HM.1.4_k141_3777_4;meta|ITF-2-1_k141_95417_116;meta|PM.1.1_k141_100125_2	Stomach	Stomach	-1.399	19.04	14.72	16.3	16.08	15.89	18.31
+MI02	metagenome	-	meta|HM.1.5_k141_107068_1	Colon	Hindgut	0.21	13.71		13.7	13.25	13.72	12.82
+MI02	metagenome	-	meta|HM.1.5_k141_71262_14	Jejunum	Small intestine	0.043	13.86	12.62	14.51	13.94	13.68	13.61
+MI02	metagenome	-	meta|HM.1.7_k141_60435_1;meta|PM.1.2_k141_124816_2	Rectum	Hindgut	-0.363	13.26	13.33	14.04			14.05
+MI02	metagenome	-	meta|HM.1.8_k141_90770_1;meta|ITF-1-1_k141_318880_49;meta|PM.2.2_k141_101093_1	Ileum	Small intestine	1.024	15.21		15.43	15.58	14.48	
+MI02	metagenome	-	meta|HM.1.9_k141_110430_1;meta|ITF-1-2_k141_133505_1;meta|PM.2.3_k141_185208_1	Ileum	Small intestine	0.162	13.4	13.45	13.51	13.73	13.31	13.5
+MI02	metagenome	-	meta|HM.1.9_k141_140299_1;meta|ITF-1-6_k141_209936_1	Rectum	Hindgut	-2.251	12.76	14.56	12.54	14.17	15.14	16.87
+MI02	metagenome	-	meta|HM.2.1_k141_146245_3;meta|ITF-2-2_k141_195366_10	Stomach	Stomach	-0.901	17.14	14.66	14.42	14.71	14.81	16.18
+MI02	metagenome	-	meta|HM.2.2_k141_107889_4;meta|PM.2.1_k141_69559_3	Stomach	Stomach	0.277	14.46		13.94	14.33	13.52	14.19
+MI02	metagenome	-	meta|HM.2.3_k141_122983_1	Ileum	Small intestine	-0.224	13.19	13.36	13.08	13.81	13.6	13.68
+MI02	metagenome	-	meta|HM.2.3_k141_146102_2;meta|ITF-1-4_k141_181426_2	Jejunum	Small intestine	0.848	15.81		16.25	16.08		15.32
+MI02	metagenome	-	meta|HM.2.3_k141_72660_2;meta|PM.2.1_k141_169593_1	Colon	Hindgut	-0.673	15.29	14.65	15.61	15.0	16.06	15.46
+MI02	metagenome	-	meta|HM.2.4_k141_118500_5	Colon	Hindgut	-1.028	16.08	16.95	15.11	16.24	17.62	16.63
+MI02	metagenome	-	meta|HM.2.4_k141_77416_1	Jejunum	Small intestine	1.893	18.74	14.54	19.07	18.55	15.55	15.44
+MI02	metagenome	-	meta|ITF-1-1_k141_170377_17;meta|PM.1.1_k141_121534_403	Jejunum	Small intestine	-0.482	13.77	12.91	14.36	14.05	14.16	14.35
+MI02	metagenome	-	meta|ITF-1-1_k141_230013_338;meta|PM.1.1_k141_58771_1;meta|PM.2.2_k141_133470_1	Rectum	Hindgut	0.361	15.27	14.92	15.42	15.35	14.19	15.56
+MI02	metagenome	-	meta|ITF-1-1_k141_230013_360	Rectum	Hindgut	-0.078	19.52	19.5	19.31	19.92	19.3	20.02
+MI02	metagenome	-	meta|ITF-1-1_k141_97760_2	Ileum	Small intestine	0.822		13.25	13.25	13.54		12.52
+MI02	metagenome	-	meta|ITF-1-4_k141_153733_7	Jejunum	Small intestine	0.094	17.08	17.05	17.31	16.9	16.87	17.12
+MI02	metagenome	-	meta|ITF-1-4_k141_300318_2	Stomach	Stomach	-0.362	15.24	14.24	13.79	14.6	14.58	14.56
+MI02	metagenome	-	meta|ITF-1-5_k141_136776_1	Rectum	Hindgut	-0.816	15.89	16.47	17.31	16.1	16.84	18.05
+MI02	metagenome	-	meta|ITF-1-6_k141_134283_36	Duodenum	Small intestine	1.629	12.7	14.23	12.89		11.93	
+MI02	metagenome	-	meta|ITF-1-6_k141_146706_2	Colon	Hindgut	-0.48	14.35		14.42	14.02	14.7	
+MI02	metagenome	-	meta|ITF-1-6_k141_17090_3	Colon	Hindgut	-0.295	10.48	11.87	11.7	11.18	11.88	11.87
+MI02	metagenome	-	meta|ITF-1-6_k141_255177_1	Stomach	Stomach	0.843	15.28		14.87	14.46		13.82
+MI02	metagenome	-	meta|ITF-1-6_k141_281321_1	Jejunum	Small intestine	-0.264		13.12	14.4	14.33	14.05	14.38
+MI02	metagenome	-	meta|ITF-1-6_k141_290893_1	Ileum	Small intestine	0.366	13.21	13.46	13.92	14.14	13.43	13.51
+MI02	metagenome	-	meta|ITF-1-6_k141_333412_1	Colon	Hindgut	-0.261	12.95	13.19			13.7	13.2
+MI02	metagenome	-	meta|ITF-1-6_k141_48987_2;meta|ITF-2-1_k141_268510_29;meta|PM.1.2_k141_146800_1;meta|PM.2.2_k141_96743_1	Colon	Hindgut	-0.254	15.67	15.84	15.01	15.57	15.85	15.6
+MI02	metagenome	-	meta|ITF-2-1_k141_131195_112	Stomach	Stomach	-0.302	15.05	13.36		13.39		13.68
+MI02	metagenome	-	meta|ITF-2-1_k141_184668_4	Stomach	Stomach	-1.387	16.84	13.11	14.75	14.48	14.72	16.28
+MI02	metagenome	-	meta|ITF-2-1_k141_248650_5	Stomach	Stomach	-0.268	15.72	14.9	15.21	15.53		15.49
+MI02	metagenome	-	meta|ITF-2-2_k141_29674_27	Ileum	Small intestine	0.552	14.54	14.14	14.61	14.72	13.16	14.71
+MI02	metagenome	-	meta|ITF-2-3_k141_160867_15;meta|PM.1.2_k141_126530_5	Rectum	Hindgut	-1.15	17.78	15.81	17.13	16.55	17.03	18.26
+MI02	metagenome	-	meta|ITF-2-3_k141_275417_5	Stomach	Stomach	-0.466	18.3	16.29	17.05	16.28	16.26	17.75
+MI02	metagenome	-	meta|ITF-2-3_k141_438904_3	Colon	Hindgut	-1.144	16.32	12.51	15.94	15.81	16.34	15.45
+MI02	metagenome	-	meta|ITF-2-4_k141_66174_1	Jejunum	Small intestine	1.603	15.88	18.12	19.24	18.96	16.62	17.73
+MI02	metagenome	-	meta|PM.1.2_k141_171061_3	Rectum	Hindgut	-0.728	14.14	12.86	14.1	13.76	13.45	15.16
+MI02	metagenome	-	meta|PM.1.2_k141_30735_1	Ileum	Small intestine	0.202	13.18	13.78	13.9	13.9	13.56	13.76
+MI02	metagenome	-	meta|PM.1.2_k141_36484_3	Jejunum	Small intestine	0.521	12.95	13.15	13.37	12.28	12.64	12.19
+MI02	metagenome	-	meta|PM.2.2_k141_80763_2	Jejunum	Small intestine	0.738	14.14	12.96	14.33	13.58		12.88
+MI02	metagenome	-	meta|PM.2.3_k141_52966_59	Colon	Hindgut	-0.827	15.07	13.81	13.41		16.73	12.15
+MI02	metagenome	ATP2	meta|ITF-2-2_k141_138000_15	Stomach	Stomach	1.26	18.05	17.27	17.16	17.58	15.24	16.92
+MI02	metagenome	GCK	meta|HM.1.3_k141_110608_3;meta|ITF-1-2_k141_209268_14;meta|PM.1.1_k141_16692_3	Stomach	Stomach	-0.447	18.51	17.07	18.0	17.6	17.9	18.11
+MI02	metagenome	amyA	meta|HM.1.1_k141_18333_32	Colon	Hindgut	-0.475	15.28	15.27	15.88	15.96	16.24	16.12
+MI02	metagenome	bglH	meta|HM.1.5_k141_55428_2	Duodenum	Small intestine	-0.9	16.4	16.67		11.55	15.02	15.0
+MI02	metagenome	chvB3	meta|HM.2.1_k141_52156_2;meta|ITF-1-1_k141_108648_2;meta|PM.2.1_k141_197123_1	Ileum	Small intestine	0.575	14.11		14.47	14.84		14.08
+MI02	metagenome	fucA1	meta|ITF-2-3_k141_364763_21;meta|ITF-2-4_k141_13961_2;meta|ITF-2-6_k141_31034_2	Duodenum	Small intestine	0.17	16.27	17.08	16.9	15.96	16.8	16.15
+MI02	metagenome	glgA	meta|HM.1.1_k141_51620_2	Duodenum	Small intestine	0.507	11.19	12.18	11.69	10.56	10.97	
+MI02	metagenome	glgA	meta|HM.1.9_k141_21879_2;meta|ITF-1-1_k141_439_22;meta|PM.1.2_k141_46143_1	Colon	Hindgut	-1.441	12.44	10.56	10.13	11.3	12.83	11.39
+MI02	metagenome	glgB	meta|HM.2.3_k141_81691_3;meta|ITF-1-1_k141_131220_59;meta|PM.1.2_k141_51775_18	Duodenum	Small intestine	-0.718		14.28	12.82	13.17	14.14	
+MI02	metagenome	glgB	meta|ITF-1-1_k141_128037_2	Stomach	Stomach	-0.951	16.29	15.42	12.47	12.81	14.84	14.2
+MI02	metagenome	glgB	meta|ITF-1-1_k141_309929_10	Jejunum	Small intestine	0.324	12.34		12.73	12.73		12.41
+MI02	metagenome	glgP	meta|HM.1.3_k141_170444_1;meta|ITF-1-5_k141_66445_3;meta|ITF-2-1_k141_274391_3	Colon	Hindgut	-1.386	13.9	12.68	13.76	13.37	14.81	14.5
+MI02	metagenome	glgP	meta|HM.1.3_k141_93947_1;meta|HM.2.4_k141_65605_1;meta|ITF-1-1_k141_75811_12;meta|ITF-2-2_k141_238722_9;meta|PM.1.1_k141_91581_1	Rectum	Hindgut	-0.569	16.86	15.57	16.08	15.94	15.98	16.88
+MI02	metagenome	glgP	meta|HM.1.7_k141_30959_56;meta|ITF-2-1_k141_289775_5;meta|PM.1.1_k141_168784_65	Colon	Hindgut	-0.737	13.49	13.74	13.66	13.66	14.43	14.41
+MI02	metagenome	glgP	meta|HM.2.3_k141_100522_1	Stomach	Stomach	-1.306	17.84	16.08	16.36	16.44	17.59	17.61
+MI02	metagenome	glgP	meta|ITF-2-1_k141_110687_1	Rectum	Hindgut	-0.35	13.61	13.85	13.64	13.64	13.44	14.69
+MI02	metagenome	glgP	meta|ITF-2-1_k141_47607_2	Stomach	Stomach	-0.753	16.94	14.82	15.44	15.58	15.43	16.64
+MI02	metagenome	glgP	meta|ITF-2-5_k141_93828_1	Rectum	Hindgut	-0.646	15.74	15.37	15.45	15.01	15.58	16.26
+MI02	metagenome	glmS	meta|HM.1.1_k141_12009_23;meta|ITF-2-2_k141_205661_34;meta|ITF-2-2_k141_216700_23	Stomach	Stomach	0.066	15.22	12.51	13.81	13.77	12.66	13.94
+MI02	metagenome	glmS	meta|ITF-1-1_k141_183707_60	Rectum	Hindgut	-0.277	17.16	16.91	16.66	16.21	16.5	17.24
+MI02	metagenome	glmS	meta|ITF-1-3_k141_822_3	Duodenum	Small intestine	-0.284	14.36	14.69	14.47	12.61	14.49	13.93
+MI02	metagenome	gmhA	meta|ITF-1-4_k141_120721_1	Colon	Hindgut	-0.025		14.78	14.81	14.85	14.91	14.76
+MI02	metagenome	lpg2	meta|PM.2.5_k141_66521_2	Jejunum	Small intestine	0.34	14.92	14.02	15.4	14.9	13.62	15.25
+MI02	metagenome	malS	meta|HM.2.1_k141_144440_1	Stomach	Stomach	0.191	18.94	16.07	18.77	18.81	17.26	18.12
+MI02	metagenome	mapA	meta|HM.1.4_k141_23224_2	Jejunum	Small intestine	1.01	16.97		17.34	17.25		16.29
+MI02	metagenome	mngB	meta|ITF-1-3_k141_1143_2;meta|PM.2.5_k141_7894_1	Jejunum	Small intestine	1.782	13.6	13.23	14.75	14.11	12.25	
+MI02	metagenome	murG	meta|ITF-1-5_k141_132382_1	Rectum	Hindgut	-0.478	14.34	13.59		14.88	14.4	15.02
+MI02	metagenome	murG	meta|ITF-2-2_k141_48706_1	Jejunum	Small intestine	-0.293	13.15	11.29	13.82	13.23	13.4	12.74
+MI02	metagenome	murG	meta|ITF-2-3_k141_139470_1;meta|PM.1.1_k141_133124_2	Jejunum	Small intestine	0.855	12.99		13.83	13.82	12.97	
+MI02	metagenome	murG	meta|ITF-2-6_k141_97926_2	Colon	Hindgut	-2.517	12.52			11.65	14.33	14.01
+MI02	metagenome	nagA	meta|HM.1.4_k141_32689_3	Stomach	Stomach	-0.069	12.76	9.28	10.84		10.13	
+MI02	metagenome	nagA	meta|HM.2.3_k141_137834_1;meta|ITF-2-1_k141_281635_5;meta|PM.1.1_k141_21561_2	Rectum	Hindgut	-0.254	15.06	13.24	14.7	14.85	13.74	15.3
+MI02	metagenome	nagA	meta|PM.2.4_k141_207020_1	Rectum	Hindgut	-0.455	13.65		13.58	13.59	13.8	14.28
+MI02	metagenome	nagB	meta|HM.1.1_k141_45330_31;meta|ITF-2-3_k141_338658_17	Rectum	Hindgut	-0.954	13.48		14.34	14.07	14.84	15.48
+MI02	metagenome	nagB	meta|HM.1.5_k141_59966_122	Ileum	Small intestine	0.839	11.16	12.04	11.99	13.28	11.0	12.19
+MI02	metagenome	nagB	meta|HM.2.4_k141_31185_2	Stomach	Stomach	-0.572	16.43	13.97	15.15	15.02	14.89	15.68
+MI02	metagenome	nagB	meta|ITF-1-5_k141_113352_2	Colon	Hindgut	-0.282	15.77	14.43	15.54	15.64	15.84	15.12
+MI02	metagenome	nagB	meta|ITF-2-4_k141_245911_1	Colon	Hindgut	-0.256	18.47	18.09	18.64	18.69	18.82	18.63
+MI02	metagenome	nagB	meta|PM.1.2_k141_130245_3	Duodenum	Small intestine	2.113	13.19	13.23	12.58		12.28	9.3
+MI02	metagenome	nagZ3	meta|HM.1.1_k141_81581_2	Stomach	Stomach	-0.465	17.3	16.13	15.99	15.63	15.91	16.86
+MI02	metagenome	nahA	meta|HM.2.1_k141_185396_2;meta|ITF-1-4_k141_255277_2	Duodenum	Small intestine	-0.077	14.92	15.16	13.86		14.45	14.73
+MI02	metagenome	nanH	meta|HM.1.1_k141_122664_2;meta|HM.1.2_k141_97391_5;meta|HM.1.3_k141_131693_11;meta|HM.1.3_k141_87024_4;meta|HM.1.4_k141_42694_3;meta|ITF-1-1_k141_189799_11;meta|ITF-1-1_k141_91824_60;meta|PM.1.1_k141_112383_6;meta|PM.1.2_k141_51335_4;meta|PM.2.1_k141_101513_60	Duodenum	Small intestine	1.565	13.13	13.86	13.53	11.78	11.23	11.75
+MI02	metagenome	nanH	meta|HM.1.1_k141_89157_2	Duodenum	Small intestine	0.274	13.15	14.42	12.98		13.58	13.27
+MI02	metagenome	nanH	meta|PM.2.3_k141_114839_1	Colon	Hindgut	-0.235	17.62	18.63	17.87	17.71	18.73	17.88
+MI02	metagenome	ndvB	meta|ITF-2-5_k141_135982_1	Colon	Hindgut	-0.926	16.42	15.93	14.9	14.84	16.62	15.68
+MI02	metagenome	pstP	meta|ITF-2-3_k141_356922_2	Stomach	Stomach	-0.175	17.15	16.1	16.32	15.66	15.52	16.89
+MI02	metagenome	susB	meta|HM.1.4_k141_7175_2	Stomach	Stomach	-0.292	15.51	14.01	14.03	13.88	14.34	14.2
+MI02	metagenome	tagA	meta|HM.1.3_k141_96518_4;meta|ITF-2-3_k141_25104_13;meta|ITF-2-5_k141_206698_1;meta|PM.2.2_k141_215129_1	Jejunum	Small intestine	-0.342	14.58	14.42	15.77	14.88	15.44	15.29
+MI02	metagenome	tagL	meta|HM.2.4_k141_118276_1;meta|ITF-2-3_k141_290236_1	Duodenum	Small intestine	-0.259	17.72	18.61	16.97	17.06	18.15	17.47

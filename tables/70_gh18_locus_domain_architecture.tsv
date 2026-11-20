@@ -1,0 +1,20 @@
+# Pfam-A 39.0 (hmmscan, HMMER 3.4, gathering thresholds) domain architecture of the twelve Mimp_v3 models of the chr4 GH18 locus and the four human GH18 paralogs; catalytic motif = DxxDxDxE located
+# inside the Glyco_hydro_18 domain (position in the protein). g08468 is TAF8 (Bromo_TP + TAF8_C): the N-terminal third of the fused 1,160-aa model 088402 is a transcription-factor subunit, not a chitinase.
+# No signal-peptide prediction was performed. scripts/reanalysis_2026-11/domain_architecture_hmmscan.sh; scripts/domain_architecture_table.py
+protein	locus	clade	length	domains	n_GH18_domains	CBM14	catalytic_motif
+MIMP3_g08468.t1	088402 (v1 N-terminal third)	TAF8	303	Bromo_TP PF07524 28-101 (E=4.4e-29); TAF8_C PF10406 141-189 (E=2.5e-21)	0	no	
+MIMP3_g08469.t1	088402a (v1 domain 1)	reptile lineage	471	Glyco_hydro_18 PF00704 23-364 (E=1.0e-78); CBM_14 PF01607 423-470 (E=2.9e-10)	1	yes	DGIDLDFE (134-141)
+MIMP3_g08470.t1	088402b (v1 domain 2)	reptile lineage	387	Glyco_hydro_18 PF00704 23-363 (E=5.7e-83)	1	no	DGLDLDWE (133-140)
+MIMP3_g08471.t1	fragment between 088402 and L7	—	191	Glyco_hydro_18 PF00704 23-123 (E=1.4e-18)	1	no	DGIDLDFE (115-122)
+MIMP3_g08472.t1	L7	CHIA array	389	Glyco_hydro_18 PF00704 25-365 (E=2.4e-80)	1	no	DGIDFDWE (133-140)
+MIMP3_g08473.t1	L6	CHIA array	485	Glyco_hydro_18 PF00704 25-365 (E=1.9e-83); CBM_14 PF01607 439-485 (E=2.3e-09)	1	yes	DGLDFDWE (133-140)
+MIMP3_g08474.t1	L5	CHIA array	485	Glyco_hydro_18 PF00704 25-365 (E=1.9e-83); CBM_14 PF01607 439-485 (E=2.3e-09)	1	yes	DGLDFDWE (133-140)
+MIMP3_g08475.t1	L4	CHIA array	476	Glyco_hydro_18 PF00704 25-365 (E=1.8e-83); CBM_14 PF01607 430-476 (E=2.2e-09)	1	yes	DGLDFDWE (133-140)
+MIMP3_g08476.t1	L3	CHIA-related	476	Glyco_hydro_18 PF00704 23-365 (E=7.0e-81); CBM_14 PF01607 430-476 (E=1.0e-07)	1	yes	DGLDIDWE (133-140)
+MIMP3_g08477.t1	088393 fragment (v1 C-terminal part)	CHI3L lineage	243	Glyco_hydro_18 PF00704 23-100 (E=1.6e-15); Glyco_hydro_18 PF00704 106-237 (E=3.6e-11)	2	no	no DxxDxDxE in the GH18 domain
+MIMP3_g08478.t1	088393 / L2	CHI3L lineage CLP	386	Glyco_hydro_18 PF00704 23-359 (E=1.8e-82)	1	no	no DxxDxDxE in the GH18 domain
+MIMP3_g08479.t1	088392 / L1	CHIT1/CHI3L lineage	482	Glyco_hydro_18 PF00704 23-363 (E=6.8e-89); CBM_14 PF01607 436-482 (E=5.2e-08)	1	yes	DGLDLDWE (133-140)
+sp|Q9BZP6|CHIA_HUMAN	CHIA	human	476	Glyco_hydro_18 PF00704 24-365 (E=7.9e-84); CBM_14 PF01607 430-476 (E=5.3e-07)	1	yes	DGLDFDWE (133-140)
+sp|Q13231|CHIT1_HUMAN	CHIT1	human	466	Glyco_hydro_18 PF00704 23-363 (E=1.2e-93); CBM_14 PF01607 420-465 (E=5.7e-09)	1	yes	DGLDLDWE (133-140)
+sp|P36222|CH3L1_HUMAN	CHI3L1	human	383	Glyco_hydro_18 PF00704 23-357 (E=6.5e-89)	1	no	no DxxDxDxE in the GH18 domain
+sp|Q15782|CH3L2_HUMAN	CHI3L2	human	390	Glyco_hydro_18 PF00704 28-365 (E=1.9e-80)	1	no	no DxxDxDxE in the GH18 domain

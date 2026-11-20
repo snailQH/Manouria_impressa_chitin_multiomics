@@ -1,0 +1,15 @@
+# GH18 chitinase loci on M. impressa chromosome 3 (GWHHIVU00000003.1), 12.40-12.63 Mb.
+# Annotated = maker gene models in GWHHIVU00000000.1.gff. Unannotated = loci found by tBLASTn of vertebrate GH18 proteins
+# against the genome assembly and modelled with miniprot 0.13. Identity = miniprot identity to the
+# best template. unique_peptides = DS04 gut-wall peptides (vendor proxy search) that match this locus and no annotated protein
+# (chr3 annotated loci: peptides matching that gene model). Peptides shared between near-identical CHIA copies are counted for every copy they match.
+# Clade = placement in the 162-sequence GH18 phylogeny (results/phylogeny/v2).
+locus	clade	start	end	strand	status	catalytic_motif	best_template	unique_peptides
+088392	CHIT1-clade	12417829	12434228	+	annotated	intact	maker_gene_088392; G. agassizii J5Y4 96%	9
+088393	CHI3L-clade CLP	12437363	12467918	+	annotated	inactive (FDGLDVAWI)	maker_gene_088393; G. agassizii J5Y9 98% (386 aa)	15
+L3	GT31-type GH18	12470981	12478405	+	unannotated	intact	A0A8C0GT31 94%	7
+L4	CHIA-clade copy 1	12494987	12499929	+	unannotated	intact	A. mississippiensis CHIA-like 78%; chicken CHIA 79%	6
+L5	CHIA-clade copy 2	12520974	12528875	+	unannotated	intact	chicken CHIA 79% (0 fs); C. abingdonii IQR7 86% (1 fs)	6
+L6	CHIA-clade copy 3	12541905	12549789	+	unannotated	intact	chicken CHIA 79% (0 fs); C. abingdonii IQR7 86% (1 fs)	6
+L7	CHIA-clade copy 4	12562928	12570116	+	unannotated	intact motif; stop at codon 416	C. picta HVV4 94%; C. abingdonii GYH2 93%; human CHIA 80%	4
+088402	reptile GH18 (2 domains)	12586602	12621407	-	annotated	intact x2	maker_gene_088402; C. abingdonii IRF1 99% (364 aa)	21

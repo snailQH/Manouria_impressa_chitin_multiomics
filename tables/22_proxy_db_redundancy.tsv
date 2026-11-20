@@ -1,0 +1,127 @@
+# PROVENANCE ONLY - NOT the manuscript's numbers.
+# Redundancy within the provider's proxy protein database. Superseded by tables/50-52.
+Accession	Proxy_species	Category	Batch	Tissue_Pattern
+A0A8C0FXB1	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Jejunum _2 (18.5), Avg: 17.7
+A0A8C0FXB1	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (21.4), Avg: 19.6
+A0A8C0GB91	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Rectum_2 (17.5), Avg: 16.8
+A0A8C0GB91	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_2 (21.1), Avg: 18.3
+A0A8C0GT19	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Ileum_1 (18.7), Avg: 17.1
+A0A8C0GT19	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (19.3), Avg: 17.6
+A0A8C0GT31	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_1 (25.7), Avg: 23.7
+A0A8C0GT31	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (24.4), Avg: 20.5
+A0A8C0GVS2	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (21.4), Avg: 20.5
+A0A8C0GVS2	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (21.3), Avg: 20.4
+A0A8C0GYH2	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_1 (19.4), Avg: 17.1
+A0A8C0GYH2	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Rectum_1 (19.0), Avg: 18.1
+A0A8C0H615	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Rectum_2 (18.8), Avg: 18.0
+A0A8C0H615	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Colon_2 (20.5), Avg: 19.1
+A0A8C0H984	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Jejunum _2 (19.5), Avg: 19.1
+A0A8C0H984	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_1 (20.7), Avg: 19.5
+A0A8C0HDM8	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Duodenum_3 (16.9), Avg: 16.0
+A0A8C0IQR7	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_1 (26.3), Avg: 23.8
+A0A8C0IQR7	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (24.6), Avg: 21.3
+A0A8C0IRF1	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Ileum_2 (19.3), Avg: 17.7
+A0A8C0JD36	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Jejunum _2 (17.3), Avg: 15.2
+A0A8C0JDS2	Chelonoidis abingdonii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Jejunum _2 (19.1), Avg: 18.2
+A0A452H600	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Liver_2 (19.5), Avg: 17.7
+A0A452HHD9	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (18.8), Avg: 18.2
+A0A452HHD9	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Rectum_2 (17.8), Avg: 17.4
+A0A452HQI7	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Duodenum_2 (18.0), Avg: 17.6
+A0A452HXA7	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (24.0), Avg: 20.2
+A0A452HXC3	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Jejunum_1 (18.0), Avg: 17.3
+A0A452I0B1	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Jejunum_1 (21.6), Avg: 20.0
+A0A452IFZ5	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (17.1), Avg: 16.0
+A0A452IIW8	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_1 (20.8), Avg: 19.1
+A0A452IJV2	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_3 (22.1), Avg: 19.9
+A0A452IJV2	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Stomach_2 (22.7), Avg: 19.7
+A0A452INA1	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Duodenum_3 (16.7), Avg: 15.3
+A0A452IQE0	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (18.5), Avg: 17.4
+A0A452IQE0	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_2 (21.2), Avg: 19.3
+A0A452J3X8	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Ileum_2 (18.9), Avg: 17.6
+A0A452J3Y4	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (19.6), Avg: 18.2
+A0A452J5Y4	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (20.2), Avg: 18.4
+A0A452J5Y4	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (22.0), Avg: 20.2
+A0A452J5Y9	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (23.0), Avg: 22.1
+A0A452J5Y9	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Stomach_1 (23.0), Avg: 22.0
+A0A452J610	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_1 (21.2), Avg: 18.6
+A0A452J618	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Colon_1 (19.2), Avg: 17.4
+A0A452J618	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (20.4), Avg: 18.8
+A0A452J623	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (19.4), Avg: 17.6
+A0A452J628	Gopherus agassizii	Chitinase (GH18)	Proteomics_1st_GI	Highest: Duodenum_2 (18.4), Avg: 17.2
+A0A452J628	Gopherus agassizii	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Colon_1 (26.2), Avg: 21.4
+A0A8C4VUR2	Gopherus evgoodei	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_2 (20.3), Avg: 19.2
+A0A8C4W3R2	Gopherus evgoodei	Chitinase (GH18)	Proteomics_1st_GI	Highest: Stomach_1 (17.5), Avg: 16.0
+A0A8C4W3R2	Gopherus evgoodei	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Heart_2 (18.9), Avg: 17.1
+A0A8C4WCK7	Gopherus evgoodei	Chitinase (GH18)	Proteomics_1st_GI	Highest: Ileum_1 (18.6), Avg: 18.0
+A0A8C4WCK7	Gopherus evgoodei	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (21.0), Avg: 19.6
+A0A8C4WPP6	Gopherus evgoodei	Chitinase (GH18)	Proteomics_2nd_MultiTissue	Highest: Rectum_2 (19.5), Avg: 18.4
+A0A8C0G358	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_1 (21.6), Avg: 20.6
+A0A8C0G3V7	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _3 (18.5), Avg: 17.7
+A0A8C0GCP6	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Rectum_2 (23.3), Avg: 21.8
+A0A8C0GII7	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_1 (18.9), Avg: 18.2
+A0A8C0GZZ8	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_3 (16.2), Avg: 15.3
+A0A8C0H262	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_1 (18.6), Avg: 17.8
+A0A8C0H262	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (20.6), Avg: 18.1
+A0A8C0H2Y6	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (20.7), Avg: 18.3
+A0A8C0H5J5	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Rectum_1 (16.5), Avg: 14.9
+A0A8C0H8Q7	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Duodenum_1 (20.1), Avg: 19.6
+A0A8C0INH8	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Rectum_1 (20.1), Avg: 19.6
+A0A8C0INH8	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Colon_1 (18.9), Avg: 17.4
+A0A8C0J888	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (19.5), Avg: 18.5
+A0A8C0JCB8	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _2 (18.5), Avg: 17.7
+A0A8C0JCB8	Chelonoidis abingdonii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Ileum_2 (19.9), Avg: 18.1
+A0A452GGF0	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_1 (17.8), Avg: 17.1
+A0A452GI91	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_2 (18.2), Avg: 17.5
+A0A452GI91	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_1 (18.8), Avg: 17.7
+A0A452GPI7	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Duodenum_2 (18.8), Avg: 18.0
+A0A452H753	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _3 (21.1), Avg: 20.0
+A0A452HAF8	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_1 (16.7), Avg: 15.7
+A0A452HAG1	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (17.3), Avg: 16.6
+A0A452HK30	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_1 (20.3), Avg: 19.5
+A0A452HK30	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (21.9), Avg: 20.6
+A0A452HMM9	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_1 (17.0), Avg: 16.0
+A0A452HMQ8	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (21.0), Avg: 19.5
+A0A452HNY9	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_2 (23.6), Avg: 22.3
+A0A452HNY9	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Ileum_2 (24.4), Avg: 21.8
+A0A452HS00	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_2 (18.0), Avg: 17.4
+A0A452I3N2	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_2 (21.7), Avg: 21.2
+A0A452I3N2	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (20.4), Avg: 19.0
+A0A452I8U9	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_1 (19.2), Avg: 18.6
+A0A452I8U9	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (18.3), Avg: 17.1
+A0A452I9U0	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (19.6), Avg: 18.9
+A0A452IE06	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_2 (18.4), Avg: 16.9
+A0A452IE06	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_1 (18.9), Avg: 17.9
+A0A452IH75	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Ileum_2 (18.5), Avg: 18.1
+A0A452IPH5	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_3 (17.9), Avg: 17.5
+A0A452IPY5	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Rectum_2 (17.7), Avg: 17.1
+A0A452IVP5	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Rectum_1 (19.3), Avg: 18.6
+A0A452IVP5	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Heart_2 (19.4), Avg: 18.9
+A0A452IYM7	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _2 (16.7), Avg: 15.5
+A0A452IYM7	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Stomach_1 (19.2), Avg: 17.7
+A0A452J2D3	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_1 (20.6), Avg: 19.9
+A0A452J2D3	Gopherus agassizii	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (21.5), Avg: 20.0
+A0A452J5J9	Gopherus agassizii	GlcNAc metabolism	Proteomics_1st_GI	Highest: Ileum_2 (17.9), Avg: 17.2
+A0A8C4VIY0	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Ileum_2 (17.0), Avg: 15.9
+A0A8C4VNL9	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (24.2), Avg: 20.4
+A0A8C4VU96	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_1 (19.6), Avg: 19.3
+A0A8C4VYF9	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (18.8), Avg: 18.6
+A0A8C4W765	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _2 (19.8), Avg: 19.3
+A0A8C4W765	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Colon_1 (20.6), Avg: 19.7
+A0A8C4WA05	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_3 (21.8), Avg: 21.1
+A0A8C4WA05	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Jejunum_2 (22.8), Avg: 21.8
+A0A8C4WMR0	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Jejunum _2 (20.4), Avg: 19.8
+A0A8C4WMR0	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_2 (22.0), Avg: 20.0
+A0A8C4WNP6	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Stomach_1 (20.6), Avg: 20.1
+A0A8C4WUI5	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Liver_1 (22.1), Avg: 20.5
+A0A8C4Y077	Gopherus evgoodei	GlcNAc metabolism	Proteomics_2nd_MultiTissue	Highest: Ileum_1 (18.0), Avg: 17.3
+A0A8C4YIQ2	Gopherus evgoodei	GlcNAc metabolism	Proteomics_1st_GI	Highest: Colon_3 (18.7), Avg: 17.4
+A0A8C0H8H5	Chelonoidis abingdonii	Hexosaminidase (GH20)	Proteomics_1st_GI	Highest: Stomach_1 (21.7), Avg: 20.9
+A0A8C0H8H5	Chelonoidis abingdonii	Hexosaminidase (GH20)	Proteomics_2nd_MultiTissue	Highest: Liver_2 (24.1), Avg: 21.8
+A0A452GJ20	Gopherus agassizii	Hexosaminidase (GH20)	Proteomics_1st_GI	Highest: Stomach_2 (16.7), Avg: 16.0
+A0A452GJ20	Gopherus agassizii	Hexosaminidase (GH20)	Proteomics_2nd_MultiTissue	Highest: Rectum_1 (18.6), Avg: 17.6
+A0A452HJU4	Gopherus agassizii	Hexosaminidase (GH20)	Proteomics_1st_GI	Highest: Stomach_1 (20.3), Avg: 19.5
+A0A452HJU4	Gopherus agassizii	Hexosaminidase (GH20)	Proteomics_2nd_MultiTissue	Highest: Liver_2 (22.1), Avg: 20.0
+A0A452HNE5	Gopherus agassizii	Hexosaminidase (GH20)	Proteomics_1st_GI	Highest: Jejunum _2 (22.8), Avg: 21.6
+A0A8C4VMI9	Gopherus evgoodei	Hexosaminidase (GH20)	Proteomics_2nd_MultiTissue	Highest: Liver_2 (24.9), Avg: 22.6
+A0A8C4Y391	Gopherus evgoodei	Hexosaminidase (GH20)	Proteomics_2nd_MultiTissue	Highest: Duodenum_1 (18.1), Avg: 17.3
+A0A8C0GAN3	Chelonoidis abingdonii	Other chitin-related	Proteomics_2nd_MultiTissue	Highest: Ileum_2 (15.4), Avg: 14.7

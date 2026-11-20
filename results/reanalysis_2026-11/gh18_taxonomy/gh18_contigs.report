@@ -1,0 +1,87 @@
+ 88.78	554	554	U	0	unclassified
+ 11.22	70	0	R	1	root
+ 11.22	70	0	R1	131567	  cellular organisms
+ 10.90	68	0	D	2	    Bacteria
+  9.46	59	2	K	3379134	      Pseudomonadati
+  7.37	46	0	K1	1783270	        FCB group
+  7.37	46	0	K2	68336	          Bacteroidota/Chlorobiota group
+  7.37	46	0	P	976	            Bacteroidota
+  7.37	46	0	C	200643	              Bacteroidia
+  7.37	46	0	O	171549	                Bacteroidales
+  7.05	44	0	F	815	                  Bacteroidaceae
+  7.05	44	16	G	816	                    Bacteroides
+  2.56	16	16	S	818	                      Bacteroides thetaiotaomicron
+  0.80	5	2	G1	2646097	                      unclassified Bacteroides
+  0.32	2	2	S	3096000	                        Bacteroides sp. CG01
+  0.16	1	1	S	2025659	                        Bacteroides sp. KFT8
+  0.48	3	3	S	2715212	                      Bacteroides faecium
+  0.48	3	3	S	371601	                      Bacteroides xylanisolvens
+  0.16	1	1	S	3117552	                      Bacteroides maternus
+  0.32	2	0	F	171550	                  Rikenellaceae
+  0.32	2	1	G	239759	                    Alistipes
+  0.16	1	1	S	328813	                      Alistipes onderdonkii
+  0.96	6	0	P	1224	        Pseudomonadota
+  0.96	6	0	C	1236	          Gammaproteobacteria
+  0.96	6	0	O	91347	            Enterobacterales
+  0.48	3	0	F	543	              Enterobacteriaceae
+  0.32	2	0	G	544	                Citrobacter
+  0.32	2	0	G1	1344959	                  Citrobacter freundii complex
+  0.32	2	2	S	57706	                    Citrobacter braakii
+  0.16	1	0	F1	2890311	                Klebsiella/Raoultella group
+  0.16	1	1	G	570	                  Klebsiella
+  0.48	3	0	F	1903411	              Yersiniaceae
+  0.48	3	0	G	41201	                Ewingella
+  0.48	3	3	S	41202	                  Ewingella americana
+  0.48	3	0	K1	1783257	        PVC group
+  0.48	3	0	P	74201	          Verrucomicrobiota
+  0.48	3	0	C	203494	            Verrucomicrobiia
+  0.48	3	0	O	48461	              Verrucomicrobiales
+  0.48	3	0	F	1647988	                Akkermansiaceae
+  0.48	3	2	G	239934	                  Akkermansia
+  0.16	1	1	S	1679444	                    Akkermansia glycaniphila
+  0.32	2	0	P	203691	        Spirochaetota
+  0.32	2	0	C	203692	          Spirochaetia
+  0.32	2	0	O	136	            Spirochaetales
+  0.32	2	0	F	2845253	              Treponemataceae
+  0.32	2	0	G	157	                Treponema
+  0.32	2	0	S	81028	                  Treponema brennaborense
+  0.32	2	2	S1	906968	                    Treponema brennaborense DSM 12168
+  1.28	8	0	K	1783272	      Bacillati
+  1.28	8	0	P	1239	        Bacillota
+  1.12	7	0	C	91061	          Bacilli
+  1.12	7	0	O	186826	            Lactobacillales
+  0.80	5	0	F	81852	              Enterococcaceae
+  0.80	5	5	G	1350	                Enterococcus
+  0.32	2	0	F	1300	              Streptococcaceae
+  0.32	2	0	G	1357	                Lactococcus
+  0.16	1	1	S	1358	                  Lactococcus lactis
+  0.16	1	1	S	1359	                  Lactococcus cremoris
+  0.16	1	0	C	186801	          Clostridia
+  0.16	1	0	O	186802	            Eubacteriales
+  0.16	1	0	F	31979	              Clostridiaceae
+  0.16	1	1	G	1485	                Clostridium
+  0.16	1	0	K	3384194	      Thermotogati
+  0.16	1	0	P	508458	        Synergistota
+  0.16	1	0	C	649775	          Synergistia
+  0.16	1	0	O	649776	            Synergistales
+  0.16	1	0	F	649777	              Synergistaceae
+  0.16	1	0	G	508459	                Cloacibacillus
+  0.16	1	1	S	508460	                  Cloacibacillus evryensis
+  0.32	2	0	D	2759	    Eukaryota
+  0.32	2	0	D1	33154	      Opisthokonta
+  0.32	2	0	K	4751	        Fungi
+  0.32	2	0	K1	451864	          Dikarya
+  0.32	2	0	P	4890	            Ascomycota
+  0.32	2	0	P1	716545	              saccharomyceta
+  0.32	2	0	P2	147537	                Saccharomycotina
+  0.16	1	0	C	4891	                  Saccharomycetes
+  0.16	1	0	O	4892	                    Saccharomycetales
+  0.16	1	0	F	4893	                      Saccharomycetaceae
+  0.16	1	0	G	374468	                        Nakaseomyces
+  0.16	1	1	S	5478	                          Nakaseomyces glabratus
+  0.16	1	0	C	3239874	                  Pichiomycetes
+  0.16	1	0	O	2916678	                    Serinales
+  0.16	1	0	F	766764	                      Debaryomycetaceae
+  0.16	1	0	G	4958	                        Debaryomyces
+  0.16	1	0	S	4959	                          Debaryomyces hansenii
+  0.16	1	1	S1	284592	                            Debaryomyces hansenii CBS767

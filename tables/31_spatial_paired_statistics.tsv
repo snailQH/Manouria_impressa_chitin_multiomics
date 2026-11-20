@@ -1,0 +1,16 @@
+# Per-protein PAIRED re-analysis of DS04 segment-resolved proteomics (one animal, 3 tissue pieces per segment).
+# Unit of analysis = protein (within-protein centred profile). Replaces the pooled protein x replicate tests in 21_spatial_statistics.tsv.
+# GH18 set curated: CTBS (A0A8C0FXB1) and CHID1-clade (A0A452J3X8) removed.
+Category	n_proteins	dropped	Test	statistic	p_value	effect
+Chitinase (GH18)	23	A0A452J3X8;A0A8C0FXB1	Friedman across 6 segments (paired by protein)	25.48	0.000112	
+Chitinase (GH18)	23		Wilcoxon signed-rank SI vs hindgut (paired)	W=19	7.32e-05	median diff +0.85 log2
+Chitinase (GH18)	23		Wilcoxon signed-rank SI vs stomach (paired)	W=54	0.00915	median diff +0.18 log2
+Chitinase (GH18)	23		Binomial: proteins peaking in SI (null 3/6)	14/23	0.202	
+Hexosaminidase (GH20)	3	-	Friedman across 6 segments (paired by protein)	11.95	0.0354	
+Hexosaminidase (GH20)	3		Wilcoxon signed-rank SI vs hindgut (paired)	W=2	0.75	median diff +0.11 log2
+Hexosaminidase (GH20)	3		Wilcoxon signed-rank SI vs stomach (paired)	W=1	0.5	median diff -0.26 log2
+Hexosaminidase (GH20)	3		Binomial: proteins peaking in SI (null 3/6)	1/3	0.875	
+GlcNAc metabolism	25	-	Friedman across 6 segments (paired by protein)	17.80	0.00321	
+GlcNAc metabolism	25		Wilcoxon signed-rank SI vs hindgut (paired)	W=94	0.0667	median diff +0.15 log2
+GlcNAc metabolism	25		Wilcoxon signed-rank SI vs stomach (paired)	W=117	0.23	median diff +0.11 log2
+GlcNAc metabolism	25		Binomial: proteins peaking in SI (null 3/6)	12/25	0.655	

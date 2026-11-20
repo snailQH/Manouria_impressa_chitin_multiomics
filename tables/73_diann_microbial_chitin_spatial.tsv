@@ -1,0 +1,76 @@
+# Microbial (metagenome-database) chitin-active protein groups in the 36 gut-wall runs, species-specific DIA-NN search.
+# Negative control: groups also detected in MI02 liver/heart/muscle are listed as background and excluded from the regional counts.
+# detection_pct = detected group-runs / (groups x runs) in that region. Most groups rest on a single peptide: these are
+# presence calls at the detection limit, NOT abundance measurements. scripts/proteomics_diann_chitin.py
+family	animal	region	n_groups	n_runs	detections	group_runs	detection_pct
+GH18	MI01	Stomach	5	3	3	15	20.0
+GH18	MI01	Small intestine	5	9	11	45	24.4
+GH18	MI01	Hindgut	5	6	7	30	23.3
+GH18	MI02	Stomach	5	2	4	10	40.0
+GH18	MI02	Small intestine	5	6	3	30	10.0
+GH18	MI02	Hindgut	5	4	5	20	25.0
+GH20	MI01	Stomach	6	3	7	18	38.9
+GH20	MI01	Small intestine	6	9	30	54	55.6
+GH20	MI01	Hindgut	6	6	7	36	19.4
+GH20	MI02	Stomach	6	2	3	12	25.0
+GH20	MI02	Small intestine	6	6	9	36	25.0
+GH20	MI02	Hindgut	6	4	8	24	33.3
+#
+# per-group evidence
+family	status	protein_group	label	CAZy	peptides	proteotypic_peptides	n_runs_detected
+GH18	gut-restricted prokaryotic	meta|HM.1.4_k141_27139_13	-	GH18	2	1	3
+GH18	gut-restricted prokaryotic	meta|HM.1.4_k141_47399_1;meta|HM.1.4_k141_66462_46;meta|ITF-1-4_k141_37862_1;meta|PM.1.1_k141_44772_2	-	GH18,GH5,GH9	1	0	18
+GH18	gut-restricted prokaryotic	meta|ITF-1-5_k141_251031_2	-	GH18	1	1	7
+GH18	gut-restricted prokaryotic	meta|PM.2.3_k141_93754_1	-	GH18	1	1	1
+GH18	gut-restricted prokaryotic	meta|ITF-1-6_k141_24550_2	chiA1	GH18	1	1	4
+GH18	background (also non-gut)	meta|ITF-1-1_k141_230013_360	-	GH18	2	1	36
+GH18	eukaryotic (excluded)	meta|HM.1.1_k141_101499_84;meta|ITF-1-4_k141_175433_84	CHIA	GH18	1	0	3
+GH20	gut-restricted prokaryotic	meta|HM.1.1_k141_63191_2;meta|PM.1.2_k141_14732_1	-	GH20	3	0	3
+GH20	gut-restricted prokaryotic	meta|HM.1.1_k141_93750_2;meta|ITF-1-4_k141_140006_2	-	GH20	2	0	10
+GH20	gut-restricted prokaryotic	meta|ITF-1-4_k141_139493_37;meta|ITF-1-4_k141_328188_2;meta|PM.2.2_k141_22096_2	-	GH20	1	0	7
+GH20	gut-restricted prokaryotic	meta|ITF-2-1_k141_31399_1	-	GH20	2	1	13
+GH20	gut-restricted prokaryotic	meta|HM.1.1_k141_81581_2	nagZ3	GH20	1	0	29
+GH20	gut-restricted prokaryotic	meta|ITF-1-4_k141_101245_6	strH	GH20	1	1	2
+GH20	background (also non-gut)	meta|HM.1.2_k141_70910_1	-	GH20	1	1	10
+GH20	background (also non-gut)	meta|HM.1.4_k141_32392_19;meta|ITF-2-1_k141_27881_2	-	GH20	1	0	12
+GH20	background (also non-gut)	meta|ITF-2-3_k141_438904_3	-	GH20	1	1	16
+GH20	background (also non-gut)	meta|PM.1.1_k141_100288_2	-	GH20	1	1	2
+GH20	background (also non-gut)	meta|PM.2.2_k141_80763_2	-	GH20	1	0	8
+GH20	background (also non-gut)	meta|HM.2.1_k141_185396_2;meta|ITF-1-4_k141_255277_2	nahA	GH20	2	0	18
+#
+# regional tests
+family	animal	test	statistic	P
+GH18	MI01	detection frequency across the three regions	0.12	0.94
+GH18	MI02	detection frequency across the three regions	4.69	0.096
+GH20	MI01	detection frequency across the three regions	11.7	0.00288
+GH20	MI02	detection frequency across the three regions	0.55	0.758
+#
+# narrowest eggNOG clade of each detected protein (coarse: the clade of the seed ortholog group, not a genome assignment)
+family	status	protein	clade	KO	CAZy	MAG	MAG_GTDB
+GH18	gut-restricted	HM.1.4_k141_27139_13	Bacteria	K01183,K01728	GH18	-	-
+GH18	gut-restricted	HM.1.4_k141_47399_1	Bacteroidaceae	K01179,K01183	GH18,GH5,GH9	-	-
+GH18	gut-restricted	HM.1.4_k141_66462_46	Bacteroidaceae	K01179,K01183	GH18,GH5,GH9	-	-
+GH18	gut-restricted	ITF-1-4_k141_37862_1	Bacteroidaceae	K01179,K01183	GH18,GH5,GH9	-	-
+GH18	gut-restricted	PM.1.1_k141_44772_2	Bacteroidaceae	K01179,K01183	GH18,GH5,GH9	-	-
+GH18	gut-restricted	ITF-1-5_k141_251031_2	Bacteroidaceae	K01183	GH18	-	-
+GH18	gut-restricted	PM.2.3_k141_93754_1	Clostridia	K01183	GH18	-	-
+GH18	gut-restricted	ITF-1-6_k141_24550_2	Gammaproteobacteria	K01183	GH18	ITF-1-6.bin.176	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Ewingella;s__Ewingella americana
+GH18	background (also non-gut)	ITF-1-1_k141_230013_360	Clostridiaceae	K01183	GH18	-	-
+GH20	gut-restricted	HM.1.1_k141_63191_2	Bacteroidaceae	K12373	GH20	-	-
+GH20	gut-restricted	PM.1.2_k141_14732_1	Bacteroidaceae	K12373	GH20	-	-
+GH20	gut-restricted	HM.1.1_k141_93750_2	Porphyromonadaceae	K12373	GH20	-	-
+GH20	gut-restricted	ITF-1-4_k141_140006_2	Porphyromonadaceae	K12373	GH20	-	-
+GH20	gut-restricted	ITF-1-4_k141_139493_37	Porphyromonadaceae	K12373	GH20	-	-
+GH20	gut-restricted	ITF-1-4_k141_328188_2	Porphyromonadaceae	K12373	GH20	-	-
+GH20	gut-restricted	PM.2.2_k141_22096_2	Porphyromonadaceae	K12373	GH20	-	-
+GH20	gut-restricted	ITF-2-1_k141_31399_1	Bacteroidaceae	K12373	GH20	-	-
+GH20	gut-restricted	HM.1.1_k141_81581_2	Bacteroidaceae	K12373	GH20	-	-
+GH20	gut-restricted	ITF-1-4_k141_101245_6	Clostridia	K03427,K08643,K12373	GH20	-	-
+GH20	background (also non-gut)	HM.1.2_k141_70910_1	Alloprevotella	K12373	GH20	-	-
+GH20	background (also non-gut)	HM.1.4_k141_32392_19	Bacteroidaceae	K12373	GH20	-	-
+GH20	background (also non-gut)	ITF-2-1_k141_27881_2	Bacteroidaceae	K12373	GH20	-	-
+GH20	background (also non-gut)	ITF-2-3_k141_438904_3	Bacteroidaceae	K12373	GH20	ITF-2-3.bin.11	d__Bacteria;p__Verrucomicrobiota;c__Lentisphaeria;o__Victivallales;f__Victivallaceae;g__JAVBQJ01;s__
+GH20	background (also non-gut)	PM.1.1_k141_100288_2	Bacteroidaceae	K12373	GH20	-	-
+GH20	background (also non-gut)	PM.2.2_k141_80763_2	Cytophagia	K12373	GH20	-	-
+GH20	background (also non-gut)	HM.2.1_k141_185396_2	Xanthomonadales	K12373	GH20	-	-
+GH20	background (also non-gut)	ITF-1-4_k141_255277_2	Xanthomonadales	K12373	GH20	-	-

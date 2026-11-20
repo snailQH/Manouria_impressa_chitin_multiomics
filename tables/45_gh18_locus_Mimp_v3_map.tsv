@@ -1,0 +1,14 @@
+# GH18 chitinase locus: correspondence between the version-.1 assembly (GWHHIVU00000000.1, chromosome 3, + strand) used for the
+# genome search in this paper and the re-assembled reference Mimp_v3 (GWHHIVU00000000.2, chromosome 4, - strand; the chromosome is
+# oriented to G. evgoodei, so the locus is reverse-complemented). Mimp_v3 coordinates = miniprot placement of each locus protein
+# (identity to the version-.1 protein) and the Mimp_v3 gene model overlapping it (06_final_geneset; 24,875-gene evidence-filtered set).
+# Source: new-version/05_annotation/Mimp_v3/05_annotation_check/gh18_miniprot.gff, 07_post_geneset/gh18_region_genes.tsv (2026-10-24).
+locus	v1_gene_model	v1_chr3_start	v1_chr3_end	v1_strand	Mimp_v3_chr	Mimp_v3_start	Mimp_v3_end	Mimp_v3_strand	miniprot_identity	Mimp_v3_gene_model	Mimp_v3_gene_start	Mimp_v3_gene_end	note
+088392	maker_gene_088392 (GWHPHIVU010568.1)	12417829	12434228	+	chr4	139240333	139256732	-	1.000	MIMP3_g08479	139240333	139249474	CHIT1-clade; single model
+088393	maker_gene_088393 (GWHPHIVU010569.1)	12437363	12467918	+	chr4	139206643	139237198	-	1.000	MIMP3_g08478 (+ MIMP3_g08477)	139225190	139237983	CHI3L-clade inactive CLP; the 717-aa v1 model spans two Mimp_v3 models (g08478 = GH18; g08477 = adjacent model), consistent with a fused v1 model
+L3	unannotated in v1 (miniprot)	12470981	12478405	+	chr4	139196160	139202071	-	1.000	MIMP3_g08476	139196157	139203581	GT31-type GH18; now annotated
+L4	unannotated in v1 (miniprot)	12494987	12499929	+	chr4	139174633	139179575	-	1.000	MIMP3_g08475	139173587	139181416	CHIA-clade copy 1; now annotated
+L5	unannotated in v1 (miniprot)	12520974	12528875	+	chr4	139145690	139153588	-	1.000	MIMP3_g08474	139145687	139153543	CHIA-clade copy 2; now annotated
+L6	unannotated in v1 (miniprot)	12541905	12549789	+	chr4	139124776	139132657	-	1.000	MIMP3_g08473	139124773	139132612	CHIA-clade copy 3; now annotated
+L7	unannotated in v1 (miniprot)	12562928	12570116	+	chr4	139104449	139111634	-	0.998	MIMP3_g08472	139105528	139112462	CHIA-clade copy 4 (in-frame stop at codon 416); modelled in Mimp_v3
+088402	maker_gene_088402 (GWHPHIVU010570.1; 1,160 aa, two GH18 domains)	12586602	12621407	-	chr4	139053434	139088295	+	0.990	MIMP3_g08468, MIMP3_g08469, MIMP3_g08470	139053434	139088295	the single 1,160-aa v1 model is three genes in Mimp_v3 (g08468 139,053,434-139,060,239; g08469 139,068,167-139,076,484; g08470 139,080,173-139,088,295), confirming the fused-model interpretation; 088402 is on the - strand in v1 and the + strand in Mimp_v3, i.e. opposite to the other seven loci in both assemblies, as expected after reverse-complementing the chromosome

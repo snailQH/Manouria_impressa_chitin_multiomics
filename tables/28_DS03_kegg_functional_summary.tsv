@@ -1,0 +1,58 @@
+# eggNOG-mapper functional annotation of the DS01 non-redundant gene catalogue
+# Source: 07_kegg/nr.emapper.annotations (eggNOG-mapper 2.1.12, DIAMOND, eggNOG 5.0.2)
+Metric	Value
+Proteins_in_catalogue	1189053
+Proteins_annotated	944495
+With_KEGG_KO	505443
+With_KEGG_Pathway	298112
+With_COG_category	885318
+With_CAZy_annotation	16350
+In_ko00520_amino_sugar_pathway	13314
+#
+# Chitin-metabolism KEGG orthologs
+# Correction (2026-09-27): "K16165 chitin deacetylase" was a KO-symbol collision (K16165 = nagK fumarylpyruvate
+# hydrolase); replaced by K01452/K03478 counted from the same annotation file.
+KO	Description	Gene_count
+K01183	chitinase (EC 3.2.1.14)	326
+K12373	HEXA_B, beta-N-acetylhexosaminidase	853
+K01443	nagA, N-acetylglucosamine-6-P deacetylase	412
+K02564	nagB, glucosamine-6-P deaminase	485
+K01452	chitin deacetylase (EC 3.5.1.41)	4
+K03478	chbG, chitin disaccharide deacetylase (EC 3.5.1.105)	21
+K00884	nagK, N-acetylglucosamine kinase	17
+K01207	nagZ, beta-N-acetylhexosaminidase	322
+K03431	glmM, phosphoglucosamine mutase	312
+K04042	glmU, GlcNAc-1-P uridyltransferase	237
+#
+# Top COG functional categories
+COG	Gene_count
+S	176343
+L	80994
+G	78639
+K	69143
+M	67884
+E	63859
+C	55665
+J	54091
+P	49423
+T	43263
+H	35412
+F	28236
+#
+# Top CAZy families (eggNOG-assigned)
+Family	Gene_count
+GH13	1436
+GH3	1355
+GT2	1218
+GT4	938
+GH20	868
+GH31	788
+GT51	788
+GH5	754
+CBM48	750
+GH9	700
+GT35	663
+GH38	565
+GH29	563
+GT28	549
+GH77	519

@@ -1,0 +1,24 @@
+# Temporal structure of the 32 faecal metagenomes (collection dates: authors' registry 2026-11-10; diets fed sequentially). Exploratory, sample = unit. scripts/temporal_trajectories.py
+section	test	value	P	note
+GH18 vs time within cohort	DS01	rho 0.04 (n=12, span 57 d)	0.914	
+GH18 vs time within cohort × animal	DS01 MI02	rho -0.54 (n=6)	0.266	
+GH18 vs time within cohort × animal	DS01 MI03	rho -0.31 (n=6)	0.544	
+GH18 vs time within cohort	DS02	rho 0.33 (n=13, span 94 d)	0.266	
+GH18 vs time within cohort × animal	DS02 MI02	rho 0.02 (n=9)	0.966	
+GH18 vs time within cohort × animal	DS02 MI03	rho 1.00 (n=4)	0.000	
+GH18 vs time within cohort	DS03	rho 0.14 (n=7, span 81 d)	0.760	
+GH18 vs time within cohort × animal	DS03 MI03	rho 0.20 (n=5)	0.747	
+GH18 vs calendar time, all 32	Spearman	rho -0.12	0.5166	time and diet are confounded
+GH18 vs cohort, all 32	Kruskal–Wallis	H 12.66	0.0018	
+GH18 (cohort-centred) vs days within cohort, all 32	Spearman	rho 0.02	0.906	residual time trend after removing the cohort means
+Bray–Curtis between consecutive collections (same animal)	within diet	median 0.335 (n=26; gap median 8 d, max 79)		
+Bray–Curtis between consecutive collections (same animal)	across a diet switch	median 0.531 (n=4; gaps 86, 37, 117, 45 d)	0.0943	Mann–Whitney vs within-diet pairs; switch gaps are longer
+Bray–Curtis across each switch	MI02 DS01>DS02 (ITF-1-6→HM.1.1)	0.726		gap 86 d
+Bray–Curtis across each switch	MI02 DS02>DS03 (HM.1.9→PM.1.1)	0.456		gap 37 d
+Bray–Curtis across each switch	MI03 DS01>DS02 (ITF-2-6→HM.2.1)	0.274		gap 117 d
+Bray–Curtis across each switch	MI03 DS02>DS03 (HM.2.4→PM.2.1)	0.607		gap 45 d
+Within-diet drift: Bray–Curtis vs days apart (same animal, same diet)	all pairs (n=83)	rho 0.50	0.0000	
+Within-diet drift: Bray–Curtis vs days apart (same animal, same diet)	DS01 (n=30)	rho 0.26	0.173	
+Within-diet drift: Bray–Curtis vs days apart (same animal, same diet)	DS02 (n=42)	rho 0.74	0.000	
+Within-diet drift: Bray–Curtis vs days apart (same animal, same diet)	DS03 (n=11)	rho 0.22	0.519	
+Gap-matched: switch pairs vs within-diet pairs with gap >= shortest switch gap	within-diet long-gap pairs n=32, median BC 0.450; switch median 0.531	0.7896	Mann–Whitney	

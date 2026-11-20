@@ -1,0 +1,390 @@
+MAG	domain	phylum	class	order	family	genus	species	Completeness	Contamination	Genome_Size	quality	GH18	GH19	GH20	CBM50	CBM5	AA10	GH5	GH9	GH48	CAZymes	chitin_to_GlcNAc
+HM.1.1.bin.17	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Opitutales	UBA953	Spyradosoma		98.1	0.02	2443794	high	1	0	10	0	0	0	0	0	0	83	True
+HM.1.1.bin.19	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae			99.21	0.07	2155312	high	0	0	0	1	0	0	0	0	0	50	False
+HM.1.1.bin.21	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			65.38	0.79	1173117	medium	0	0	0	0	0	0	0	0	0	14	False
+HM.1.1.bin.22	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	JAVVSK01		95.16	0.0	1959612	high	0	0	0	0	0	0	0	0	0	21	False
+HM.1.1.bin.34	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Alcaligenes	Alcaligenes faecalis_D	79.03	0.66	3241596	medium	0	0	0	1	0	0	0	0	0	43	False
+HM.1.1.bin.39	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917	RGIG4097		98.12	0.32	1797450	high	1	0	1	0	0	0	0	0	0	32	True
+HM.1.1.bin.60	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae			96.54	0.15	1956996	high	0	0	0	1	0	0	0	0	0	40	False
+HM.1.1.bin.67	Bacteria	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1174		95.18	0.22	1694653	high	0	0	0	0	0	0	0	0	0	38	False
+HM.1.2.bin.11	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydophila		99.71	0.07	1133904	high	0	0	0	1	0	0	0	0	0	13	False
+HM.1.2.bin.13	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Anaerorhabdus	Anaerorhabdus sp036636695	71.01	3.56	1347379	medium	0	0	0	0	0	0	0	0	0	46	False
+HM.1.2.bin.14	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae			80.35	2.94	1510115	medium	0	0	1	0	0	0	0	0	0	48	False
+HM.1.2.bin.2	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	JAQVRG01		86.25	0.0	2215287	medium	1	0	0	1	0	0	0	0	0	28	False
+HM.1.2.bin.23	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter	Tidjanibacter sp034102025	99.85	0.36	2367092	high	3	0	3	2	0	0	4	0	0	86	True
+HM.1.2.bin.24	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A		99.49	1.28	1858378	high	0	0	0	2	0	0	0	0	0	41	False
+HM.1.2.bin.25	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Petrimonas		57.31	1.33	1872411	medium	1	0	3	4	0	0	0	0	0	56	True
+HM.1.2.bin.28	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas		86.41	6.06	4149338	medium	0	0	1	2	0	0	0	0	0	61	False
+HM.1.2.bin.29	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter_I		96.99	0.07	1974124	high	0	0	0	1	0	0	0	0	0	36	False
+HM.1.2.bin.3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Alloprevotella		83.03	0.07	2229591	medium	0	0	7	0	0	0	1	0	0	113	False
+HM.1.2.bin.37	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	UBA11063			95.71	0.1	2260128	high	0	0	0	0	0	0	0	0	0	37	False
+HM.1.2.bin.39	Bacteria	Elusimicrobiota	Endomicrobiia	Endomicrobiales	Endomicrobiaceae			92.08	0.17	1544074	high	0	0	0	1	0	0	0	0	0	56	False
+HM.1.2.bin.42	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	JBGZFC01		74.19	6.54	2691248	medium	0	1	1	4	0	0	0	0	0	73	False
+HM.1.2.bin.48	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas		99.89	0.87	2117232	high	0	0	0	2	0	0	0	0	0	43	False
+HM.1.2.bin.50	Bacteria	Bacteroidota_A	Kapaibacteriia	Kapaibacteriales	UBA2268	CALLXS01	CALLXS01 sp937875295	93.21	0.84	2105618	high	1	0	0	0	0	0	1	0	0	50	False
+HM.1.2.bin.58	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		99.84	0.03	4746500	high	3	0	12	5	0	0	4	1	0	273	True
+HM.1.2.bin.7	Bacteria	Verrucomicrobiota	Kiritimatiellia	RFP12	UBA1067	Spyradenecus		94.67	0.22	2159772	high	1	0	5	0	0	0	0	1	0	89	True
+HM.1.2.bin.9	Bacteria	Vulcanimicrobiota	CADAWZ01	CADAWZ01	CADAWZ01	CADAWZ01		91.61	1.37	1961975	high	0	0	0	0	0	0	0	0	0	47	False
+HM.1.3.bin.12	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Succinispiraceae			84.18	1.6	1742868	medium	0	0	0	0	0	0	0	0	0	31	False
+HM.1.3.bin.15	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	JAUNBG01		88.96	0.96	5086655	medium	0	0	2	0	0	0	7	0	0	254	False
+HM.1.3.bin.18	Bacteria	Pseudomonadota	Alphaproteobacteria	RF32	CAG-239			99.65	2.8	1982057	high	0	0	0	0	0	0	0	0	0	41	False
+HM.1.3.bin.34	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae			81.56	1.59	2459130	medium	0	0	0	1	0	0	0	0	0	34	False
+HM.1.3.bin.41	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		81.26	0.77	2907740	medium	1	0	3	0	0	0	0	0	0	92	True
+HM.1.3.bin.62	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	F082	Limimorpha		99.89	0.13	3390059	high	1	0	4	1	0	0	0	0	0	92	True
+HM.1.3.bin.69	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		94.84	0.19	2400949	high	1	0	5	2	0	0	2	0	0	108	True
+HM.1.4.bin.14	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter braakii	74.09	0.95	3339871	medium	2	1	0	4	0	0	1	0	0	80	False
+HM.1.4.bin.3	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			98.22	0.01	2849012	high	1	0	0	0	0	0	1	1	0	92	False
+HM.1.4.bin.34	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Otoolea		92.16	1.21	3449322	high	2	0	0	3	0	0	0	0	0	50	False
+HM.1.4.bin.37	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp905196875	84.02	1.29	5715856	medium	1	0	17	4	0	0	1	0	0	311	True
+HM.1.4.bin.6	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lacrimispora		92.98	0.09	3295181	high	2	0	0	4	0	0	2	0	0	110	False
+HM.1.4.bin.9	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	JAQVCR01		98.39	0.2	2964252	high	0	0	6	2	0	0	2	1	0	132	False
+HM.1.5.bin.14	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	Agathobaculum sp951230135	92.89	2.8	2456952	high	1	0	0	1	0	0	0	0	0	62	False
+HM.1.5.bin.26	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster		96.53	1.83	4127943	high	1	0	0	3	0	0	0	0	0	85	False
+HM.1.5.bin.30	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	83.92	0.16	1926301	medium	1	0	1	4	1	1	0	0	0	74	True
+HM.1.5.bin.34	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides nordii	97.75	3.47	6055611	high	5	0	15	5	0	0	6	1	0	460	True
+HM.1.5.bin.48	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae			86.94	0.3	2530463	medium	0	0	0	1	0	0	0	0	0	57	False
+HM.1.5.bin.60	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium		96.57	0.04	2569283	high	0	0	0	0	0	0	0	0	0	76	False
+HM.1.6.bin.15	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			99.83	0.23	2545667	high	0	0	1	0	0	0	0	0	0	65	False
+HM.1.6.bin.2	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Caccovicinus		86.66	0.64	3511540	medium	1	0	0	3	0	0	0	1	0	135	False
+HM.1.6.bin.21	Bacteria	Bacillota	Bacilli	RFN20	CAG-826	Onthovivens		56.83	5.62	1283182	medium	0	0	0	1	0	0	0	0	0	50	False
+HM.1.6.bin.22	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia		99.94	1.38	3338319	high	2	0	2	3	0	0	0	0	0	112	True
+HM.1.6.bin.26	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus	Lactiplantibacillus paraplantarum	93.07	2.53	2895863	high	0	0	1	2	0	1	0	0	0	74	False
+HM.1.6.bin.35	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp028689545	99.82	0.41	4030718	high	0	0	5	5	0	0	1	0	0	159	False
+HM.1.7.bin.1	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Brotaphodocola		97.24	1.55	3984495	high	1	0	0	2	0	0	1	0	0	82	False
+HM.1.7.bin.27	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	JAQVCR01		99.99	0.0	2982510	high	1	0	3	2	0	0	1	1	0	136	True
+HM.1.8.bin.1	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	SZUA-378		95.91	0.64	3879611	high	2	0	0	4	0	0	2	1	0	129	False
+HM.1.8.bin.25	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	SZUA-378		96.52	1.03	3253379	high	2	0	1	1	0	0	2	1	0	125	True
+HM.1.8.bin.26	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		92.9	0.79	6136417	high	3	0	13	5	0	0	9	2	0	453	True
+HM.1.8.bin.33	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	Pyramidobacter piscolens_A	92.86	0.53	3336813	high	0	0	0	1	0	0	0	0	0	33	False
+HM.1.8.bin.45	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	Oscillibacter ruminantium	84.33	6.1	3132863	medium	3	0	0	4	0	0	0	0	0	36	False
+HM.1.8.bin.46	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	Spiro-02		98.11	1.28	3473132	high	0	0	1	0	0	0	1	0	0	90	False
+HM.1.9.bin.11	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Fimadaptatus		93.87	0.16	3620816	high	0	0	0	1	0	0	1	0	0	129	False
+HM.1.9.bin.22	Bacteria	Bacillota	Clostridia	Christensenellales	CALWSW01			65.63	2.53	2025512	medium	0	0	0	0	0	0	0	0	0	20	False
+HM.1.9.bin.27	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			99.64	0.13	3480725	high	2	0	1	1	0	0	1	0	0	107	True
+HM.1.9.bin.31	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	UBA1820	Merdimorpha		64.95	0.39	1361121	medium	1	0	2	0	0	0	0	1	0	44	True
+HM.1.9.bin.33	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes		96.23	1.48	3046102	high	1	0	0	2	0	0	0	0	0	86	False
+HM.1.9.bin.41	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			55.16	5.37	2143911	medium	1	0	1	0	0	0	0	0	0	86	True
+HM.1.9.bin.42	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1491		97.22	0.01	1024562	high	0	0	0	2	0	0	0	0	0	25	False
+HM.1.9.bin.49	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Scatomorpha		96.61	1.0	2579883	high	1	0	0	0	0	0	0	0	0	42	False
+HM.1.9.bin.51	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	JAQVRG01		68.6	3.13	2242459	medium	1	0	0	1	0	0	0	0	0	30	False
+HM.1.9.bin.54	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1750			87.71	3.96	2538501	medium	0	0	0	0	0	0	7	0	0	81	False
+HM.1.9.bin.6	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UBA2658		98.25	0.0	2658405	high	0	0	0	0	0	0	0	0	0	30	False
+HM.1.9.bin.63	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae			84.42	0.15	2366104	medium	0	0	0	0	0	0	0	0	0	41	False
+HM.1.9.bin.64	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	JAVVVD01		94.18	0.36	2232429	high	0	0	0	0	0	0	0	0	0	33	False
+HM.1.9.bin.65	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Pullichristensenella		63.91	9.38	2197647	medium	0	0	1	0	0	0	0	0	0	43	False
+HM.2.1.bin.21	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		94.19	0.1	2581415	high	2	0	4	4	0	0	1	0	0	124	True
+HM.2.1.bin.23	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		99.81	0.28	2885187	high	8	0	5	4	0	0	1	0	0	161	True
+HM.2.1.bin.28	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes_A		99.84	0.12	2229215	high	0	0	2	2	0	0	0	0	0	124	False
+HM.2.1.bin.36	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		97.95	0.83	5478735	high	2	0	12	5	0	0	3	2	0	309	True
+HM.2.1.bin.4	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae			99.86	0.0	1942597	high	1	0	0	0	0	0	1	0	0	46	False
+HM.2.1.bin.43	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae			98.94	0.3	1745145	high	0	0	0	0	0	0	1	0	0	49	False
+HM.2.1.bin.46	Bacteria	Pseudomonadota	Alphaproteobacteria	RF32	CACZRW01	RGIG5556		93.53	3.79	1326216	high	0	0	0	0	0	0	0	0	0	32	False
+HM.2.1.bin.50	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	JAAYNV01		86.17	0.22	2924814	medium	4	0	0	2	0	0	1	3	0	117	False
+HM.2.1.bin.7	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Egerieousia		93.83	0.04	2488681	high	1	1	4	2	0	0	0	1	0	64	True
+HM.2.1.bin.74	Bacteria	Verrucomicrobiota	Lentisphaeria					97.55	1.18	2065095	high	1	0	5	0	0	0	0	0	0	67	True
+HM.2.1.bin.75	Bacteria	Bacillota	Clostridia	UBA1212	UBA1255	Egerieisoma		91.08	1.63	2930714	high	1	0	1	1	0	0	2	0	0	108	True
+HM.2.1.bin.79	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		92.84	2.58	3937225	high	2	0	1	0	0	0	1	0	0	136	True
+HM.2.1.bin.8	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Merdiplasma		85.84	4.06	3456715	medium	1	0	0	0	0	0	0	0	0	86	False
+HM.2.1.bin.82	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			94.56	0.57	2794676	high	2	0	2	1	0	0	1	0	0	121	True
+HM.2.1.bin.83	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludihabitans		93.45	0.7	1670827	high	0	0	0	0	0	0	0	3	0	28	False
+HM.2.1.bin.86	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	JAVVXB01		92.61	0.0	2552734	high	0	0	0	1	0	0	0	0	0	49	False
+HM.2.2.bin.14	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae			95.47	1.11	1968675	high	0	0	0	0	0	0	1	1	0	41	False
+HM.2.2.bin.25	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			95.38	2.21	3993149	high	1	0	2	0	0	0	4	0	0	211	True
+HM.2.2.bin.30	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae			66.42	1.19	1534176	medium	1	0	0	0	0	0	0	0	0	21	False
+HM.2.2.bin.52	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	RUG11551		88.65	2.84	4193048	medium	0	0	1	0	0	0	1	1	0	103	False
+HM.2.2.bin.58	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella		72.47	0.0	2222981	medium	0	0	0	2	0	0	1	0	0	143	False
+HM.2.2.bin.66	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	JAUNBG01	JAUNBG01 sp030539035	92.29	0.85	3808611	high	0	0	1	0	0	0	5	0	0	172	False
+HM.2.3.bin.21	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae			97.57	4.2	2454013	high	1	0	0	0	0	0	0	0	0	41	False
+HM.2.3.bin.22	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	SZUA-378		68.47	3.12	2578930	medium	1	0	1	0	0	0	1	1	0	112	True
+HM.2.3.bin.23	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae			98.97	0.14	1831524	high	1	0	0	0	0	0	0	0	0	37	False
+HM.2.3.bin.24	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	QAKS01		51.32	0.68	1343739	medium	0	0	0	1	0	0	0	0	0	21	False
+HM.2.3.bin.29	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	RUG695		92.43	2.69	3794565	high	0	0	1	0	0	0	1	0	0	134	False
+HM.2.3.bin.32	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae			91.85	0.04	2841679	high	0	0	4	3	0	0	0	0	0	113	False
+HM.2.3.bin.33	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	Fimenecus		89.05	2.5	1952849	medium	3	0	2	0	0	0	1	0	0	87	True
+HM.2.3.bin.36	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			73.77	9.09	3493594	medium	1	0	1	0	0	0	1	1	0	139	True
+HM.2.3.bin.52	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	JAQVKF01		88.34	1.21	4081628	medium	0	0	0	0	0	0	1	0	0	137	False
+HM.2.3.bin.56	Bacteria	Bacillota	Clostridia	Christensenellales	GCA-900066905	Luoshenia		71.63	2.98	1833594	medium	1	0	0	0	0	0	1	0	0	48	False
+HM.2.3.bin.75	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludihabitans		51.79	0.39	838435	medium	0	0	2	0	0	0	2	2	0	20	False
+HM.2.4.bin.17	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp014750685	99.97	1.4	6747290	high	18	0	18	5	0	0	4	0	0	530	True
+HM.2.4.bin.29	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae			92.81	1.04	2454614	high	0	0	0	0	0	0	0	0	0	48	False
+HM.2.4.bin.37	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932			96.73	0.71	3438314	high	1	0	1	1	0	0	4	1	0	180	True
+HM.2.4.bin.47	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Brotaphodocola		55.2	5.22	2082781	medium	1	0	0	1	0	0	0	0	0	46	False
+HM.2.4.bin.54	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	JAUNSQ01		99.7	0.0	2184487	high	1	0	0	0	0	0	0	0	0	38	False
+HM.2.4.bin.56	Bacteria	Bacillota	Clostridia	Oscillospirales	UMGS1783	UMGS1783		56.61	1.92	1252241	medium	0	0	0	2	0	0	0	0	0	50	False
+ITF-1-1.bin.108	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus		88.67	5.57	2864628	medium	0	0	2	2	0	0	0	0	0	80	False
+ITF-1-1.bin.130	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia_D		93.84	3.58	3922666	high	1	0	0	2	0	0	0	1	0	135	False
+ITF-1-1.bin.135	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Otoolea		87.46	0.09	2780010	medium	1	0	0	2	0	0	0	0	0	41	False
+ITF-1-1.bin.144	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917	CAG-349		95.84	0.12	1578008	high	0	0	1	0	0	0	0	0	0	34	False
+ITF-1-1.bin.164	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	JALENY01		94.88	0.08	2909231	high	1	0	0	1	0	0	0	1	0	78	False
+ITF-1-1.bin.171	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Levilactobacillus	Levilactobacillus brevis	60.57	5.61	1512465	medium	0	0	0	0	0	0	0	0	0	35	False
+ITF-1-1.bin.174	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Companilactobacillus kimchii	74.25	5.42	2191362	medium	0	0	0	1	0	0	0	0	0	76	False
+ITF-1-1.bin.19	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Levilactobacillus	Levilactobacillus faecigallinarum	85.04	4.92	2352442	medium	0	0	1	0	0	0	0	0	0	64	False
+ITF-1-1.bin.22	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Lentihominibacter		96.38	1.92	2694492	high	0	0	0	0	0	0	0	0	0	14	False
+ITF-1-1.bin.30	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster		86.4	0.82	3369814	medium	1	0	0	2	0	0	0	0	0	74	False
+ITF-1-1.bin.39	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae			96.61	0.28	1830209	high	0	0	2	0	0	0	1	1	0	85	False
+ITF-1-1.bin.67	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anthropogastromicrobium		96.78	0.14	2990874	high	2	0	1	0	0	0	2	0	0	141	True
+ITF-1-1.bin.69	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	RGIG3701		91.91	2.19	3697771	high	0	0	1	0	0	0	3	1	0	140	False
+ITF-1-1.bin.85	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Beduinella		96.22	0.01	3397771	high	1	0	1	1	0	0	1	0	0	117	True
+ITF-1-1.bin.91	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae			53.25	0.47	853268	medium	0	0	0	0	0	0	0	0	0	28	False
+ITF-1-2.bin.105	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917	CAG-349		96.64	0.0	1860905	high	1	0	1	0	0	0	0	0	0	40	True
+ITF-1-2.bin.106	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	JBAXZS01		98.06	0.71	2606608	high	0	0	1	0	0	0	0	0	0	78	False
+ITF-1-2.bin.110	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917	RGIG8124		97.75	0.13	1757683	high	0	0	1	0	0	0	0	0	0	27	False
+ITF-1-2.bin.127	Bacteria	Bacillota	Bacilli	RFN20	CAG-826	Onthovivens		95.44	0.37	1278734	high	0	0	0	0	0	0	0	0	0	30	False
+ITF-1-2.bin.76	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia_A		96.03	0.23	3174534	high	1	0	1	1	0	0	1	0	0	122	True
+ITF-1-2.bin.93	Bacteria	Bacillota	Clostridia	Christensenellales	Pumilibacteraceae	Protoclostridium		92.76	0.0	1551316	high	0	0	0	0	0	0	1	0	0	46	False
+ITF-1-2.bin.98	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium		82.23	1.05	2944045	medium	0	0	0	1	0	0	1	0	0	92	False
+ITF-1-3.bin.133	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			88.65	0.28	3458955	medium	1	0	0	0	0	0	1	0	0	118	False
+ITF-1-3.bin.139	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	Caccovivens		98.75	0.45	944824	high	0	0	0	0	0	0	0	0	0	12	False
+ITF-1-3.bin.143	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	UMGS1518		82.18	3.38	2936041	medium	7	0	12	0	0	0	2	1	0	176	True
+ITF-1-3.bin.151	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			92.27	0.18	1326089	high	0	0	0	0	0	0	0	0	0	9	False
+ITF-1-3.bin.160	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	UMGS687		97.47	0.44	1040887	high	0	0	0	0	0	0	0	0	0	9	False
+ITF-1-3.bin.169	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae			76.29	0.3	1859333	medium	0	0	0	0	0	0	0	0	0	20	False
+ITF-1-3.bin.17	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	UBA11490		92.96	0.13	1018934	high	0	0	0	0	0	0	0	0	0	9	False
+ITF-1-3.bin.173	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus	Lactiplantibacillus plantarum	78.14	4.85	2581366	medium	0	0	2	2	0	1	0	0	0	84	False
+ITF-1-3.bin.31	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	P3			100.0	0.55	2878738	high	0	0	0	1	0	0	0	0	0	52	False
+ITF-1-3.bin.48	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			83.68	2.09	4057139	medium	9	0	1	1	1	0	7	0	0	140	True
+ITF-1-3.bin.61	Bacteria	Bacillota	Clostridia	Christensenellales	Pumilibacteraceae			93.89	2.09	1638816	high	0	0	0	0	0	0	0	0	0	18	False
+ITF-1-3.bin.67	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			95.62	0.56	3335655	high	0	0	2	1	0	0	1	1	0	156	False
+ITF-1-3.bin.8	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	UBA1829	SIG77		96.05	0.05	2746025	high	0	0	3	0	0	0	1	1	0	97	False
+ITF-1-3.bin.80	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	Caccopulliclostridium		95.77	0.0	925327	high	0	0	0	0	0	0	0	0	0	10	False
+ITF-1-4.bin.103	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Faecousia		93.49	0.03	1936949	high	0	0	0	1	0	0	0	0	0	36	False
+ITF-1-4.bin.104	Bacteria	Cyanobacteriota	Vampirovibrionia	Gastranaerophilales	JAILCC01	JAQVHS01		85.88	8.39	2252566	medium	0	0	0	0	0	0	1	0	0	63	False
+ITF-1-4.bin.105	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	Yeguia		96.61	3.12	2787929	high	1	0	0	1	0	0	1	0	0	83	False
+ITF-1-4.bin.107	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			93.4	3.18	3457731	high	1	0	1	0	0	0	1	0	0	109	True
+ITF-1-4.bin.133	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	JAUNBN01		96.64	0.05	2069285	high	0	0	0	0	0	0	0	0	0	46	False
+ITF-1-4.bin.136	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae			53.69	3.21	1203224	medium	1	0	0	0	0	0	0	0	0	16	False
+ITF-1-4.bin.148	Bacteria	Bacillota	Clostridia	Oscillospirales	CAG-382	UBA1206		90.03	0.98	1736215	high	0	0	1	0	0	0	0	0	0	40	False
+ITF-1-4.bin.15	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	Pelethousia		96.39	0.0	1925477	high	1	0	0	1	0	0	0	0	0	27	False
+ITF-1-4.bin.163	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	SIG588		98.14	0.0	1903419	high	1	0	0	1	0	0	0	0	0	54	False
+ITF-1-4.bin.17	Bacteria	Bacillota	Clostridia	Christensenellales	DTU072	CAVIQK01		97.89	0.0	1516302	high	1	0	1	0	0	0	0	0	0	33	True
+ITF-1-4.bin.23	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas		87.16	0.18	2525748	medium	2	0	0	1	0	0	0	0	0	33	False
+ITF-1-4.bin.24	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			94.34	0.0	2549358	high	3	0	1	1	0	0	1	0	0	96	True
+ITF-1-4.bin.27	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium limosum	99.83	0.78	4337695	high	0	0	0	1	0	0	0	0	0	51	False
+ITF-1-4.bin.4	Bacteria	Bacillota	Bacilli	Acholeplasmatales	WRBM01			97.02	0.18	1537963	high	0	0	1	0	0	0	0	0	0	43	False
+ITF-1-4.bin.5	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia		99.79	0.02	2945404	high	2	0	15	0	0	0	0	0	0	135	True
+ITF-1-4.bin.51	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Excrementavichristensenella		96.37	0.6	3324133	high	0	0	0	1	0	0	0	0	0	59	False
+ITF-1-4.bin.53	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia		100.0	0.05	2946660	high	2	0	11	2	0	0	0	0	0	129	True
+ITF-1-4.bin.6	Bacteria	Bacillota	Clostridia	Christensenellales	Borkfalkiaceae			96.72	0.01	1810449	high	1	0	0	0	0	0	1	0	0	46	False
+ITF-1-4.bin.66	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			81.93	1.7	1335457	medium	0	0	0	0	0	0	0	0	0	21	False
+ITF-1-4.bin.68	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	UBA1685		98.0	1.2	2377105	high	0	0	0	1	0	0	0	0	0	32	False
+ITF-1-4.bin.73	Bacteria	Myxococcota	Myxococcia	Myxococcales	UBA5297	UBA1203		83.86	0.85	3334023	medium	0	0	0	1	0	0	0	0	0	67	False
+ITF-1-4.bin.74	Bacteria	Bacillota	Bacilli	RFN20	CAG-826	SUG2458		91.59	1.44	1824816	high	1	0	0	0	0	0	2	0	0	46	False
+ITF-1-4.bin.80	Bacteria	Bacillota	Clostridia	UBA1212	UBA1255	UMGS1851		94.98	0.56	2190246	high	0	0	1	1	0	0	1	0	0	74	False
+ITF-1-5.bin.100	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		56.6	1.33	1303271	medium	1	0	4	1	0	0	1	0	0	85	True
+ITF-1-5.bin.101	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Leuconostoc	Leuconostoc citreum	83.01	0.29	1559739	medium	0	0	0	4	0	0	0	0	0	52	False
+ITF-1-5.bin.117	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides		98.29	0.09	4209555	high	0	0	4	5	0	0	1	0	0	192	False
+ITF-1-5.bin.12	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	ZOR0009			78.49	1.69	2538888	medium	0	0	1	0	0	0	5	1	0	105	False
+ITF-1-5.bin.126	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	MGBC143606		99.47	0.09	2648865	high	4	0	1	2	0	0	2	1	0	139	True
+ITF-1-5.bin.127	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			75.13	1.42	1227092	medium	0	0	1	0	0	0	0	0	0	23	False
+ITF-1-5.bin.18	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Cloacibacillus		99.85	1.02	3026678	high	1	0	0	0	0	0	0	0	0	39	False
+ITF-1-5.bin.28	Bacteria	Pseudomonadota	Alphaproteobacteria	RF32	UBA3637	RGIG4140		72.91	1.73	1429028	medium	0	0	0	0	0	0	0	0	0	47	False
+ITF-1-5.bin.40	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		99.64	0.24	2282413	high	0	0	3	2	0	0	0	0	0	64	False
+ITF-1-5.bin.43	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			82.37	3.65	4148114	medium	6	0	1	2	1	0	7	0	0	150	True
+ITF-1-5.bin.52	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			68.02	0.2	1092806	medium	0	0	1	0	0	0	0	0	0	20	False
+ITF-1-5.bin.62	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	MGBC143606		92.99	1.8	2992618	high	3	0	1	0	0	0	2	1	0	120	True
+ITF-1-5.bin.72	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			94.81	2.09	2965882	high	1	0	1	1	0	0	1	0	0	128	True
+ITF-1-5.bin.82	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia		83.25	0.55	3560004	medium	1	0	0	2	0	0	2	0	0	95	False
+ITF-1-6.bin.103	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus		99.35	1.06	2652659	high	0	0	0	1	0	0	0	0	0	60	False
+ITF-1-6.bin.123	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			92.78	0.59	2522285	high	1	0	0	1	0	0	0	0	0	77	False
+ITF-1-6.bin.138	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		70.41	5.6	2251122	medium	0	0	1	1	0	0	1	0	0	104	False
+ITF-1-6.bin.161	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	CAG-510		96.58	8.5	4861740	medium	2	0	0	0	0	0	2	0	0	193	False
+ITF-1-6.bin.162	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917			96.01	0.0	1708761	high	0	0	1	0	0	0	0	0	0	42	False
+ITF-1-6.bin.173	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	UBA7485		83.38	0.8	2455660	medium	1	0	0	0	0	0	0	0	0	65	False
+ITF-1-6.bin.176	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Ewingella	Ewingella americana	84.84	1.9	4361435	medium	2	1	1	4	0	0	0	0	0	104	True
+ITF-1-6.bin.23	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis		97.19	0.4	3753128	high	0	0	2	0	0	0	19	1	0	291	False
+ITF-1-6.bin.32	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-138	Phil1		99.62	0.76	2332275	high	0	0	0	1	0	0	0	0	0	31	False
+ITF-1-6.bin.35	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UBA2658		71.56	5.0	1857179	medium	0	0	0	0	0	0	0	0	0	27	False
+ITF-1-6.bin.51	Bacteria	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas_A		82.27	0.01	2281872	medium	0	0	0	0	0	0	0	0	0	64	False
+ITF-1-6.bin.56	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Opitutales	Intestinicryptomonadaceae	Merdousia		95.68	0.0	2654288	high	0	0	2	1	0	0	6	1	0	156	False
+ITF-1-6.bin.61	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		91.78	0.07	3462371	high	1	0	4	5	0	0	1	0	0	176	True
+ITF-1-6.bin.64	Bacteria	Bacillota	Clostridia	Christensenellales	UBA3700	JAVXBP01		96.39	0.0	1723990	high	0	0	2	0	0	0	0	0	0	46	False
+ITF-1-6.bin.65	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminiclostridium_E		99.14	2.03	2483340	high	0	0	0	0	0	0	7	1	0	70	False
+ITF-1-6.bin.70	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	HUN007	HUN007 sp030539275	88.13	3.25	3389349	medium	2	0	0	2	0	0	10	15	1	140	False
+ITF-1-6.bin.72	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio		100.0	0.12	2514568	high	0	0	0	1	0	0	0	0	0	40	False
+ITF-1-6.bin.83	Bacteria	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae			99.96	0.46	2956829	high	2	0	0	0	0	0	1	0	0	75	False
+ITF-1-6.bin.95	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae			99.79	0.03	1799928	high	1	0	0	1	0	0	0	0	0	48	False
+ITF-2-1.bin.100	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia		85.15	2.66	2140679	medium	0	0	0	1	0	0	0	1	0	68	False
+ITF-2-1.bin.106	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Kineothrix		98.49	0.06	3400197	high	3	0	1	2	0	0	1	1	0	153	True
+ITF-2-1.bin.115	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila sp900553145	95.69	2.7	4154862	high	0	0	0	1	0	0	0	0	0	48	False
+ITF-2-1.bin.126	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	Oscillibacter ruminantium	100.0	0.31	2954464	high	3	0	0	5	0	0	0	0	0	44	False
+ITF-2-1.bin.132	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae			72.98	5.07	1813493	medium	0	0	0	0	0	0	0	0	0	25	False
+ITF-2-1.bin.134	Bacteria	Bacillota	Bacilli	RFN20	CAG-288	CAG-345		92.43	0.48	1803049	high	0	0	0	0	0	0	0	0	0	38	False
+ITF-2-1.bin.14	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus		99.68	0.55	2511572	high	0	0	0	1	0	0	0	0	0	74	False
+ITF-2-1.bin.143	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	JALENY01		57.98	2.45	1941777	medium	1	0	0	2	0	0	0	0	0	75	False
+ITF-2-1.bin.148	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter testudinum	99.95	0.05	1723853	high	0	0	0	1	0	0	0	0	0	33	False
+ITF-2-1.bin.2	Bacteria	Bacillota	Clostridia	Christensenellales	Borkfalkiaceae	CAKQSC01		95.56	0.21	2028188	high	0	0	1	0	0	0	0	0	0	54	False
+ITF-2-1.bin.20	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium_O		82.61	0.78	2254650	medium	0	0	0	0	0	0	1	0	0	41	False
+ITF-2-1.bin.21	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila_C	100.0	0.14	2903572	high	2	0	12	2	0	0	0	0	0	146	True
+ITF-2-1.bin.22	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	Fimenecus		92.08	1.18	2245515	high	2	0	2	0	0	0	1	0	0	86	True
+ITF-2-1.bin.27	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium faecium	99.41	0.18	2367681	high	0	0	0	0	0	0	0	0	0	39	False
+ITF-2-1.bin.36	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia_D		98.13	2.36	3208414	high	1	0	0	0	0	0	1	0	0	122	False
+ITF-2-1.bin.39	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Limivivens		94.98	1.59	4614154	high	2	0	1	1	0	0	0	0	0	163	True
+ITF-2-1.bin.44	Bacteria	Bacillota	Dehalobacteriia	UBA4068	UBA4997	JAHZFN01		58.37	1.59	1401490	medium	1	0	0	0	0	0	0	0	0	12	False
+ITF-2-1.bin.48	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter		84.68	0.25	2576157	medium	2	0	0	4	0	0	0	0	0	33	False
+ITF-2-1.bin.52	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Coprobacillaceae	Thomasclavelia		75.31	6.65	2503557	medium	0	0	10	0	0	0	1	0	0	108	False
+ITF-2-1.bin.59	Bacteria	Bacillota	Clostridia	Christensenellales	Borkfalkiaceae	Scatosoma		81.42	2.59	2984350	medium	0	0	2	0	0	0	6	0	0	149	False
+ITF-2-1.bin.60	Bacteria	Bacillota	Clostridia	UBA1381	CALYAR01			85.98	1.81	1811645	medium	0	0	2	0	0	0	0	0	0	45	False
+ITF-2-1.bin.65	Bacteria	Bacillota	Clostridia	Christensenellales	Borkfalkiaceae	Scatosoma		67.76	3.31	1545858	medium	0	0	2	0	0	0	1	0	0	65	False
+ITF-2-1.bin.72	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium butyricum	78.92	1.1	3803581	medium	1	0	0	0	0	0	4	0	0	145	False
+ITF-2-1.bin.78	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Fimivivens		52.65	0.31	1129088	medium	0	0	0	0	0	0	0	0	0	15	False
+ITF-2-1.bin.79	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			92.02	0.99	2862808	high	1	0	0	0	0	0	1	0	0	74	False
+ITF-2-1.bin.80	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae			95.69	0.19	1949608	high	2	0	0	0	0	0	0	0	0	26	False
+ITF-2-1.bin.81	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UBA2658		96.71	1.64	2391740	high	0	0	0	0	0	0	0	0	0	31	False
+ITF-2-1.bin.85	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia	Hespellia sp028693555	78.53	0.34	2904948	medium	1	0	0	2	0	0	1	0	0	101	False
+ITF-2-1.bin.88	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Hominibacterium		99.08	0.02	2810049	high	1	0	0	1	0	0	0	0	0	25	False
+ITF-2-1.bin.91	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger		84.68	2.5	2327345	medium	0	0	0	0	0	0	0	0	0	93	False
+ITF-2-1.bin.93	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	SZUA-378		82.93	0.4	3139391	medium	2	0	1	1	0	0	2	1	0	125	True
+ITF-2-1.bin.94	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium		72.51	4.43	3135648	medium	0	0	0	0	0	0	4	0	0	146	False
+ITF-2-1.bin.98	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia	Hespellia stercorisuis	63.23	2.9	2296266	medium	2	0	0	2	0	0	1	0	0	49	False
+ITF-2-2.bin.111	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Merdiplasma		71.11	1.4	2124060	medium	1	0	0	0	0	0	1	0	0	53	False
+ITF-2-2.bin.12	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter		56.15	6.9	1648056	medium	1	0	0	2	0	0	0	0	0	25	False
+ITF-2-2.bin.121	Bacteria	Myxococcota	Myxococcia	Myxococcales	UBA5297			93.23	3.44	3421096	high	0	1	0	5	0	0	0	0	0	69	False
+ITF-2-2.bin.140	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	JAQVCS01		88.09	1.91	2618817	medium	0	0	0	0	0	0	0	0	0	38	False
+ITF-2-2.bin.141	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Brotaphodocola		93.04	0.25	2815466	high	1	0	0	1	0	0	0	0	0	72	False
+ITF-2-2.bin.142	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		94.79	0.13	2269584	high	3	0	4	3	0	0	0	0	0	107	True
+ITF-2-2.bin.19	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus		97.55	0.83	2496168	high	1	0	0	2	0	0	1	0	0	105	False
+ITF-2-2.bin.29	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Suilimivivens		97.57	0.01	3039373	high	2	0	2	1	0	0	2	1	0	149	True
+ITF-2-2.bin.41	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae			72.72	2.15	1162460	medium	0	0	0	0	0	0	0	0	0	21	False
+ITF-2-2.bin.53	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae			64.57	1.04	1694193	medium	1	0	0	1	0	0	0	0	0	12	False
+ITF-2-2.bin.59	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_G		96.98	0.55	2800306	high	2	0	0	2	0	0	0	0	0	90	False
+ITF-2-2.bin.80	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia		79.87	2.4	2835110	medium	2	0	1	3	0	0	0	0	0	86	True
+ITF-2-2.bin.9	Bacteria	Bacillota	Negativicutes	FLKF01	Massilibacillaceae	Massilibacillus		95.37	0.77	3001573	high	2	0	0	0	0	0	0	0	0	74	False
+ITF-2-2.bin.92	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		88.95	0.6	3351933	medium	1	0	0	0	0	0	0	0	0	88	False
+ITF-2-2.bin.94	Bacteria	Bacillota	Clostridia	TANB77	CAG-508	Merdicola		87.22	4.86	1470701	medium	1	0	0	0	0	0	0	0	0	54	False
+ITF-2-2.bin.95	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	Hominenteromicrobium		97.81	0.11	2298751	high	0	0	0	0	0	0	4	0	0	80	False
+ITF-2-2.bin.98	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae			99.58	0.72	2037973	high	0	0	0	1	0	0	0	0	0	47	False
+ITF-2-3.bin.1	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae			93.88	2.09	2915313	high	0	0	5	0	0	0	3	1	0	151	False
+ITF-2-3.bin.104	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Paraeggerthella		78.57	3.71	2298452	medium	0	0	0	0	0	0	0	0	0	19	False
+ITF-2-3.bin.106	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae			85.19	6.22	3405898	medium	0	0	2	0	0	0	7	1	0	173	False
+ITF-2-3.bin.11	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	JAVBQJ01		80.23	4.35	4186086	medium	1	0	12	0	0	0	2	2	0	326	True
+ITF-2-3.bin.118	Bacteria	Cyanobacteriota	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae			74.02	7.28	1578510	medium	0	0	0	0	0	0	0	0	0	42	False
+ITF-2-3.bin.120	Bacteria	Bacillota	Clostridia	Oscillospirales	CAG-272			80.26	0.75	2711196	medium	2	0	1	1	0	0	3	0	0	137	True
+ITF-2-3.bin.125	Bacteria	Bacillota	Bacilli	ML615J-28	CAG-313	CAJGCS01		91.76	0.08	1569396	high	1	0	1	1	0	0	1	0	0	21	True
+ITF-2-3.bin.146	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		58.13	2.17	2142889	medium	2	0	3	2	0	0	3	0	0	126	True
+ITF-2-3.bin.151	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	UBA1784		54.54	3.77	1988344	medium	0	0	4	0	0	0	0	1	0	106	False
+ITF-2-3.bin.155	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	Yeguia		72.87	6.63	3171568	medium	1	0	0	1	0	0	3	0	0	114	False
+ITF-2-3.bin.163	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Comamonas	Comamonas aquatica	66.48	0.24	2644983	medium	0	0	0	1	0	0	0	0	0	34	False
+ITF-2-3.bin.176	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	UBA1829	UBA11452		88.23	1.75	5709054	medium	0	0	14	1	0	0	2	1	0	331	False
+ITF-2-3.bin.179	Bacteria	Bacillota	Clostridia	Oscillospirales	CAG-272	QALR01		97.52	0.06	2139850	high	1	0	2	1	0	0	0	0	0	71	True
+ITF-2-3.bin.180	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales				80.07	0.05	1814796	medium	0	0	5	0	0	0	0	1	0	63	False
+ITF-2-3.bin.184	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter		88.7	0.27	2217424	medium	1	0	4	2	0	0	3	0	0	113	True
+ITF-2-3.bin.188	Bacteria	Bacillota	Clostridia	Oscillospirales	UMGS1384	JAAZKA01		95.6	0.18	2738057	high	0	0	6	0	0	0	1	0	0	112	False
+ITF-2-3.bin.190	Bacteria	Pseudomonadota	Alphaproteobacteria	RUG11792	RUG11792			98.93	0.1	840812	high	0	0	0	0	0	0	0	0	0	14	False
+ITF-2-3.bin.195	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-488		92.66	3.71	2698814	high	1	0	1	0	0	0	2	0	1	117	True
+ITF-2-3.bin.199	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	UMGS687		98.12	0.91	893793	high	0	0	0	0	0	0	0	0	0	10	False
+ITF-2-3.bin.23	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium_O		67.31	1.22	2246802	medium	0	0	0	0	0	0	0	0	0	21	False
+ITF-2-3.bin.29	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio_A		99.68	0.14	2342852	high	2	0	0	0	0	0	0	0	0	65	False
+ITF-2-3.bin.38	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Sarcina		97.52	5.07	3306630	medium	0	0	0	1	0	0	0	0	0	121	False
+ITF-2-3.bin.39	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila		74.12	0.28	1780446	medium	0	0	0	0	0	0	0	0	0	22	False
+ITF-2-3.bin.47	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	RUG11551		89.21	1.99	5751731	medium	0	0	2	0	0	0	4	0	0	205	False
+ITF-2-3.bin.48	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae			98.38	0.22	1727557	high	0	0	0	1	0	0	0	0	0	39	False
+ITF-2-3.bin.56	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	JAQVKF01		88.94	0.74	3997730	medium	0	0	0	0	0	0	1	0	0	139	False
+ITF-2-3.bin.57	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae			81.77	0.44	2599822	medium	1	0	0	0	0	0	4	0	0	134	False
+ITF-2-3.bin.59	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter		78.39	2.86	1379352	medium	0	0	0	1	0	0	0	0	0	25	False
+ITF-2-3.bin.65	Bacteria	Bacillota	Clostridia	Christensenellales	Pumilibacteraceae	Protoclostridium		97.41	0.03	2157890	high	0	0	0	0	0	0	1	0	0	78	False
+ITF-2-3.bin.69	Bacteria	Bacillota	Bacilli	CAJFEE01	CAJFEE01	Harrysmithiimonas		100.0	0.78	2928341	high	1	0	0	2	0	0	0	0	0	42	False
+ITF-2-3.bin.79	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	JAVBQJ01		78.77	5.48	3877796	medium	0	0	6	0	0	0	7	2	0	305	False
+ITF-2-3.bin.83	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917			89.84	1.04	1522001	medium	0	0	1	0	0	0	0	0	0	26	False
+ITF-2-3.bin.91	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae			86.62	2.92	2406266	medium	0	0	6	0	0	0	2	6	0	133	False
+ITF-2-3.bin.93	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia		99.73	0.58	2671326	high	2	0	0	2	0	0	0	0	0	63	False
+ITF-2-3.bin.99	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		91.05	2.18	3482674	high	0	0	0	2	0	0	0	0	0	173	False
+ITF-2-4.bin.124	Bacteria	Cyanobacteriota	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	Zag111		96.37	0.09	1871352	high	0	0	0	0	0	0	0	0	0	41	False
+ITF-2-4.bin.13	Bacteria	Bacillota	Clostridia	Christensenellales	DTU072	CAG-1782		94.74	0.52	2095975	high	0	0	1	0	0	0	1	0	0	38	False
+ITF-2-4.bin.137	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium		68.59	0.79	3076489	medium	3	0	1	0	0	0	3	0	0	100	True
+ITF-2-4.bin.28	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira		99.99	1.92	3741331	high	1	0	0	1	0	0	0	0	0	101	False
+ITF-2-4.bin.74	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		55.67	1.54	1397326	medium	0	0	1	1	0	0	0	0	0	53	False
+ITF-2-5.bin.1	Bacteria	Pseudomonadota	Alphaproteobacteria	RF32	UBA3637			99.81	0.23	1270218	high	0	0	0	0	0	0	0	0	0	36	False
+ITF-2-5.bin.114	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter		90.58	0.44	2784302	high	0	0	0	0	0	0	0	0	0	36	False
+ITF-2-5.bin.133	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Choladousia		93.4	0.66	3759364	high	1	0	1	0	0	0	0	0	0	107	True
+ITF-2-5.bin.148	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917	RGIG4097		96.94	0.8	1639651	high	0	0	1	0	0	0	1	0	0	32	False
+ITF-2-5.bin.21	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia_C		63.93	0.93	2045120	medium	1	0	0	2	0	0	0	0	0	76	False
+ITF-2-5.bin.30	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia		76.15	0.28	2196049	medium	1	0	0	1	0	0	0	0	0	57	False
+ITF-2-5.bin.36	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		90.95	0.05	3393070	high	1	0	6	5	0	0	4	0	0	157	True
+ITF-2-5.bin.41	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Novisyntrophococcus	Novisyntrophococcus sp028692395	76.55	6.0	2469466	medium	0	0	1	1	0	0	1	1	0	93	False
+ITF-2-5.bin.42	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UBA2922		98.16	0.12	2288637	high	1	0	0	0	0	0	0	0	0	30	False
+ITF-2-5.bin.68	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UBA2658		91.65	0.05	2539055	high	1	0	0	1	0	0	0	0	0	35	False
+ITF-2-5.bin.71	Bacteria	Bacillota	Clostridia	Christensenellales	Pumilibacteraceae			92.38	2.13	1568941	high	0	0	0	0	0	0	0	0	0	18	False
+ITF-2-5.bin.72	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Fimivivens		95.76	0.4	2152465	high	0	0	0	0	0	0	0	0	0	25	False
+ITF-2-5.bin.85	Bacteria	Pseudomonadota	Alphaproteobacteria	RF32	CAG-977	UBA2903		94.51	1.05	2079843	high	0	0	0	0	0	0	0	0	0	47	False
+ITF-2-5.bin.86	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_U		98.14	0.32	3444294	high	6	0	0	1	1	0	1	0	0	101	False
+ITF-2-5.bin.94	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917			95.86	0.16	1591946	high	0	0	1	0	0	0	0	0	0	30	False
+ITF-2-6.bin.100	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae			92.49	1.98	4313531	high	0	0	0	1	0	0	1	0	0	164	False
+ITF-2-6.bin.103	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Coprobacillaceae	Coprobacillus		94.78	0.65	2714176	high	0	0	1	0	0	0	1	0	0	92	False
+ITF-2-6.bin.105	Bacteria	Bacillota	Clostridia	Oscillospirales	CAG-272			94.57	0.02	2204970	high	2	0	0	1	0	0	1	0	0	86	False
+ITF-2-6.bin.107	Bacteria	Bacillota	Clostridia	Christensenellales	HGM11417			96.17	0.0	1348298	high	0	0	0	0	0	0	0	0	0	26	False
+ITF-2-6.bin.111	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia		92.95	0.3	3557653	high	1	0	0	4	0	0	0	0	0	162	False
+ITF-2-6.bin.136	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae			99.91	0.38	3150457	high	1	0	0	2	0	0	0	0	0	70	False
+ITF-2-6.bin.138	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Opitutales	Intestinicryptomonadaceae	Intestinicryptomonas		94.32	0.16	2285581	high	0	0	1	1	0	0	0	1	0	74	False
+ITF-2-6.bin.141	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	JAQVCR01		92.22	1.19	3036767	high	0	0	1	1	0	0	2	1	0	132	False
+ITF-2-6.bin.151	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_F		99.72	0.79	2900225	high	2	0	1	5	0	0	3	0	0	99	True
+ITF-2-6.bin.155	Bacteria	Bacillota	Clostridia	Christensenellales	CAG-917			97.37	0.01	1902251	high	1	0	3	0	0	0	0	0	0	57	True
+ITF-2-6.bin.156	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Onthomonas		85.01	2.36	1660847	medium	0	0	0	1	0	0	0	0	0	23	False
+ITF-2-6.bin.158	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster		70.93	5.0	3340868	medium	1	0	0	2	0	0	0	0	0	77	False
+ITF-2-6.bin.163	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	JAVBQJ01		83.55	1.44	4203773	medium	0	0	11	0	0	0	4	1	0	319	False
+ITF-2-6.bin.170	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor		67.0	4.02	2367319	medium	2	0	1	2	0	0	2	0	0	172	True
+ITF-2-6.bin.31	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1242	UBA5489		98.33	0.0	981160	high	0	0	0	0	0	0	0	0	0	12	False
+ITF-2-6.bin.51	Bacteria	Bacillota	Bacilli	ML615J-28	CAG-698	CAKOMG01		95.82	0.47	1746449	high	6	0	1	0	0	0	1	1	0	26	True
+ITF-2-6.bin.54	Bacteria	Bacillota	Clostridia	Oscillospirales	CAG-272			93.87	0.14	3330839	high	2	0	1	1	0	0	2	0	0	141	True
+ITF-2-6.bin.74	Bacteria	Bacillota	Clostridia	Christensenellales	HGM11417	HGM11417		78.32	0.14	2012217	medium	0	0	2	0	0	0	1	0	0	64	False
+ITF-2-6.bin.9	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	RUG369		89.74	0.78	4233163	medium	0	0	3	0	0	0	2	0	0	133	False
+ITF-2-6.bin.98	Bacteria	Bacillota	Clostridia	Christensenellales	HGM11417			91.53	2.66	1898742	high	1	0	3	0	0	0	0	0	0	64	True
+PM.1.1.bin.24	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella		64.85	1.8	1883549	medium	0	0	0	0	0	0	0	0	0	25	False
+PM.1.1.bin.27	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hominisplanchenecus		83.84	0.19	2821565	medium	1	0	0	0	0	0	1	0	0	87	False
+PM.1.1.bin.36	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales				99.25	0.24	2469219	high	1	0	6	0	0	0	0	1	0	82	True
+PM.1.1.bin.47	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Scatomorpha		93.78	0.34	2361422	high	0	0	0	0	0	0	1	0	0	40	False
+PM.1.1.bin.49	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium faecium	89.52	0.41	1871501	medium	0	0	0	0	0	0	0	0	0	35	False
+PM.1.1.bin.61	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	SIG588		99.29	0.0	2196748	high	1	0	0	1	0	0	0	0	0	73	False
+PM.1.2.bin.25	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		79.27	6.95	4190732	medium	0	0	4	3	0	0	2	0	0	194	False
+PM.1.2.bin.39	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS856		74.93	5.62	3370240	medium	1	0	2	0	0	0	2	0	0	169	True
+PM.1.2.bin.62	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae			63.4	1.45	1448949	medium	2	0	2	0	0	0	0	0	0	54	True
+PM.1.2.bin.68	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes_A		99.95	0.59	3311157	high	0	0	4	3	0	0	1	1	0	158	False
+PM.2.1.bin.17	Bacteria	Bacillota	Clostridia	Christensenellales	UBA1750			92.88	2.49	1894162	high	3	0	0	0	0	0	0	0	0	45	False
+PM.2.1.bin.40	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae			89.16	0.4	2316237	medium	1	0	0	0	0	0	0	0	0	32	False
+PM.2.1.bin.61	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		99.67	0.18	2082061	high	0	0	2	3	0	0	1	0	0	81	False
+PM.2.1.bin.71	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		92.73	0.79	3601597	high	1	0	1	0	0	0	2	0	0	113	True
+PM.2.1.bin.76	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	JAAYNV01		89.97	1.6	3401397	medium	3	0	0	2	0	0	1	2	0	124	False
+PM.2.1.bin.9	Bacteria	Bacillota	Clostridia	TANB77	CAG-508	UMGS1663		96.93	0.24	1392828	high	1	0	0	0	0	0	0	0	0	36	False
+PM.2.2.bin.10	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	CAAGNP01		94.33	0.17	2634888	high	0	0	1	1	0	0	1	0	0	108	False
+PM.2.2.bin.16	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS856		89.18	2.54	4458339	medium	2	0	3	2	0	0	2	0	0	205	True
+PM.2.2.bin.23	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Scatomorpha		97.41	0.5	2379159	high	0	0	0	0	0	0	0	0	0	42	False
+PM.2.2.bin.4	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	Spiro-02		98.75	0.39	2960762	high	0	0	1	0	0	0	0	0	0	70	False
+PM.2.2.bin.49	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	UBA9848		94.52	0.35	1353394	high	0	0	0	0	0	0	0	0	0	12	False
+PM.2.2.bin.53	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae			95.35	1.06	1741445	high	0	0	0	0	0	0	0	0	0	44	False
+PM.2.2.bin.82	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter		100.0	0.34	2167102	high	0	0	3	1	0	0	1	0	0	85	False
+PM.2.3.bin.103	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	P3	UBA10566		98.36	0.15	2002505	high	0	0	1	0	0	0	0	0	0	57	False
+PM.2.3.bin.17	Bacteria	Bacillota	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma		94.95	0.36	3654888	high	1	0	2	0	0	0	3	1	0	143	True
+PM.2.3.bin.27	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola		99.68	0.01	3372960	high	1	0	4	3	0	0	2	0	0	234	True
+PM.2.3.bin.30	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger		99.89	0.05	2764446	high	0	0	2	0	0	0	3	1	0	148	False
+PM.2.3.bin.48	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Limivicinus		64.43	2.48	1549190	medium	1	0	0	0	0	0	0	0	0	31	False
+PM.2.3.bin.94	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hespellia		99.9	1.22	3857646	high	1	0	0	2	0	0	0	0	0	100	False
+PM.2.3.bin.99	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	UBA1829	UBA11452		88.2	6.84	6779011	medium	0	0	15	1	0	0	2	1	0	321	False
+PM.2.4.bin.10	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	G3-4614	Caccoplasma_A		99.97	0.1	2283083	high	0	0	5	2	0	0	0	0	0	100	False
+PM.2.4.bin.12	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cacconaster	Cacconaster sp028686425	94.06	0.09	2314348	high	2	0	3	1	0	0	0	1	0	66	True
+PM.2.4.bin.3	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia		99.97	0.04	2376261	high	1	0	8	0	0	0	0	0	0	86	True
+PM.2.4.bin.30	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales				91.53	0.09	2463403	high	0	0	2	3	0	0	9	0	0	129	False
+PM.2.4.bin.34	Bacteria	Desulfobacterota_I	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	CASQEL01		86.29	0.86	2378296	medium	0	0	0	0	0	0	0	0	0	36	False
+PM.2.4.bin.36	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		93.71	0.19	2299342	high	1	0	5	2	0	0	1	0	0	102	True
+PM.2.4.bin.39	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Egerieousia		93.87	0.13	2221140	high	1	0	4	1	0	0	0	1	0	60	True
+PM.2.4.bin.44	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae			79.41	2.16	2797780	medium	1	0	0	2	0	0	2	0	0	85	False
+PM.2.4.bin.60	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia		98.54	0.15	2202492	high	0	0	0	1	0	0	0	2	0	68	False
+PM.2.4.bin.73	Bacteria	Pseudomonadota	Gammaproteobacteria	CAUUCF01	CAUUCF01	CAUUCF01		98.74	0.0	997625	high	0	0	0	0	0	0	0	0	0	30	False
+PM.2.4.bin.80	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp900552405	99.48	3.05	7684174	high	4	0	7	5	0	0	7	1	0	535	True
+PM.2.4.bin.83	Bacteria	Bacillota	Bacilli	RFN20	CAG-826	Fiminaster		98.26	0.28	1232940	high	0	0	0	0	0	0	0	0	0	31	False
+PM.2.4.bin.89	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae			98.6	0.41	2724825	high	0	0	2	2	0	0	2	0	0	104	False
+PM.2.5.bin.1	Bacteria	Bacillota	Clostridia	Christensenellales	Borkfalkiaceae			97.48	0.01	1555414	high	0	0	0	0	0	0	0	0	0	23	False
+PM.2.5.bin.12	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	WRLA01	WRLA01	WRLA01 sp028710155	97.8	0.71	2519936	high	0	0	3	1	0	0	0	0	0	66	False
+PM.2.5.bin.15	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae			93.11	0.0	2559227	high	0	0	0	0	0	0	0	0	0	54	False
+PM.2.5.bin.23	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	KM106-2		91.18	0.73	3683657	high	2	0	0	1	0	0	3	1	0	164	False
+PM.2.5.bin.25	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	CALXXL01		94.94	0.12	2417693	high	0	0	14	0	0	0	0	1	0	95	False
+PM.2.5.bin.32	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JAVKMO01		86.74	0.33	2224776	medium	0	1	1	0	0	0	0	0	0	55	False
+PM.2.5.bin.42	Bacteria	Bacillota	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-177		97.18	0.04	2258504	high	1	0	2	1	0	0	1	0	0	98	True
+PM.2.5.bin.60	Bacteria	Bacillota	Clostridia	Christensenellales	DTU072	CAVIQK01		55.37	0.09	918455	medium	1	0	1	0	0	0	1	0	0	23	True
+HM.1.3.bin.63	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	Methanogranum		97.23	2.13	1565563	high	0	0	0	0	0	0	0	0	0	6	False
+ITF-1-1.bin.105	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus_A		97.98	0.5	1792027	high	0	0	0	0	0	0	0	0	0	16	False
+ITF-1-3.bin.131	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanomicrobium		93.77	0.05	1983918	high	0	0	0	0	0	0	0	0	0	12	False
+ITF-1-3.bin.138	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae	Methanocorpusculum		90.86	0.16	1699826	high	0	0	0	0	0	0	0	0	0	11	False
+ITF-1-3.bin.22	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus_A		98.29	0.48	1809370	high	0	0	0	0	0	0	0	0	0	16	False
+ITF-1-3.bin.76	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae			99.3	0.32	2393788	high	0	0	0	0	0	0	0	0	0	35	False
+ITF-1-4.bin.118	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae			96.13	0.47	1776556	high	0	0	0	0	0	0	0	0	0	8	False
+ITF-1-5.bin.122	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae	Methanocorpusculum	Methanocorpusculum sp023396065	94.63	0.48	1974672	high	0	0	0	0	0	0	0	0	0	14	False
+PM.2.2.bin.66	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae			99.6	0.77	2478018	high	0	0	0	0	0	0	0	0	0	43	False

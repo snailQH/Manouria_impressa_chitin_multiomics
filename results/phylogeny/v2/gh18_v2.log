@@ -1,0 +1,388 @@
+IQ-TREE version 3.1.3 for Linux x86 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    the analysis server (AVX512, FMA3, 125 GB RAM)
+Command: iqtree -s gh18_v2_trim.faa -m MFP -B 1000 -alrt 1000 -T 16 --prefix gh18_v2 -redo
+Seed:    379308 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Sep 27 00:53:07 2026
+Kernel:  AVX+FMA - 16 threads (72 CPU cores detected)
+
+Reading alignment file gh18_v2_trim.faa ... Fasta format detected
+Reading fasta file: done in 0.00377512 secs using 83.68% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0017972 secs using 1465% CPU
+Alignment has 162 sequences with 322 columns, 322 distinct patterns
+315 parsimony-informative, 3 singleton sites, 3 constant sites
+                                                         Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 8.29697e-05 secs using 224.2% CPU
+   1  CHI3L1_Homo_sapiens_P36222                                11.80%    passed     80.97%
+   2  CHID1_Homo_sapiens_Q9BWS9                                 27.33%    passed      9.98%
+   3  OVGP1_Homo_sapiens_Q12889                                  2.80%    passed     27.26%
+   4  CHI3L2_Homo_sapiens_Q15782                                11.80%    passed     92.78%
+   5  CTBS_Homo_sapiens_Q01459                                  20.50%    failed      1.61%
+   6  CHIT1_Homo_sapiens_Q13231                                  3.42%    passed     82.95%
+   7  CHIA_Homo_sapiens_Q9BZP6                                   3.11%    passed     99.29%
+   8  Chil3_Mus_musculus_O35744                                 11.49%    passed     97.35%
+   9  CHI3L1_Bos_taurus_P30922                                  11.80%    passed     75.07%
+  10  Ctbs_Rattus_norvegicus_Q01460                             21.74%    failed      1.47%
+  11  Chi3l1_Mus_musculus_Q61362                                12.11%    passed     93.07%
+  12  Ctbs_Mus_musculus_Q8R242                                  21.74%    failed      1.33%
+  13  Chil4_Mus_musculus_Q91Z98                                 11.49%    passed     98.58%
+  14  Chit1_Mus_musculus_Q9D7Q1                                  4.04%    passed     63.21%
+  15  Chia_Rattus_norvegicus_Q6RY07                              3.11%    passed     99.64%
+  16  Ovgp1_Mus_musculus_Q62010                                  2.80%    passed     48.08%
+  17  Chia_Mus_musculus_Q91XA9                                   3.11%    passed     99.84%
+  18  CHIA_Bos_taurus_Q95M17                                     3.11%    passed     98.00%
+  19  Chi3l1_Rattus_norvegicus_Q9WTV1                           11.80%    passed     99.45%
+  20  CHI3L1_Pongo_abelii_Q5RBP6                                11.80%    passed     87.46%
+  21  OVGP1_Mesocricetus_auratus_Q60557                          2.80%    passed     56.72%
+  22  CHI3L1_Capra_hircus_Q8SPQ0                                11.80%    passed     54.84%
+  23  CHI3L1_Sus_scrofa_Q29411                                  11.80%    passed     58.11%
+  24  CHI3L1_Ovis_aries_Q6TMG6                                  12.73%    passed     80.79%
+  25  CHI3L1_Bubalus_bubalis_Q7YS85                             11.80%    passed     81.24%
+  26  OVGP1_Bos_taurus_Q28042                                    3.11%    failed      3.51%
+  27  Chid1_Mus_musculus_Q922Q9                                 27.33%    passed     18.51%
+  28  OVGP1_Papio_anubis_P36718                                  2.80%    passed     32.66%
+  29  OVGP1_Ovis_aries_Q28542                                    3.11%    passed      5.04%
+  30  OVGP1_Sus_scrofa_Q28990                                    3.11%    failed      2.48%
+  31  Chid1_Rattus_norvegicus_A0JPQ9                            27.33%    passed     17.89%
+  32  CHID1_Bos_taurus_Q5EAB4                                   27.33%    failed      4.85%
+  33  CHID1_Pongo_abelii_Q5RFF6                                 27.33%    passed      9.98%
+  34  chid1_Danio_rerio_Q7SYK0                                  27.95%    failed      1.18%
+  35  chid1_Xenopus_tropicalis_Q66IL0                           27.02%    passed      8.52%
+  36  chid1_Xenopus_laevis_Q68EX9                               27.33%    failed      4.39%
+  37  LOC116827886_Chelonoidis_abingdonii_A0A8C0GYH2             3.11%    passed     65.64%
+  38  CTBS_Chelonoidis_abingdonii_A0A8C0FXB1                    21.74%    failed      1.97%
+  39  GH18_Chelonoidis_abingdonii_A0A8C0GT31                     2.48%    passed     33.15%
+  40  GH18_Chelonoidis_abingdonii_A0A8C0GVC4                     3.42%    passed     99.45%
+  41  GH18_Chelonoidis_abingdonii_A0A8C0GTG3                    16.15%    passed     99.22%
+  42  LOC116827926_Chelonoidis_abingdonii_A0A8C0GVS2            11.80%    passed     82.49%
+  43  GH18_Chelonoidis_abingdonii_A0A8C0IQR7                     9.01%    passed     98.97%
+  44  GH18_Chelonoidis_abingdonii_A0A8C0GXM9                     9.94%    passed     98.20%
+  45  GH18_Chelonoidis_abingdonii_A0A8C0IRE8                     7.76%    passed     98.26%
+  46  GH18_Chelonoidis_abingdonii_A0A8C0GT19                    10.87%    passed     98.87%
+  47  GH18_Chelonoidis_abingdonii_A0A8C0IRE6                    36.34%    passed     95.94%
+  48  GH18_Chelonoidis_abingdonii_A0A8C0H554                    14.60%    passed     99.43%
+  49  GH18_Chelonoidis_abingdonii_A0A8C0GVE7                    17.08%    passed     93.77%
+  50  GH18_Chelonoidis_abingdonii_A0A8C0IRF1                    16.77%    passed     79.53%
+  51  CHIA_Pelodiscus_sinensis_K7FXF0                            3.11%    passed     62.17%
+  52  CTBS_Pelodiscus_sinensis_K7GGT1                           24.53%    failed      0.44%
+  53  GH18_Pelodiscus_sinensis_K7FSX9                            3.11%    passed     74.18%
+  54  CHIT1_Pelodiscus_sinensis_K7G303                           3.42%    passed     99.81%
+  55  CHID1_Pelodiscus_sinensis_K7G6J3                          27.33%    failed      3.56%
+  56  CHIA_Pelodiscus_sinensis_K7FXD5                           10.25%    passed     76.64%
+  57  GH18_Pelodiscus_sinensis_K7FUS4                           10.56%    passed     89.31%
+  58  CTBS_Pelodiscus_sinensis_K7GGT7                           39.13%    passed     10.70%
+  59  LOC100565573_Anolis_carolinensis_G1KBW2                    3.11%    passed     95.40%
+  60  LOC100553385_Anolis_carolinensis_H9GAH3                   22.05%    failed      0.32%
+  61  LOC100565965_Anolis_carolinensis_G1KBT2                    3.42%    passed     96.71%
+  62  GH18_Anolis_carolinensis_G1KW56                            8.39%    passed     95.71%
+  63  LOC100559926_Anolis_carolinensis_G1KBT3                   11.49%    passed     82.00%
+  64  GH18_Anolis_carolinensis_R4GA55                           41.30%    passed     20.96%
+  65  chia_Anolis_carolinensis_R4GAC5                            3.11%    passed     76.19%
+  66  LOC100559528_Anolis_carolinensis_A0A803SPL8               10.56%    passed     93.57%
+  67  GH18_Anolis_carolinensis_G1KBT4                           13.04%    passed     97.18%
+  68  LOC100559528_Anolis_carolinensis_R4G965                    9.63%    passed     74.43%
+  69  LOC100565373_Anolis_carolinensis_A0A803SS54               14.60%    passed     50.47%
+  70  LOC100559528_Anolis_carolinensis_G1KBZ0                   10.56%    passed     95.46%
+  71  GH18_Anolis_carolinensis_H9GTR5                           44.72%    passed     99.03%
+  72  GH18_Gopherus_agassizii_A0A452J628                         3.11%    passed     98.47%
+  73  GH18_Gopherus_agassizii_A0A452J6F4                        16.77%    passed     54.39%
+  74  GH18_Gopherus_agassizii_A0A452GJC0                        39.13%    passed      6.41%
+  75  GH18_Gopherus_agassizii_A0A452J5Y4                         3.42%    passed     93.03%
+  76  GH18_Gopherus_agassizii_A0A452J3X8                        27.33%    failed      0.29%
+  77  GH18_Gopherus_agassizii_A0A452J610                        12.11%    passed     19.72%
+  78  GH18_Gopherus_agassizii_A0A452J638                        12.42%    passed     18.30%
+  79  GH18_Gopherus_agassizii_A0A452J5Y9                        11.80%    passed     89.74%
+  80  GH18_Gopherus_agassizii_A0A452J618                         6.21%    passed     83.03%
+  81  GH18_Gopherus_agassizii_A0A452J623                        11.49%    passed     71.97%
+  82  GH18_Gopherus_agassizii_A0A452J620                        11.80%    passed     55.22%
+  83  GH18_Gopherus_agassizii_A0A452J3Y4                        27.33%    passed      8.22%
+  84  GH18_Gopherus_agassizii_A0A452J612                        32.92%    passed     83.46%
+  85  ctbs_Danio_rerio_Q504D9                                   21.74%    failed      0.06%
+  86  chia_3_Danio_rerio_Q6NZZ8                                  3.11%    passed     86.02%
+  87  chia_4_Danio_rerio_Q7SYA8                                  4.04%    passed     99.98%
+  88  chia_2_Danio_rerio_Q6P006                                  3.11%    passed     34.23%
+  89  si_ch211_226m16_2_Danio_rerio_A0A8M1P3P0                  22.98%    failed      0.00%
+  90  chia_3_Danio_rerio_A0AC58GPZ0                              3.11%    passed     86.55%
+  91  zgc_173927_Danio_rerio_B7ZVM0                              3.11%    passed     99.77%
+  92  chia_1_Danio_rerio_Q7ZVF1                                  6.21%    passed     94.72%
+  93  chia_6_Danio_rerio_A0AC58IIV1                             40.06%    passed     87.78%
+  94  chia_6_Danio_rerio_F1QJL0                                  3.11%    passed     99.74%
+  95  ovgp1_Danio_rerio_A0AB32U0I7                               2.80%    passed     75.28%
+  96  ctbs_Danio_rerio_A0AC58GQH5                               39.13%    failed      0.72%
+  97  ovgp1_Danio_rerio_A0AC58GSW9                               2.80%    passed     75.28%
+  98  si_ch211_226m16_2_Danio_rerio_A0AC58IIB9                  30.75%    failed      0.01%
+  99  ovgp1_Danio_rerio_A0AC58GSX2                               3.11%    passed     73.07%
+ 100  ovgp1_Danio_rerio_A0AC58GSZ4                              13.66%    passed     76.23%
+ 101  chid1_Danio_rerio_A0AC58IUL6                              42.55%    passed      7.29%
+ 102  chid1_Danio_rerio_A0AC58IUN0                              36.65%    passed     19.63%
+ 103  ovgp1_Danio_rerio_A0AC58GSZ1                               3.11%    passed     73.07%
+ 104  ovgp1_Danio_rerio_A0AC58GSZ6                              20.81%    passed     91.84%
+ 105  LOC100494478_Xenopus_tropicalis_A0A6I8SQE4                23.60%    passed     12.80%
+ 106  chia_prov_Xenopus_tropicalis_Q5CZZ2                        3.11%    passed     76.60%
+ 107  ctbs_Xenopus_tropicalis_Q5HZT4                            21.74%    passed     15.64%
+ 108  chit1_Xenopus_tropicalis_F6RI22                            2.80%    passed     99.96%
+ 109  chia_2_Xenopus_tropicalis_B1H1D5                           2.48%    passed     34.52%
+ 110  chia_Xenopus_tropicalis_F6RI40                             3.11%    passed     76.60%
+ 111  chia_2_Xenopus_tropicalis_F6RI56                           2.48%    passed     34.52%
+ 112  chia_Xenopus_tropicalis_Q28FS1                             2.48%    passed     34.52%
+ 113  LOC548945_Xenopus_tropicalis_Q5BKF4                        2.48%    passed     34.52%
+ 114  chia_2_Xenopus_tropicalis_A0A8J0T090                      10.87%    passed     50.27%
+ 115  UY3_15523_Chelonia_mydas_M7ARW0                           23.60%    passed      6.82%
+ 116  UY3_12054_Chelonia_mydas_M7B1F2                            3.11%    passed     76.62%
+ 117  UY3_12053_Chelonia_mydas_M7BFK4                            6.83%    passed     99.90%
+ 118  UY3_12056_Chelonia_mydas_M7AZ92                            6.21%    passed     99.76%
+ 119  LOC101940148_Chrysemys_picta_A0A8C3HW02                    3.11%    passed     87.08%
+ 120  LOC101939147_Chrysemys_picta_A0A8C3HWF2                    3.42%    passed     93.48%
+ 121  LOC101939873_Chrysemys_picta_A0A8C3HYA8                    2.48%    passed     85.05%
+ 122  LOC101940411_Chrysemys_picta_A0A8C3HVV4                    3.11%    passed     64.66%
+ 123  CTBS_Chrysemys_picta_A0A8C3ISG5                           24.53%    failed      0.19%
+ 124  LOC101939873_Chrysemys_picta_A0A8C3HVW0                    2.48%    passed     85.05%
+ 125  LOC101940148_Chrysemys_picta_A0A8C3HX43                    7.45%    passed     92.24%
+ 126  CHID1_Chrysemys_picta_A0A8C3FQ11                          27.33%    passed      7.71%
+ 127  LOC101939598_Chrysemys_picta_A0A8C3P8T4                   17.70%    passed     97.38%
+ 128  GH18_Chrysemys_picta_A0A8C3P8U4                           17.70%    passed     94.88%
+ 129  CHID1_Chrysemys_picta_A0A8C3FHK1                          30.75%    passed     15.69%
+ 130  GH18_Chrysemys_picta_A0A8C3HWI6                           15.22%    passed     58.09%
+ 131  GH18_Chrysemys_picta_A0A8C3F7H9                           10.25%    passed     98.97%
+ 132  CTBS_Alligator_mississippiensis_A0A151NJ12                13.98%    failed      3.15%
+ 133  CHIA_M31_Alligator_mississippiensis_A0A151NBR7             5.59%    passed     92.22%
+ 134  TAF8_1_Alligator_mississippiensis_A0A151NBS9              12.42%    passed     70.05%
+ 135  TAF8_1_Alligator_mississippiensis_A0A151NCA2              12.42%    passed     70.05%
+ 136  Y1Q_0023692_Alligator_mississippiensis_A0A151NCB6          3.42%    passed     99.81%
+ 137  CHID1_1_Alligator_mississippiensis_A0A151NX77             59.01%    passed     76.28%
+ 138  TAF8_1_Alligator_mississippiensis_A0A151NBT0              17.70%    passed     67.71%
+ 139  Y1Q_0023689_Alligator_mississippiensis_A0A151NBQ4         20.19%    passed     93.23%
+ 140  Y1Q_0023691_Alligator_mississippiensis_A0A151NBR0         16.15%    passed     74.30%
+ 141  Y1Q_0023686_Alligator_mississippiensis_A0A151NBQ9         11.49%    passed     75.32%
+ 142  Y1Q_0023690_Alligator_mississippiensis_A0A151NBT8         83.23%    passed     99.60%
+ 143  Y1Q_0023688_Alligator_mississippiensis_A0A151NCL0          9.32%    passed     86.74%
+ 144  CHIA_Gallus_gallus_A0A1D5P7B8                              3.11%    passed     93.56%
+ 145  CHIA_Gallus_gallus_A0A8V1A5Z5                              4.04%    passed     88.60%
+ 146  CHIA_Gallus_gallus_A0A8V1AI20                              3.11%    passed     97.14%
+ 147  CTBS_Gallus_gallus_A0A8V0ZGH1                             25.78%    passed      7.98%
+ 148  cbpch04_Gallus_gallus_Q8AV87                               3.11%    passed     91.56%
+ 149  CTBS_Gallus_gallus_A0A8V0ZF42                             21.74%    failed      4.04%
+ 150  CHIA_Gallus_gallus_A0A8V1AI16                              3.11%    passed     95.09%
+ 151  CHID1_Gallus_gallus_A0A8V1A4F2                            32.30%    passed     18.05%
+ 152  CHID1_Gallus_gallus_A0A8V0ZRT1                            27.33%    passed     13.12%
+ 153  CHIA_M31_Gallus_gallus_A0A8V1ABS7                          2.48%    passed     94.23%
+ 154  CHID1_Gallus_gallus_A0A8V0ZZ35                            32.92%    passed     14.48%
+ 155  MimpChit1-active_Manouria_impressa_GWHPHIVU010568.1        3.42%    passed     96.38%
+ 156  MimpCLP-inactive_Manouria_impressa_GWHPHIVU010569.1       11.49%    passed     96.16%
+ 157  MimpChit2-dualactive_Manouria_impressa_GWHPHIVU010570.1   14.60%    passed     88.43%
+ 158  Mimp_L3_GT31type_Manouria_impressa_chr3                    2.48%    passed     58.48%
+ 159  Mimp_L4_CHIA1_Manouria_impressa_chr3                      11.49%    passed     44.97%
+ 160  Mimp_L5_CHIA2_Manouria_impressa_chr3                       3.11%    passed     66.09%
+ 161  Mimp_L6_CHIA3_Manouria_impressa_chr3                       3.11%    passed     66.09%
+ 162  Mimp_L7_CHIA4_Manouria_impressa_chr3                       3.11%    passed     79.35%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                     13.84%  20 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: CHID1_Pongo_abelii_Q5RFF6 is identical to CHID1_Homo_sapiens_Q9BWS9 but kept for subsequent analysis
+NOTE: ovgp1_Danio_rerio_A0AC58GSW9 is identical to ovgp1_Danio_rerio_A0AB32U0I7 but kept for subsequent analysis
+NOTE: ovgp1_Danio_rerio_A0AC58GSZ1 is identical to ovgp1_Danio_rerio_A0AC58GSX2 but kept for subsequent analysis
+NOTE: chia_Xenopus_tropicalis_F6RI40 is identical to chia_prov_Xenopus_tropicalis_Q5CZZ2 but kept for subsequent analysis
+NOTE: chia_2_Xenopus_tropicalis_F6RI56 is identical to chia_2_Xenopus_tropicalis_B1H1D5 but kept for subsequent analysis
+NOTE: LOC101939873_Chrysemys_picta_A0A8C3HVW0 is identical to LOC101939873_Chrysemys_picta_A0A8C3HYA8 but kept for subsequent analysis
+NOTE: TAF8_1_Alligator_mississippiensis_A0A151NCA2 is identical to TAF8_1_Alligator_mississippiensis_A0A151NBS9 but kept for subsequent analysis
+NOTE: Mimp_L6_CHIA3_Manouria_impressa_chr3 is identical to Mimp_L5_CHIA2_Manouria_impressa_chr3 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00104117 secs using 1435% CPU
+Identifying sites to remove: done in 0.00113416 secs using 1576% CPU
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: chia_Xenopus_tropicalis_Q28FS1 (identical to chia_2_Xenopus_tropicalis_B1H1D5) is ignored but added at the end
+NOTE: LOC548945_Xenopus_tropicalis_Q5BKF4 (identical to chia_2_Xenopus_tropicalis_B1H1D5) is ignored but added at the end
+Alignment was printed to gh18_v2.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to gh18_v2.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.046 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -25092.508
+Optimal log-likelihood: -25092.479
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.668
+Parameters optimization took 1 rounds (0.098 sec)
+Time for fast ML tree search: 1.561 seconds
+
+NOTE: ModelFinder requires 86 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 322 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           JTTDCMUT+R4
+Corrected Akaike Information Criterion: LG
+Bayesian Information Criterion:         JTTDCMUT+G4
+Best-fit model: JTTDCMUT+G4 chosen according to BIC
+
+All model information printed to gh18_v2.model.gz
+CPU time for ModelFinder: 1565.038 seconds (0h:26m:5s)
+Wall-clock time for ModelFinder: 98.791 seconds (0h:1m:38s)
+Generating 1000 samples for ultrafast bootstrap (seed: 379308)...
+
+NOTE: 35 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -24998.683
+2. Current log-likelihood: -24994.082
+Optimal log-likelihood: -24993.990
+Gamma shape alpha: 1.701
+Parameters optimization took 2 rounds (0.254 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.21416 secs using 1599% CPU
+Computing ML distances took 0.214321 sec (of wall-clock time) 3.426281 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00031805 secs using 2223% CPU
+Constructing RapidNJ tree: done in 0.0353861 secs using 1682% CPU
+Computing RapidNJ tree took 0.035757 sec (of wall-clock time) 0.603189 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -25422.216
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.640 second
+Computing log-likelihood of 98 initial trees ... 5.187 seconds
+Current best score: -24993.990
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -24990.606
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -24954.461
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -24950.765
+Iteration 10 / LogL: -24951.240 / Time: 0h:2m:2s
+Iteration 20 / LogL: -24954.520 / Time: 0h:2m:17s
+Finish initializing candidate tree set (20)
+Current best tree score: -24950.765 / CPU time: 37.209
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -24946.075
+Iteration 30 / LogL: -24951.662 / Time: 0h:2m:34s (0h:2m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -24946.028
+Iteration 40 / LogL: -24946.028 / Time: 0h:2m:52s (0h:3m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 46: -24944.258
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 49: -24944.047
+Iteration 50 / LogL: -24965.605 / Time: 0h:3m:10s (0h:3m:5s left)
+Log-likelihood cutoff on original alignment: -25005.166
+Iteration 60 / LogL: -24944.243 / Time: 0h:3m:29s (0h:2m:46s left)
+Iteration 70 / LogL: -24950.489 / Time: 0h:3m:46s (0h:2m:26s left)
+Iteration 80 / LogL: -24944.126 / Time: 0h:4m:4s (0h:2m:7s left)
+Iteration 90 / LogL: -24951.246 / Time: 0h:4m:22s (0h:1m:48s left)
+Iteration 100 / LogL: -24944.825 / Time: 0h:4m:41s (0h:1m:30s left)
+Log-likelihood cutoff on original alignment: -25005.166
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -24949.102 / Time: 0h:5m:0s (0h:2m:46s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 120: -24943.540
+Iteration 120 / LogL: -24943.540 / Time: 0h:5m:17s (0h:3m:4s left)
+Iteration 130 / LogL: -24944.529 / Time: 0h:5m:36s (0h:2m:45s left)
+Iteration 140 / LogL: -24948.606 / Time: 0h:5m:53s (0h:2m:26s left)
+Iteration 150 / LogL: -24945.134 / Time: 0h:6m:11s (0h:2m:8s left)
+Log-likelihood cutoff on original alignment: -25005.166
+Iteration 160 / LogL: -24945.595 / Time: 0h:6m:30s (0h:1m:49s left)
+Iteration 170 / LogL: -24944.489 / Time: 0h:6m:48s (0h:1m:31s left)
+Iteration 180 / LogL: -24964.484 / Time: 0h:7m:7s (0h:1m:13s left)
+Iteration 190 / LogL: -24952.203 / Time: 0h:7m:25s (0h:0m:55s left)
+Iteration 200 / LogL: -24955.611 / Time: 0h:7m:44s (0h:0m:36s left)
+Log-likelihood cutoff on original alignment: -25002.495
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 205: -24943.443
+Iteration 210 / LogL: -24951.721 / Time: 0h:8m:4s (0h:2m:55s left)
+Iteration 220 / LogL: -24944.574 / Time: 0h:8m:22s (0h:2m:36s left)
+UPDATE BEST LOG-LIKELIHOOD: -24943.442
+Iteration 230 / LogL: -24949.129 / Time: 0h:8m:39s (0h:2m:17s left)
+Iteration 240 / LogL: -24943.581 / Time: 0h:8m:58s (0h:1m:59s left)
+Iteration 250 / LogL: -24970.234 / Time: 0h:9m:16s (0h:1m:41s left)
+Log-likelihood cutoff on original alignment: -25002.495
+Iteration 260 / LogL: -24944.726 / Time: 0h:9m:36s (0h:1m:22s left)
+Iteration 270 / LogL: -24954.253 / Time: 0h:9m:54s (0h:1m:4s left)
+Iteration 280 / LogL: -24955.525 / Time: 0h:10m:12s (0h:0m:46s left)
+BETTER TREE FOUND at iteration 288: -24943.440
+Iteration 290 / LogL: -24956.139 / Time: 0h:10m:30s (0h:3m:0s left)
+Iteration 300 / LogL: -24957.928 / Time: 0h:10m:50s (0h:2m:42s left)
+Log-likelihood cutoff on original alignment: -25000.416
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 310 / LogL: -24955.273 / Time: 0h:11m:8s (0h:2m:46s left)
+Iteration 320 / LogL: -24943.509 / Time: 0h:11m:27s (0h:2m:27s left)
+BETTER TREE FOUND at iteration 329: -24943.440
+Iteration 330 / LogL: -24944.694 / Time: 0h:11m:47s (0h:3m:3s left)
+Iteration 340 / LogL: -24946.990 / Time: 0h:12m:6s (0h:2m:44s left)
+Iteration 350 / LogL: -24948.383 / Time: 0h:12m:25s (0h:2m:26s left)
+Log-likelihood cutoff on original alignment: -25000.416
+Iteration 360 / LogL: -24943.441 / Time: 0h:12m:44s (0h:2m:8s left)
+Iteration 370 / LogL: -24949.228 / Time: 0h:13m:3s (0h:1m:49s left)
+Iteration 380 / LogL: -24944.971 / Time: 0h:13m:24s (0h:1m:31s left)
+Iteration 390 / LogL: -24954.111 / Time: 0h:13m:43s (0h:1m:12s left)
+Iteration 400 / LogL: -24945.440 / Time: 0h:14m:2s (0h:0m:54s left)
+Log-likelihood cutoff on original alignment: -25000.416
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 410 / LogL: -24981.146 / Time: 0h:14m:22s (0h:2m:47s left)
+Iteration 420 / LogL: -25470.703 / Time: 0h:14m:41s (0h:2m:29s left)
+BETTER TREE FOUND at iteration 425: -24943.440
+Iteration 430 / LogL: -24943.684 / Time: 0h:15m:0s (0h:2m:57s left)
+Iteration 440 / LogL: -24961.653 / Time: 0h:15m:20s (0h:2m:39s left)
+Iteration 450 / LogL: -24943.558 / Time: 0h:15m:39s (0h:2m:20s left)
+Log-likelihood cutoff on original alignment: -25000.416
+Iteration 460 / LogL: -24955.223 / Time: 0h:15m:59s (0h:2m:1s left)
+Iteration 470 / LogL: -24943.596 / Time: 0h:16m:18s (0h:1m:43s left)
+Iteration 480 / LogL: -24970.337 / Time: 0h:16m:38s (0h:1m:24s left)
+Iteration 490 / LogL: -24944.826 / Time: 0h:16m:57s (0h:1m:5s left)
+Iteration 500 / LogL: -24944.668 / Time: 0h:17m:17s (0h:0m:47s left)
+Log-likelihood cutoff on original alignment: -25000.416
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 510 / LogL: -24945.075 / Time: 0h:17m:37s (0h:2m:49s left)
+Iteration 520 / LogL: -24955.109 / Time: 0h:17m:56s (0h:2m:30s left)
+TREE SEARCH COMPLETED AFTER 526 ITERATIONS / Time: 0h:18m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -24943.440
+Optimal log-likelihood: -24943.439
+Gamma shape alpha: 1.702
+Parameters optimization took 1 rounds (0.092 sec)
+BEST SCORE FOUND : -24943.439
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.347 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file gh18_v2.splits.nex
+Total tree length: 28.763
+
+Total number of iterations: 526
+CPU time used for tree search: 15669.704 sec (4h:21m:9s)
+Wall-clock time used for tree search: 987.803 sec (0h:16m:27s)
+Total CPU time used: 17261.730 sec (4h:47m:41s)
+Total wall-clock time used: 1088.437 sec (0h:18m:8s)
+
+Computing bootstrap consensus tree...
+Reading input file gh18_v2.splits.nex...
+160 taxa and 815 splits.
+Consensus tree written to gh18_v2.contree
+Reading input trees file gh18_v2.contree
+Log-likelihood of consensus tree: -24943.608
+
+Analysis results written to: 
+  IQ-TREE report:                gh18_v2.iqtree
+  Maximum-likelihood tree:       gh18_v2.treefile
+  Likelihood distances:          gh18_v2.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          gh18_v2.splits.nex
+  Consensus tree:                gh18_v2.contree
+  Screen log file:               gh18_v2.log
+
+Date and Time: Sun Sep 27 01:11:16 2026

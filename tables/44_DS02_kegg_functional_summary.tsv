@@ -1,0 +1,57 @@
+# eggNOG-mapper 2.1.12 annotation of the H. tessellatus (DS02) unified catalogue (13_DS02_unified/kegg), 2026-09-27
+# eggNOG-mapper functional annotation of the DS01 non-redundant gene catalogue
+# Source: 07_kegg/nr.emapper.annotations (eggNOG-mapper 2.1.12, DIAMOND, eggNOG 5.0.2)
+Metric	Value
+Proteins_in_catalogue	1243587
+Proteins_annotated	1020200
+With_KEGG_KO	542868
+With_KEGG_Pathway	317518
+With_COG_category	953223
+With_CAZy_annotation	16867
+In_ko00520_amino_sugar_pathway	14368
+#
+# Chitin-metabolism KEGG orthologs
+KO	Description	Gene_count
+K01183	chitinase (EC 3.2.1.14)	231
+K12373	HEXA_B, beta-N-acetylhexosaminidase	852
+K01443	nagA, N-acetylglucosamine-6-P deacetylase	417
+K02564	nagB, glucosamine-6-P deaminase	497
+K01452	chitin deacetylase (EC 3.5.1.41)	5
+K03478	chbG, chitin disaccharide deacetylase (EC 3.5.1.105)	37
+K00884	nagK, N-acetylglucosamine kinase	16
+K01207	nagZ, beta-N-acetylhexosaminidase	330
+K03431	glmM, phosphoglucosamine mutase	321
+K04042	glmU, GlcNAc-1-P uridyltransferase	259
+#
+# Top COG functional categories
+COG	Gene_count
+S	194815
+L	82609
+G	81844
+K	76476
+M	73932
+E	68583
+C	59431
+J	57595
+P	54335
+T	48794
+H	38976
+F	29949
+#
+# Top CAZy families (eggNOG-assigned)
+Family	Gene_count
+GH13	1497
+GH3	1431
+GT2	1388
+GT4	1056
+GH31	968
+GT51	890
+GH20	859
+CBM48	765
+GT35	689
+GH5	657
+GH9	601
+GH29	595
+GT28	556
+GH77	496
+GH95	467

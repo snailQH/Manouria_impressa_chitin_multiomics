@@ -1,0 +1,39 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bromo_TP             PF07524.20    77 MIMP3_g08468.t1      -            303   1.5e-29  103.3   0.6   1   1   1.6e-33   4.4e-29  101.8   0.2     3    76    28   101    26   102 0.96 Bromodomain associated
+TAF8_C               PF10406.16    49 MIMP3_g08468.t1      -            303   2.4e-21   77.4   4.1   1   1   9.4e-26   2.5e-21   77.4   1.2     1    49   141   189   141   189 0.99 Transcription factor TFIID complex subunit 8 C-term
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08469.t1      -            471   8.8e-79  266.5   0.1   1   1   3.9e-83     1e-78  266.3   0.1     1   258    23   364    23   364 0.96 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08469.t1      -            471   2.9e-10   41.6   9.1   1   1   1.1e-14   2.9e-10   41.6   9.1     1    48   423   470   423   471 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08470.t1      -            387     5e-83  280.4   0.1   1   1   1.1e-87   5.7e-83  280.3   0.1     1   258    23   363    23   363 0.96 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08471.t1      -            191   6.8e-19   70.3   0.1   1   1   2.6e-23   1.4e-18   69.2   0.1     1   116    23   123    23   136 0.87 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08472.t1      -            389   2.1e-80  271.8   0.1   1   1   4.5e-85   2.4e-80  271.7   0.1     3   258    25   365    23   365 0.96 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08473.t1      -            485   1.6e-83  282.1   0.1   1   1   7.1e-88   1.9e-83  281.8   0.1     3   258    25   365    23   365 0.97 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08473.t1      -            485   1.2e-09   39.6   9.9   1   1   8.6e-14   2.3e-09   38.7   9.9     1    47   439   485   439   485 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08474.t1      -            485   1.6e-83  282.1   0.1   1   1   7.1e-88   1.9e-83  281.8   0.1     3   258    25   365    23   365 0.97 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08474.t1      -            485   1.2e-09   39.6   9.9   1   1   8.6e-14   2.3e-09   38.7   9.9     1    47   439   485   439   485 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08475.t1      -            476   1.5e-83  282.2   0.1   1   1   6.7e-88   1.8e-83  281.9   0.1     3   258    25   365    23   365 0.97 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08475.t1      -            476   1.2e-09   39.6   9.9   1   1   8.4e-14   2.2e-09   38.8   9.9     1    47   430   476   430   476 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08476.t1      -            476   5.9e-81  273.7   0.3   1   1   2.6e-85     7e-81  273.4   0.3     1   258    23   365    23   365 0.96 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08476.t1      -            476   5.7e-08   34.3   9.0   1   1   3.8e-12     1e-07   33.5   9.0     1    47   430   476   430   476 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08477.t1      -            243   6.3e-30  106.4   0.0   1   2   3.1e-20   1.6e-15   59.2   0.0     1    76    23   100    23   105 0.88 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08477.t1      -            243   6.3e-30  106.4   0.0   2   2   6.8e-16   3.6e-11   44.9   0.0   171   241   106   237   102   242 0.85 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08478.t1      -            386   1.5e-82  278.8   0.3   1   1   3.3e-87   1.8e-82  278.6   0.3     1   258    23   359    23   359 0.96 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 MIMP3_g08479.t1      -            482   5.6e-89  299.9   0.0   1   1   2.6e-93   6.8e-89  299.7   0.0     1   258    23   363    23   363 0.96 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 MIMP3_g08479.t1      -            482   2.4e-08   35.5   2.2   1   1   1.9e-12   5.2e-08   34.4   2.2     1    47   436   482   436   482 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 sp|Q9BZP6|CHIA_HUMAN -            476   6.6e-84  283.3   0.1   1   1     3e-88   7.9e-84  283.1   0.1     2   258    24   365    23   365 0.97 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 sp|Q9BZP6|CHIA_HUMAN -            476     3e-07   32.0   6.7   1   1     2e-11   5.3e-07   31.2   6.7     1    47   430   476   430   476 0.96 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 sp|Q13231|CHIT1_HUMAN -            466     1e-93  315.4   0.2   1   1   4.6e-98   1.2e-93  315.2   0.2     1   258    23   363    23   363 0.97 Glycosyl hydrolases family 18
+CBM_14               PF01607.30    53 sp|Q13231|CHIT1_HUMAN -            466   2.7e-09   38.5   6.4   1   1   2.1e-13   5.7e-09   37.5   6.4     1    46   420   465   420   466 0.98 Chitin binding Peritrophin-A domain
+Glyco_hydro_18       PF00704.36   258 sp|P36222|CH3L1_HUMAN -            383   5.7e-89  299.9   0.0   1   1   1.2e-93   6.5e-89  299.7   0.0     1   258    23   357    23   357 0.97 Glycosyl hydrolases family 18
+Glyco_hydro_18       PF00704.36   258 sp|Q15782|CH3L2_HUMAN -            390   1.6e-80  272.2   0.1   1   1   3.5e-85   1.9e-80  272.0   0.1     1   258    28   365    28   365 0.96 Glycosyl hydrolases family 18
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      queries.faa
+# Target file:     $REFDIR/pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout pfam.domtbl --cut_ga --cpu 8 $REFDIR/pfam/Pfam-A.hmm queries.faa 
+# Current dir:     $PROJECT/05.reanalysis_2026-11/domain_architecture
+# Date:            Sun Nov 15 04:50:33 2026
+# [ok]

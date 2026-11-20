@@ -1,0 +1,535 @@
+Cohort	MAG	phylum	genus	species	GH18_genes	GH20_genes	quality	mean_rel_depth	share_of_GH18_MAG_abundance	share_GH18_gene_weighted
+DS01	HM.1.1.bin.17	Verrucomicrobiota	Spyradosoma		1	10	high	0.0	0.0	0.0
+DS01	HM.1.1.bin.39	Bacillota	RGIG4097		1	1	high	0.00721	0.0188	0.0101
+DS01	HM.1.2.bin.2	Bacillota	JAQVRG01		1	0	medium	0.0	0.0	0.0
+DS01	HM.1.2.bin.23	Bacteroidota	Tidjanibacter	Tidjanibacter sp034102025	3	3	high	0.00035	0.0009	0.0015
+DS01	HM.1.2.bin.25	Bacteroidota	Petrimonas		1	3	medium	0.0	0.0	0.0
+DS01	HM.1.2.bin.50	Bacteroidota_A	CALLXS01	CALLXS01 sp937875295	1	0	high	0.0	0.0	0.0
+DS01	HM.1.2.bin.58	Bacteroidota	Bacteroides		3	12	high	0.0	0.0	0.0
+DS01	HM.1.2.bin.7	Verrucomicrobiota	Spyradenecus		1	5	high	0.00253	0.0066	0.0036
+DS01	HM.1.3.bin.41	Bacillota	Limiplasma		1	3	medium	0.0	0.0	0.0
+DS01	HM.1.3.bin.62	Bacteroidota	Limimorpha		1	4	high	0.0	0.0	0.0
+DS01	HM.1.3.bin.69	Bacteroidota	Alistipes		1	5	high	0.00017	0.0005	0.0002
+DS01	HM.1.4.bin.14	Pseudomonadota	Citrobacter	Citrobacter braakii	2	0	medium	0.0	0.0	0.0
+DS01	HM.1.4.bin.3	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS01	HM.1.4.bin.34	Bacillota	Otoolea		2	0	high	0.0	0.0	0.0
+DS01	HM.1.4.bin.37	Bacteroidota	Parabacteroides	Parabacteroides sp905196875	1	17	medium	0.00405	0.0106	0.0057
+DS01	HM.1.4.bin.6	Bacillota	Lacrimispora		2	0	high	0.00122	0.0032	0.0034
+DS01	HM.1.5.bin.14	Bacillota	Agathobaculum	Agathobaculum sp951230135	1	0	high	0.00021	0.0006	0.0003
+DS01	HM.1.5.bin.26	Bacillota	Enterocloster		1	0	high	0.0	0.0	0.0
+DS01	HM.1.5.bin.30	Bacillota	Lactococcus	Lactococcus lactis	1	1	medium	0.00101	0.0026	0.0014
+DS01	HM.1.5.bin.34	Bacteroidota	Bacteroides	Bacteroides nordii	5	15	high	0.00026	0.0007	0.0018
+DS01	HM.1.6.bin.2	Bacillota	Caccovicinus		1	0	medium	0.0	0.0	0.0
+DS01	HM.1.6.bin.22	Bacillota	Roseburia		2	2	high	0.00482	0.0126	0.0135
+DS01	HM.1.7.bin.1	Bacillota	Brotaphodocola		1	0	high	0.00032	0.0008	0.0004
+DS01	HM.1.7.bin.27	Bacteroidota	JAQVCR01		1	3	high	0.00306	0.008	0.0043
+DS01	HM.1.8.bin.1	Bacillota	SZUA-378		2	0	high	0.00471	0.0123	0.0132
+DS01	HM.1.8.bin.25	Bacillota	SZUA-378		2	1	high	0.0	0.0	0.0
+DS01	HM.1.8.bin.26	Bacteroidota	Bacteroides		3	13	high	0.0	0.0	0.0
+DS01	HM.1.8.bin.45	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	medium	0.0	0.0	0.0
+DS01	HM.1.9.bin.27	Bacillota	unassigned		2	1	high	0.00015	0.0004	0.0004
+DS01	HM.1.9.bin.31	Bacteroidota	Merdimorpha		1	2	medium	0.0	0.0	0.0
+DS01	HM.1.9.bin.33	Bacillota	Anaerostipes		1	0	high	0.00223	0.0058	0.0031
+DS01	HM.1.9.bin.41	Bacillota	unassigned		1	1	medium	0.0	0.0	0.0
+DS01	HM.1.9.bin.49	Bacillota	Scatomorpha		1	0	high	0.00059	0.0015	0.0008
+DS01	HM.1.9.bin.51	Bacillota	JAQVRG01		1	0	medium	0.0	0.0	0.0
+DS01	HM.2.1.bin.21	Bacteroidota	Alistipes		2	4	high	0.00193	0.005	0.0054
+DS01	HM.2.1.bin.23	Bacteroidota	Alistipes		8	5	high	0.0	0.0	0.0
+DS01	HM.2.1.bin.36	Bacteroidota	Bacteroides		2	12	high	0.04387	0.1143	0.1232
+DS01	HM.2.1.bin.4	Bacillota	unassigned		1	0	high	0.0012	0.0031	0.0017
+DS01	HM.2.1.bin.50	Bacillota	JAAYNV01		4	0	medium	0.00364	0.0095	0.0204
+DS01	HM.2.1.bin.7	Bacteroidota	Egerieousia		1	4	high	0.0	0.0	0.0
+DS01	HM.2.1.bin.74	Verrucomicrobiota	unassigned		1	5	high	0.0	0.0	0.0
+DS01	HM.2.1.bin.75	Bacillota	Egerieisoma		1	1	high	0.0	0.0	0.0
+DS01	HM.2.1.bin.79	Bacillota	Limiplasma		2	1	high	0.00012	0.0003	0.0003
+DS01	HM.2.1.bin.8	Bacillota	Merdiplasma		1	0	medium	0.00042	0.0011	0.0006
+DS01	HM.2.1.bin.82	Bacillota	unassigned		2	2	high	0.00305	0.0079	0.0086
+DS01	HM.2.2.bin.25	Bacillota	unassigned		1	2	high	0.0	0.0	0.0
+DS01	HM.2.2.bin.30	Synergistota	unassigned		1	0	medium	0.00017	0.0004	0.0002
+DS01	HM.2.3.bin.21	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS01	HM.2.3.bin.22	Bacillota	SZUA-378		1	1	medium	0.0	0.0	0.0
+DS01	HM.2.3.bin.23	Bacillota	unassigned		1	0	high	0.0024	0.0062	0.0034
+DS01	HM.2.3.bin.33	Bacillota	Fimenecus		3	2	medium	0.0	0.0	0.0
+DS01	HM.2.3.bin.36	Bacillota	unassigned		1	1	medium	0.0	0.0	0.0
+DS01	HM.2.3.bin.56	Bacillota	Luoshenia		1	0	medium	0.0	0.0	0.0
+DS01	HM.2.4.bin.17	Bacteroidota	Bacteroides	Bacteroides sp014750685	18	18	high	0.00202	0.0053	0.051
+DS01	HM.2.4.bin.37	Bacteroidota	unassigned		1	1	high	0.0	0.0	0.0
+DS01	HM.2.4.bin.47	Bacillota	Brotaphodocola		1	0	medium	0.0	0.0	0.0
+DS01	HM.2.4.bin.54	Synergistota	JAUNSQ01		1	0	high	0.00051	0.0013	0.0007
+DS01	ITF-1-1.bin.130	Bacillota	Roseburia_D		1	0	high	0.00389	0.0101	0.0055
+DS01	ITF-1-1.bin.135	Bacillota	Otoolea		1	0	medium	0.00059	0.0015	0.0008
+DS01	ITF-1-1.bin.164	Bacillota	JALENY01		1	0	high	0.00142	0.0037	0.002
+DS01	ITF-1-1.bin.30	Bacillota	Enterocloster		1	0	medium	0.00038	0.001	0.0005
+DS01	ITF-1-1.bin.67	Bacillota	Anthropogastromicrobium		2	1	high	0.00071	0.0019	0.002
+DS01	ITF-1-1.bin.85	Bacillota	Beduinella		1	1	high	0.00232	0.0061	0.0033
+DS01	ITF-1-2.bin.105	Bacillota	CAG-349		1	1	high	0.00328	0.0085	0.0046
+DS01	ITF-1-2.bin.76	Bacillota	Roseburia_A		1	1	high	0.00211	0.0055	0.003
+DS01	ITF-1-3.bin.133	Bacillota	unassigned		1	0	medium	0.00189	0.0049	0.0027
+DS01	ITF-1-3.bin.143	Verrucomicrobiota	UMGS1518		7	12	medium	0.0001	0.0003	0.001
+DS01	ITF-1-3.bin.48	Bacillota	unassigned		9	1	medium	0.0039	0.0102	0.0493
+DS01	ITF-1-4.bin.105	Bacillota	Yeguia		1	0	high	0.00012	0.0003	0.0002
+DS01	ITF-1-4.bin.107	Bacillota	unassigned		1	1	high	0.00047	0.0012	0.0007
+DS01	ITF-1-4.bin.136	Bacillota	unassigned		1	0	medium	7e-05	0.0002	0.0001
+DS01	ITF-1-4.bin.15	Bacillota	Pelethousia		1	0	high	0.00037	0.001	0.0005
+DS01	ITF-1-4.bin.163	Bacillota	SIG588		1	0	high	0.00318	0.0083	0.0045
+DS01	ITF-1-4.bin.17	Bacillota	CAVIQK01		1	1	high	0.00054	0.0014	0.0008
+DS01	ITF-1-4.bin.23	Bacillota	Intestinimonas		2	0	medium	0.00053	0.0014	0.0015
+DS01	ITF-1-4.bin.24	Bacillota	unassigned		3	1	high	0.00826	0.0215	0.0348
+DS01	ITF-1-4.bin.5	Verrucomicrobiota	Akkermansia		2	15	high	0.00035	0.0009	0.001
+DS01	ITF-1-4.bin.53	Verrucomicrobiota	Akkermansia		2	11	high	0.00161	0.0042	0.0045
+DS01	ITF-1-4.bin.6	Bacillota	unassigned		1	0	high	0.01375	0.0358	0.0193
+DS01	ITF-1-4.bin.74	Bacillota	SUG2458		1	0	high	0.00087	0.0023	0.0012
+DS01	ITF-1-5.bin.100	Bacteroidota	Alistipes		1	4	medium	6e-05	0.0002	0.0001
+DS01	ITF-1-5.bin.126	Bacillota	MGBC143606		4	1	high	0.00069	0.0018	0.0039
+DS01	ITF-1-5.bin.18	Synergistota	Cloacibacillus		1	0	high	0.01004	0.0262	0.0141
+DS01	ITF-1-5.bin.43	Bacillota	unassigned		6	1	medium	0.00019	0.0005	0.0016
+DS01	ITF-1-5.bin.62	Bacillota	MGBC143606		3	1	high	0.00226	0.0059	0.0095
+DS01	ITF-1-5.bin.72	Bacillota	unassigned		1	1	high	0.00109	0.0028	0.0015
+DS01	ITF-1-5.bin.82	Bacillota	Hespellia		1	0	medium	0.00483	0.0126	0.0068
+DS01	ITF-1-6.bin.123	Bacillota	unassigned		1	0	high	0.00603	0.0157	0.0085
+DS01	ITF-1-6.bin.161	Bacillota	CAG-510		2	0	medium	0.00032	0.0008	0.0009
+DS01	ITF-1-6.bin.173	Bacillota	UBA7485		1	0	medium	0.00011	0.0003	0.0002
+DS01	ITF-1-6.bin.176	Pseudomonadota	Ewingella	Ewingella americana	2	1	medium	0.00037	0.001	0.001
+DS01	ITF-1-6.bin.61	Bacteroidota	Bacteroides		1	4	high	0.0053	0.0138	0.0074
+DS01	ITF-1-6.bin.70	Bacillota	HUN007	HUN007 sp030539275	2	0	medium	0.00024	0.0006	0.0007
+DS01	ITF-1-6.bin.83	Bacillota	unassigned		2	0	high	0.00014	0.0004	0.0004
+DS01	ITF-1-6.bin.95	Bacillota	unassigned		1	0	high	0.00399	0.0104	0.0056
+DS01	ITF-2-1.bin.106	Bacillota	Kineothrix		3	1	high	0.00625	0.0163	0.0263
+DS01	ITF-2-1.bin.126	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	high	0.00222	0.0058	0.0094
+DS01	ITF-2-1.bin.143	Bacillota	JALENY01		1	0	medium	0.00019	0.0005	0.0003
+DS01	ITF-2-1.bin.21	Verrucomicrobiota	Akkermansia	Akkermansia muciniphila_C	2	12	high	0.00593	0.0154	0.0167
+DS01	ITF-2-1.bin.22	Bacillota	Fimenecus		2	2	high	0.00032	0.0008	0.0009
+DS01	ITF-2-1.bin.36	Bacillota	Roseburia_D		1	0	high	0.00307	0.008	0.0043
+DS01	ITF-2-1.bin.39	Bacillota	Limivivens		2	1	high	0.00099	0.0026	0.0028
+DS01	ITF-2-1.bin.44	Bacillota	JAHZFN01		1	0	medium	0.00019	0.0005	0.0003
+DS01	ITF-2-1.bin.48	Bacillota	Oscillibacter		2	0	medium	0.00043	0.0011	0.0012
+DS01	ITF-2-1.bin.72	Bacillota	Clostridium	Clostridium butyricum	1	0	medium	0.00067	0.0017	0.0009
+DS01	ITF-2-1.bin.79	Bacillota	unassigned		1	0	high	0.00029	0.0008	0.0004
+DS01	ITF-2-1.bin.80	Bacillota	unassigned		2	0	high	0.00034	0.0009	0.001
+DS01	ITF-2-1.bin.85	Bacillota	Hespellia	Hespellia sp028693555	1	0	medium	0.00516	0.0134	0.0072
+DS01	ITF-2-1.bin.88	Bacillota	Hominibacterium		1	0	high	0.00109	0.0028	0.0015
+DS01	ITF-2-1.bin.93	Bacillota	SZUA-378		2	1	medium	0.00075	0.002	0.0021
+DS01	ITF-2-1.bin.98	Bacillota	Hespellia	Hespellia stercorisuis	2	0	medium	0.001	0.0026	0.0028
+DS01	ITF-2-2.bin.111	Bacillota	Merdiplasma		1	0	medium	0.00016	0.0004	0.0002
+DS01	ITF-2-2.bin.12	Bacillota	Oscillibacter		1	0	medium	0.0001	0.0003	0.0001
+DS01	ITF-2-2.bin.141	Bacillota	Brotaphodocola		1	0	high	0.00064	0.0017	0.0009
+DS01	ITF-2-2.bin.142	Bacteroidota	Alistipes		3	4	high	0.00143	0.0037	0.006
+DS01	ITF-2-2.bin.19	Bacillota	Monoglobus		1	0	high	0.00143	0.0037	0.002
+DS01	ITF-2-2.bin.29	Bacillota	Suilimivivens		2	2	high	0.00066	0.0017	0.0019
+DS01	ITF-2-2.bin.53	Bacillota	unassigned		1	0	medium	0.00012	0.0003	0.0002
+DS01	ITF-2-2.bin.59	Bacillota	Eubacterium_G		2	0	high	0.00058	0.0015	0.0016
+DS01	ITF-2-2.bin.80	Bacillota	Roseburia		2	1	medium	0.00156	0.0041	0.0044
+DS01	ITF-2-2.bin.9	Bacillota	Massilibacillus		2	0	high	0.00025	0.0006	0.0007
+DS01	ITF-2-2.bin.92	Bacillota	Limiplasma		1	0	medium	0.00054	0.0014	0.0008
+DS01	ITF-2-2.bin.94	Bacillota	Merdicola		1	0	medium	0.00014	0.0004	0.0002
+DS01	ITF-2-3.bin.11	Verrucomicrobiota	JAVBQJ01		1	12	medium	0.0002	0.0005	0.0003
+DS01	ITF-2-3.bin.120	Bacillota	unassigned		2	1	medium	0.00041	0.0011	0.0011
+DS01	ITF-2-3.bin.125	Bacillota	CAJGCS01		1	1	high	0.00083	0.0022	0.0012
+DS01	ITF-2-3.bin.146	Bacteroidota	Alistipes		2	3	medium	0.0001	0.0003	0.0003
+DS01	ITF-2-3.bin.155	Bacillota	Yeguia		1	0	medium	0.00012	0.0003	0.0002
+DS01	ITF-2-3.bin.179	Bacillota	QALR01		1	2	high	0.001	0.0026	0.0014
+DS01	ITF-2-3.bin.184	Bacteroidota	Tidjanibacter		1	4	medium	0.00154	0.004	0.0022
+DS01	ITF-2-3.bin.195	Bacillota	CAG-488		1	1	high	0.00029	0.0008	0.0004
+DS01	ITF-2-3.bin.29	Bacillota	Butyrivibrio_A		2	0	high	0.05893	0.1535	0.1655
+DS01	ITF-2-3.bin.57	Bacillota	unassigned		1	0	medium	0.00018	0.0005	0.0003
+DS01	ITF-2-3.bin.69	Bacillota	Harrysmithiimonas		1	0	high	0.00017	0.0004	0.0002
+DS01	ITF-2-3.bin.93	Bacillota	Hespellia		2	0	high	0.00144	0.0038	0.0041
+DS01	ITF-2-4.bin.137	Bacillota	Clostridium		3	1	medium	0.0002	0.0005	0.0008
+DS01	ITF-2-4.bin.28	Bacillota	Lachnospira		1	0	high	0.00065	0.0017	0.0009
+DS01	ITF-2-5.bin.133	Bacillota	Choladousia		1	1	high	0.00222	0.0058	0.0031
+DS01	ITF-2-5.bin.21	Bacillota	Roseburia_C		1	0	medium	0.00011	0.0003	0.0002
+DS01	ITF-2-5.bin.30	Bacillota	Hespellia		1	0	medium	0.00047	0.0012	0.0007
+DS01	ITF-2-5.bin.36	Bacteroidota	Bacteroides		1	6	high	0.01377	0.0359	0.0193
+DS01	ITF-2-5.bin.42	Bacillota	UBA2922		1	0	high	0.00353	0.0092	0.005
+DS01	ITF-2-5.bin.68	Bacillota	UBA2658		1	0	high	0.0003	0.0008	0.0004
+DS01	ITF-2-5.bin.86	Bacillota	Eubacterium_U		6	0	high	0.01103	0.0287	0.093
+DS01	ITF-2-6.bin.105	Bacillota	unassigned		2	0	high	0.00032	0.0008	0.0009
+DS01	ITF-2-6.bin.111	Bacillota	Roseburia		1	0	high	0.01095	0.0285	0.0154
+DS01	ITF-2-6.bin.136	Bacillota	unassigned		1	0	high	0.00203	0.0053	0.0029
+DS01	ITF-2-6.bin.151	Spirochaetota	Treponema_F		2	1	high	0.00071	0.0018	0.002
+DS01	ITF-2-6.bin.155	Bacillota	unassigned		1	3	high	0.00176	0.0046	0.0025
+DS01	ITF-2-6.bin.158	Bacillota	Enterocloster		1	0	medium	0.00011	0.0003	0.0002
+DS01	ITF-2-6.bin.170	Bacillota	Acetatifactor		2	1	medium	0.00011	0.0003	0.0003
+DS01	ITF-2-6.bin.51	Bacillota	CAKOMG01		6	1	high	0.00109	0.0028	0.0092
+DS01	ITF-2-6.bin.54	Bacillota	unassigned		2	1	high	0.00455	0.0119	0.0128
+DS01	ITF-2-6.bin.98	Bacillota	unassigned		1	3	high	0.00014	0.0004	0.0002
+DS01	PM.1.1.bin.27	Bacillota	Hominisplanchenecus		1	0	medium	0.0	0.0	0.0
+DS01	PM.1.1.bin.36	Verrucomicrobiota	unassigned		1	6	high	0.0	0.0	0.0
+DS01	PM.1.1.bin.61	Bacillota	SIG588		1	0	high	0.00089	0.0023	0.0012
+DS01	PM.1.2.bin.39	Bacillota	UMGS856		1	2	medium	0.0	0.0	0.0
+DS01	PM.1.2.bin.62	Bacteroidota	unassigned		2	2	medium	0.0	0.0	0.0
+DS01	PM.2.1.bin.17	Bacillota	unassigned		3	0	high	0.0	0.0	0.0
+DS01	PM.2.1.bin.40	Synergistota	unassigned		1	0	medium	0.0029	0.0075	0.0041
+DS01	PM.2.1.bin.71	Bacillota	Limiplasma		1	1	high	0.00035	0.0009	0.0005
+DS01	PM.2.1.bin.76	Bacillota	JAAYNV01		3	0	medium	0.0	0.0	0.0
+DS01	PM.2.1.bin.9	Bacillota	UMGS1663		1	0	high	0.00024	0.0006	0.0003
+DS01	PM.2.2.bin.16	Bacillota	UMGS856		2	3	medium	0.0	0.0	0.0
+DS01	PM.2.3.bin.17	Bacillota	Limiplasma		1	2	high	0.0	0.0	0.0
+DS01	PM.2.3.bin.27	Bacteroidota	Phocaeicola		1	4	high	0.02088	0.0544	0.0293
+DS01	PM.2.3.bin.48	Bacillota	Limivicinus		1	0	medium	0.0	0.0	0.0
+DS01	PM.2.3.bin.94	Bacillota	Hespellia		1	0	high	0.01048	0.0273	0.0147
+DS01	PM.2.4.bin.12	Bacteroidota	Cacconaster	Cacconaster sp028686425	2	3	high	0.0	0.0	0.0
+DS01	PM.2.4.bin.3	Verrucomicrobiota	Akkermansia		1	8	high	0.00056	0.0015	0.0008
+DS01	PM.2.4.bin.36	Bacteroidota	Alistipes		1	5	high	0.0	0.0	0.0
+DS01	PM.2.4.bin.39	Bacteroidota	Egerieousia		1	4	high	0.00467	0.0122	0.0066
+DS01	PM.2.4.bin.44	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS01	PM.2.4.bin.80	Bacteroidota	Bacteroides	Bacteroides sp900552405	4	7	high	0.00016	0.0004	0.0009
+DS01	PM.2.5.bin.23	Bacillota	KM106-2		2	0	high	0.00045	0.0012	0.0013
+DS01	PM.2.5.bin.42	Bacillota	CAG-177		1	2	high	0.00789	0.0205	0.0111
+DS01	PM.2.5.bin.60	Bacillota	CAVIQK01		1	1	medium	0.0	0.0	0.0
+DS02	HM.1.1.bin.17	Verrucomicrobiota	Spyradosoma		1	10	high	0.01588	0.0249	0.0119
+DS02	HM.1.1.bin.39	Bacillota	RGIG4097		1	1	high	0.00114	0.0018	0.0009
+DS02	HM.1.2.bin.2	Bacillota	JAQVRG01		1	0	medium	0.00134	0.0021	0.001
+DS02	HM.1.2.bin.23	Bacteroidota	Tidjanibacter	Tidjanibacter sp034102025	3	3	high	0.00276	0.0043	0.0062
+DS02	HM.1.2.bin.25	Bacteroidota	Petrimonas		1	3	medium	0.00089	0.0014	0.0007
+DS02	HM.1.2.bin.50	Bacteroidota_A	CALLXS01	CALLXS01 sp937875295	1	0	high	0.00092	0.0014	0.0007
+DS02	HM.1.2.bin.58	Bacteroidota	Bacteroides		3	12	high	0.13732	0.2151	0.3075
+DS02	HM.1.2.bin.7	Verrucomicrobiota	Spyradenecus		1	5	high	0.00212	0.0033	0.0016
+DS02	HM.1.3.bin.41	Bacillota	Limiplasma		1	3	medium	0.0014	0.0022	0.001
+DS02	HM.1.3.bin.62	Bacteroidota	Limimorpha		1	4	high	0.0049	0.0077	0.0037
+DS02	HM.1.3.bin.69	Bacteroidota	Alistipes		1	5	high	0.00204	0.0032	0.0015
+DS02	HM.1.4.bin.14	Pseudomonadota	Citrobacter	Citrobacter braakii	2	0	medium	0.00046	0.0007	0.0007
+DS02	HM.1.4.bin.3	Bacillota	unassigned		1	0	high	0.00678	0.0106	0.0051
+DS02	HM.1.4.bin.34	Bacillota	Otoolea		2	0	high	0.00182	0.0028	0.0027
+DS02	HM.1.4.bin.37	Bacteroidota	Parabacteroides	Parabacteroides sp905196875	1	17	medium	0.00783	0.0123	0.0058
+DS02	HM.1.4.bin.6	Bacillota	Lacrimispora		2	0	high	0.00245	0.0038	0.0037
+DS02	HM.1.5.bin.14	Bacillota	Agathobaculum	Agathobaculum sp951230135	1	0	high	0.00043	0.0007	0.0003
+DS02	HM.1.5.bin.26	Bacillota	Enterocloster		1	0	high	0.00251	0.0039	0.0019
+DS02	HM.1.5.bin.30	Bacillota	Lactococcus	Lactococcus lactis	1	1	medium	0.00827	0.013	0.0062
+DS02	HM.1.5.bin.34	Bacteroidota	Bacteroides	Bacteroides nordii	5	15	high	0.00638	0.01	0.0238
+DS02	HM.1.6.bin.2	Bacillota	Caccovicinus		1	0	medium	0.00234	0.0037	0.0017
+DS02	HM.1.6.bin.22	Bacillota	Roseburia		2	2	high	0.01068	0.0167	0.0159
+DS02	HM.1.7.bin.1	Bacillota	Brotaphodocola		1	0	high	0.00084	0.0013	0.0006
+DS02	HM.1.7.bin.27	Bacteroidota	JAQVCR01		1	3	high	0.01045	0.0164	0.0078
+DS02	HM.1.8.bin.1	Bacillota	SZUA-378		2	0	high	0.00437	0.0068	0.0065
+DS02	HM.1.8.bin.25	Bacillota	SZUA-378		2	1	high	0.00243	0.0038	0.0036
+DS02	HM.1.8.bin.26	Bacteroidota	Bacteroides		3	13	high	0.00562	0.0088	0.0126
+DS02	HM.1.8.bin.45	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	medium	0.00202	0.0032	0.0045
+DS02	HM.1.9.bin.27	Bacillota	unassigned		2	1	high	0.05624	0.0881	0.084
+DS02	HM.1.9.bin.31	Bacteroidota	Merdimorpha		1	2	medium	0.00061	0.0009	0.0005
+DS02	HM.1.9.bin.33	Bacillota	Anaerostipes		1	0	high	0.00098	0.0015	0.0007
+DS02	HM.1.9.bin.41	Bacillota	unassigned		1	1	medium	0.00033	0.0005	0.0002
+DS02	HM.1.9.bin.49	Bacillota	Scatomorpha		1	0	high	0.0038	0.0059	0.0028
+DS02	HM.1.9.bin.51	Bacillota	JAQVRG01		1	0	medium	0.00039	0.0006	0.0003
+DS02	HM.2.1.bin.21	Bacteroidota	Alistipes		2	4	high	0.00215	0.0034	0.0032
+DS02	HM.2.1.bin.23	Bacteroidota	Alistipes		8	5	high	0.00128	0.002	0.0076
+DS02	HM.2.1.bin.36	Bacteroidota	Bacteroides		2	12	high	0.04423	0.0693	0.066
+DS02	HM.2.1.bin.4	Bacillota	unassigned		1	0	high	0.02204	0.0345	0.0165
+DS02	HM.2.1.bin.50	Bacillota	JAAYNV01		4	0	medium	0.00067	0.0011	0.002
+DS02	HM.2.1.bin.7	Bacteroidota	Egerieousia		1	4	high	0.00061	0.001	0.0005
+DS02	HM.2.1.bin.74	Verrucomicrobiota	unassigned		1	5	high	0.00051	0.0008	0.0004
+DS02	HM.2.1.bin.75	Bacillota	Egerieisoma		1	1	high	0.00044	0.0007	0.0003
+DS02	HM.2.1.bin.79	Bacillota	Limiplasma		2	1	high	0.00139	0.0022	0.0021
+DS02	HM.2.1.bin.8	Bacillota	Merdiplasma		1	0	medium	0.00041	0.0006	0.0003
+DS02	HM.2.1.bin.82	Bacillota	unassigned		2	2	high	0.00107	0.0017	0.0016
+DS02	HM.2.2.bin.25	Bacillota	unassigned		1	2	high	0.00711	0.0111	0.0053
+DS02	HM.2.2.bin.30	Synergistota	unassigned		1	0	medium	0.00156	0.0024	0.0012
+DS02	HM.2.3.bin.21	Bacillota	unassigned		1	0	high	0.00068	0.0011	0.0005
+DS02	HM.2.3.bin.22	Bacillota	SZUA-378		1	1	medium	0.00106	0.0017	0.0008
+DS02	HM.2.3.bin.23	Bacillota	unassigned		1	0	high	0.00892	0.014	0.0067
+DS02	HM.2.3.bin.33	Bacillota	Fimenecus		3	2	medium	0.00106	0.0017	0.0024
+DS02	HM.2.3.bin.36	Bacillota	unassigned		1	1	medium	0.00037	0.0006	0.0003
+DS02	HM.2.3.bin.56	Bacillota	Luoshenia		1	0	medium	0.00025	0.0004	0.0002
+DS02	HM.2.4.bin.17	Bacteroidota	Bacteroides	Bacteroides sp014750685	18	18	high	0.00528	0.0083	0.071
+DS02	HM.2.4.bin.37	Bacteroidota	unassigned		1	1	high	0.01779	0.0279	0.0133
+DS02	HM.2.4.bin.47	Bacillota	Brotaphodocola		1	0	medium	0.00038	0.0006	0.0003
+DS02	HM.2.4.bin.54	Synergistota	JAUNSQ01		1	0	high	0.00395	0.0062	0.0029
+DS02	ITF-1-1.bin.130	Bacillota	Roseburia_D		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-1.bin.135	Bacillota	Otoolea		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-1.bin.164	Bacillota	JALENY01		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-1.bin.30	Bacillota	Enterocloster		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-1.bin.67	Bacillota	Anthropogastromicrobium		2	1	high	0.0	0.0	0.0
+DS02	ITF-1-1.bin.85	Bacillota	Beduinella		1	1	high	0.0	0.0	0.0
+DS02	ITF-1-2.bin.105	Bacillota	CAG-349		1	1	high	0.00282	0.0044	0.0021
+DS02	ITF-1-2.bin.76	Bacillota	Roseburia_A		1	1	high	0.0	0.0	0.0
+DS02	ITF-1-3.bin.133	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-3.bin.143	Verrucomicrobiota	UMGS1518		7	12	medium	0.0	0.0	0.0
+DS02	ITF-1-3.bin.48	Bacillota	unassigned		9	1	medium	0.0	0.0	0.0
+DS02	ITF-1-4.bin.105	Bacillota	Yeguia		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-4.bin.107	Bacillota	unassigned		1	1	high	0.00028	0.0004	0.0002
+DS02	ITF-1-4.bin.136	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-4.bin.15	Bacillota	Pelethousia		1	0	high	0.00101	0.0016	0.0008
+DS02	ITF-1-4.bin.163	Bacillota	SIG588		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-4.bin.17	Bacillota	CAVIQK01		1	1	high	0.0	0.0	0.0
+DS02	ITF-1-4.bin.23	Bacillota	Intestinimonas		2	0	medium	0.0	0.0	0.0
+DS02	ITF-1-4.bin.24	Bacillota	unassigned		3	1	high	0.0	0.0	0.0
+DS02	ITF-1-4.bin.5	Verrucomicrobiota	Akkermansia		2	15	high	0.0009	0.0014	0.0013
+DS02	ITF-1-4.bin.53	Verrucomicrobiota	Akkermansia		2	11	high	0.0	0.0	0.0
+DS02	ITF-1-4.bin.6	Bacillota	unassigned		1	0	high	0.00233	0.0037	0.0017
+DS02	ITF-1-4.bin.74	Bacillota	SUG2458		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-5.bin.100	Bacteroidota	Alistipes		1	4	medium	0.0	0.0	0.0
+DS02	ITF-1-5.bin.126	Bacillota	MGBC143606		4	1	high	0.0	0.0	0.0
+DS02	ITF-1-5.bin.18	Synergistota	Cloacibacillus		1	0	high	0.01597	0.025	0.0119
+DS02	ITF-1-5.bin.43	Bacillota	unassigned		6	1	medium	0.0	0.0	0.0
+DS02	ITF-1-5.bin.62	Bacillota	MGBC143606		3	1	high	0.0	0.0	0.0
+DS02	ITF-1-5.bin.72	Bacillota	unassigned		1	1	high	0.0	0.0	0.0
+DS02	ITF-1-5.bin.82	Bacillota	Hespellia		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-6.bin.123	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS02	ITF-1-6.bin.161	Bacillota	CAG-510		2	0	medium	0.0	0.0	0.0
+DS02	ITF-1-6.bin.173	Bacillota	UBA7485		1	0	medium	0.0	0.0	0.0
+DS02	ITF-1-6.bin.176	Pseudomonadota	Ewingella	Ewingella americana	2	1	medium	0.0	0.0	0.0
+DS02	ITF-1-6.bin.61	Bacteroidota	Bacteroides		1	4	high	0.0	0.0	0.0
+DS02	ITF-1-6.bin.70	Bacillota	HUN007	HUN007 sp030539275	2	0	medium	0.0	0.0	0.0
+DS02	ITF-1-6.bin.83	Bacillota	unassigned		2	0	high	0.00107	0.0017	0.0016
+DS02	ITF-1-6.bin.95	Bacillota	unassigned		1	0	high	0.00199	0.0031	0.0015
+DS02	ITF-2-1.bin.106	Bacillota	Kineothrix		3	1	high	0.03327	0.0521	0.0745
+DS02	ITF-2-1.bin.126	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	high	0.00359	0.0056	0.008
+DS02	ITF-2-1.bin.143	Bacillota	JALENY01		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.21	Verrucomicrobiota	Akkermansia	Akkermansia muciniphila_C	2	12	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.22	Bacillota	Fimenecus		2	2	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.36	Bacillota	Roseburia_D		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.39	Bacillota	Limivivens		2	1	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.44	Bacillota	JAHZFN01		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.48	Bacillota	Oscillibacter		2	0	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.72	Bacillota	Clostridium	Clostridium butyricum	1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.79	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.80	Bacillota	unassigned		2	0	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.85	Bacillota	Hespellia	Hespellia sp028693555	1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.88	Bacillota	Hominibacterium		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-1.bin.93	Bacillota	SZUA-378		2	1	medium	0.0	0.0	0.0
+DS02	ITF-2-1.bin.98	Bacillota	Hespellia	Hespellia stercorisuis	2	0	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.111	Bacillota	Merdiplasma		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.12	Bacillota	Oscillibacter		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.141	Bacillota	Brotaphodocola		1	0	high	0.00048	0.0007	0.0004
+DS02	ITF-2-2.bin.142	Bacteroidota	Alistipes		3	4	high	0.00112	0.0018	0.0025
+DS02	ITF-2-2.bin.19	Bacillota	Monoglobus		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-2.bin.29	Bacillota	Suilimivivens		2	2	high	0.0	0.0	0.0
+DS02	ITF-2-2.bin.53	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.59	Bacillota	Eubacterium_G		2	0	high	0.0	0.0	0.0
+DS02	ITF-2-2.bin.80	Bacillota	Roseburia		2	1	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.9	Bacillota	Massilibacillus		2	0	high	0.0	0.0	0.0
+DS02	ITF-2-2.bin.92	Bacillota	Limiplasma		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-2.bin.94	Bacillota	Merdicola		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.11	Verrucomicrobiota	JAVBQJ01		1	12	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.120	Bacillota	unassigned		2	1	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.125	Bacillota	CAJGCS01		1	1	high	0.00054	0.0008	0.0004
+DS02	ITF-2-3.bin.146	Bacteroidota	Alistipes		2	3	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.155	Bacillota	Yeguia		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.179	Bacillota	QALR01		1	2	high	0.0	0.0	0.0
+DS02	ITF-2-3.bin.184	Bacteroidota	Tidjanibacter		1	4	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.195	Bacillota	CAG-488		1	1	high	0.00091	0.0014	0.0007
+DS02	ITF-2-3.bin.29	Bacillota	Butyrivibrio_A		2	0	high	0.03167	0.0496	0.0473
+DS02	ITF-2-3.bin.57	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-3.bin.69	Bacillota	Harrysmithiimonas		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-3.bin.93	Bacillota	Hespellia		2	0	high	0.0	0.0	0.0
+DS02	ITF-2-4.bin.137	Bacillota	Clostridium		3	1	medium	0.0	0.0	0.0
+DS02	ITF-2-4.bin.28	Bacillota	Lachnospira		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-5.bin.133	Bacillota	Choladousia		1	1	high	0.0	0.0	0.0
+DS02	ITF-2-5.bin.21	Bacillota	Roseburia_C		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-5.bin.30	Bacillota	Hespellia		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-5.bin.36	Bacteroidota	Bacteroides		1	6	high	0.0	0.0	0.0
+DS02	ITF-2-5.bin.42	Bacillota	UBA2922		1	0	high	0.00104	0.0016	0.0008
+DS02	ITF-2-5.bin.68	Bacillota	UBA2658		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-5.bin.86	Bacillota	Eubacterium_U		6	0	high	0.0044	0.0069	0.0197
+DS02	ITF-2-6.bin.105	Bacillota	unassigned		2	0	high	0.0	0.0	0.0
+DS02	ITF-2-6.bin.111	Bacillota	Roseburia		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-6.bin.136	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS02	ITF-2-6.bin.151	Spirochaetota	Treponema_F		2	1	high	0.00084	0.0013	0.0012
+DS02	ITF-2-6.bin.155	Bacillota	unassigned		1	3	high	0.0	0.0	0.0
+DS02	ITF-2-6.bin.158	Bacillota	Enterocloster		1	0	medium	0.0	0.0	0.0
+DS02	ITF-2-6.bin.170	Bacillota	Acetatifactor		2	1	medium	0.0	0.0	0.0
+DS02	ITF-2-6.bin.51	Bacillota	CAKOMG01		6	1	high	0.0	0.0	0.0
+DS02	ITF-2-6.bin.54	Bacillota	unassigned		2	1	high	0.0005	0.0008	0.0008
+DS02	ITF-2-6.bin.98	Bacillota	unassigned		1	3	high	0.0	0.0	0.0
+DS02	PM.1.1.bin.27	Bacillota	Hominisplanchenecus		1	0	medium	0.0	0.0	0.0
+DS02	PM.1.1.bin.36	Verrucomicrobiota	unassigned		1	6	high	0.01336	0.0209	0.01
+DS02	PM.1.1.bin.61	Bacillota	SIG588		1	0	high	0.01037	0.0162	0.0077
+DS02	PM.1.2.bin.39	Bacillota	UMGS856		1	2	medium	0.0	0.0	0.0
+DS02	PM.1.2.bin.62	Bacteroidota	unassigned		2	2	medium	0.0	0.0	0.0
+DS02	PM.2.1.bin.17	Bacillota	unassigned		3	0	high	0.0	0.0	0.0
+DS02	PM.2.1.bin.40	Synergistota	unassigned		1	0	medium	0.01367	0.0214	0.0102
+DS02	PM.2.1.bin.71	Bacillota	Limiplasma		1	1	high	0.0	0.0	0.0
+DS02	PM.2.1.bin.76	Bacillota	JAAYNV01		3	0	medium	0.0	0.0	0.0
+DS02	PM.2.1.bin.9	Bacillota	UMGS1663		1	0	high	0.0	0.0	0.0
+DS02	PM.2.2.bin.16	Bacillota	UMGS856		2	3	medium	0.0	0.0	0.0
+DS02	PM.2.3.bin.17	Bacillota	Limiplasma		1	2	high	0.0	0.0	0.0
+DS02	PM.2.3.bin.27	Bacteroidota	Phocaeicola		1	4	high	0.00035	0.0005	0.0003
+DS02	PM.2.3.bin.48	Bacillota	Limivicinus		1	0	medium	0.0	0.0	0.0
+DS02	PM.2.3.bin.94	Bacillota	Hespellia		1	0	high	0.0	0.0	0.0
+DS02	PM.2.4.bin.12	Bacteroidota	Cacconaster	Cacconaster sp028686425	2	3	high	0.00262	0.0041	0.0039
+DS02	PM.2.4.bin.3	Verrucomicrobiota	Akkermansia		1	8	high	0.0011	0.0017	0.0008
+DS02	PM.2.4.bin.36	Bacteroidota	Alistipes		1	5	high	0.0	0.0	0.0
+DS02	PM.2.4.bin.39	Bacteroidota	Egerieousia		1	4	high	0.00366	0.0057	0.0027
+DS02	PM.2.4.bin.44	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS02	PM.2.4.bin.80	Bacteroidota	Bacteroides	Bacteroides sp900552405	4	7	high	0.00484	0.0076	0.0144
+DS02	PM.2.5.bin.23	Bacillota	KM106-2		2	0	high	0.0	0.0	0.0
+DS02	PM.2.5.bin.42	Bacillota	CAG-177		1	2	high	0.05171	0.081	0.0386
+DS02	PM.2.5.bin.60	Bacillota	CAVIQK01		1	1	medium	0.0	0.0	0.0
+DS03	HM.1.1.bin.17	Verrucomicrobiota	Spyradosoma		1	10	high	0.0	0.0	0.0
+DS03	HM.1.1.bin.39	Bacillota	RGIG4097		1	1	high	0.00059	0.0014	0.0011
+DS03	HM.1.2.bin.2	Bacillota	JAQVRG01		1	0	medium	0.0	0.0	0.0
+DS03	HM.1.2.bin.23	Bacteroidota	Tidjanibacter	Tidjanibacter sp034102025	3	3	high	0.0	0.0	0.0
+DS03	HM.1.2.bin.25	Bacteroidota	Petrimonas		1	3	medium	0.0	0.0	0.0
+DS03	HM.1.2.bin.50	Bacteroidota_A	CALLXS01	CALLXS01 sp937875295	1	0	high	0.0	0.0	0.0
+DS03	HM.1.2.bin.58	Bacteroidota	Bacteroides		3	12	high	0.0	0.0	0.0
+DS03	HM.1.2.bin.7	Verrucomicrobiota	Spyradenecus		1	5	high	0.0	0.0	0.0
+DS03	HM.1.3.bin.41	Bacillota	Limiplasma		1	3	medium	0.00211	0.005	0.0039
+DS03	HM.1.3.bin.62	Bacteroidota	Limimorpha		1	4	high	0.01064	0.025	0.0196
+DS03	HM.1.3.bin.69	Bacteroidota	Alistipes		1	5	high	0.0	0.0	0.0
+DS03	HM.1.4.bin.14	Pseudomonadota	Citrobacter	Citrobacter braakii	2	0	medium	0.0	0.0	0.0
+DS03	HM.1.4.bin.3	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS03	HM.1.4.bin.34	Bacillota	Otoolea		2	0	high	0.0	0.0	0.0
+DS03	HM.1.4.bin.37	Bacteroidota	Parabacteroides	Parabacteroides sp905196875	1	17	medium	0.01408	0.0331	0.0259
+DS03	HM.1.4.bin.6	Bacillota	Lacrimispora		2	0	high	0.0	0.0	0.0
+DS03	HM.1.5.bin.14	Bacillota	Agathobaculum	Agathobaculum sp951230135	1	0	high	0.0	0.0	0.0
+DS03	HM.1.5.bin.26	Bacillota	Enterocloster		1	0	high	0.0	0.0	0.0
+DS03	HM.1.5.bin.30	Bacillota	Lactococcus	Lactococcus lactis	1	1	medium	0.0	0.0	0.0
+DS03	HM.1.5.bin.34	Bacteroidota	Bacteroides	Bacteroides nordii	5	15	high	0.0	0.0	0.0
+DS03	HM.1.6.bin.2	Bacillota	Caccovicinus		1	0	medium	0.0	0.0	0.0
+DS03	HM.1.6.bin.22	Bacillota	Roseburia		2	2	high	0.00107	0.0025	0.0039
+DS03	HM.1.7.bin.1	Bacillota	Brotaphodocola		1	0	high	0.0	0.0	0.0
+DS03	HM.1.7.bin.27	Bacteroidota	JAQVCR01		1	3	high	0.01224	0.0288	0.0225
+DS03	HM.1.8.bin.1	Bacillota	SZUA-378		2	0	high	0.0	0.0	0.0
+DS03	HM.1.8.bin.25	Bacillota	SZUA-378		2	1	high	0.0	0.0	0.0
+DS03	HM.1.8.bin.26	Bacteroidota	Bacteroides		3	13	high	0.0	0.0	0.0
+DS03	HM.1.8.bin.45	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	medium	0.0	0.0	0.0
+DS03	HM.1.9.bin.27	Bacillota	unassigned		2	1	high	0.00244	0.0057	0.009
+DS03	HM.1.9.bin.31	Bacteroidota	Merdimorpha		1	2	medium	0.0	0.0	0.0
+DS03	HM.1.9.bin.33	Bacillota	Anaerostipes		1	0	high	0.0	0.0	0.0
+DS03	HM.1.9.bin.41	Bacillota	unassigned		1	1	medium	0.0	0.0	0.0
+DS03	HM.1.9.bin.49	Bacillota	Scatomorpha		1	0	high	0.0	0.0	0.0
+DS03	HM.1.9.bin.51	Bacillota	JAQVRG01		1	0	medium	0.0	0.0	0.0
+DS03	HM.2.1.bin.21	Bacteroidota	Alistipes		2	4	high	0.0	0.0	0.0
+DS03	HM.2.1.bin.23	Bacteroidota	Alistipes		8	5	high	0.0	0.0	0.0
+DS03	HM.2.1.bin.36	Bacteroidota	Bacteroides		2	12	high	0.02359	0.0554	0.0868
+DS03	HM.2.1.bin.4	Bacillota	unassigned		1	0	high	0.03175	0.0746	0.0585
+DS03	HM.2.1.bin.50	Bacillota	JAAYNV01		4	0	medium	0.0	0.0	0.0
+DS03	HM.2.1.bin.7	Bacteroidota	Egerieousia		1	4	high	0.0	0.0	0.0
+DS03	HM.2.1.bin.74	Verrucomicrobiota	unassigned		1	5	high	0.0	0.0	0.0
+DS03	HM.2.1.bin.75	Bacillota	Egerieisoma		1	1	high	0.00131	0.0031	0.0024
+DS03	HM.2.1.bin.79	Bacillota	Limiplasma		2	1	high	0.0	0.0	0.0
+DS03	HM.2.1.bin.8	Bacillota	Merdiplasma		1	0	medium	0.0	0.0	0.0
+DS03	HM.2.1.bin.82	Bacillota	unassigned		2	2	high	0.00199	0.0047	0.0073
+DS03	HM.2.2.bin.25	Bacillota	unassigned		1	2	high	0.0	0.0	0.0
+DS03	HM.2.2.bin.30	Synergistota	unassigned		1	0	medium	0.00048	0.0011	0.0009
+DS03	HM.2.3.bin.21	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS03	HM.2.3.bin.22	Bacillota	SZUA-378		1	1	medium	0.0	0.0	0.0
+DS03	HM.2.3.bin.23	Bacillota	unassigned		1	0	high	0.00282	0.0066	0.0052
+DS03	HM.2.3.bin.33	Bacillota	Fimenecus		3	2	medium	0.0	0.0	0.0
+DS03	HM.2.3.bin.36	Bacillota	unassigned		1	1	medium	0.0	0.0	0.0
+DS03	HM.2.3.bin.56	Bacillota	Luoshenia		1	0	medium	0.0	0.0	0.0
+DS03	HM.2.4.bin.17	Bacteroidota	Bacteroides	Bacteroides sp014750685	18	18	high	0.0	0.0	0.0
+DS03	HM.2.4.bin.37	Bacteroidota	unassigned		1	1	high	0.0	0.0	0.0
+DS03	HM.2.4.bin.47	Bacillota	Brotaphodocola		1	0	medium	0.0	0.0	0.0
+DS03	HM.2.4.bin.54	Synergistota	JAUNSQ01		1	0	high	0.00696	0.0163	0.0128
+DS03	ITF-1-1.bin.130	Bacillota	Roseburia_D		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-1.bin.135	Bacillota	Otoolea		1	0	medium	0.00069	0.0016	0.0013
+DS03	ITF-1-1.bin.164	Bacillota	JALENY01		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-1.bin.30	Bacillota	Enterocloster		1	0	medium	0.0	0.0	0.0
+DS03	ITF-1-1.bin.67	Bacillota	Anthropogastromicrobium		2	1	high	0.00126	0.0029	0.0046
+DS03	ITF-1-1.bin.85	Bacillota	Beduinella		1	1	high	0.00155	0.0036	0.0028
+DS03	ITF-1-2.bin.105	Bacillota	CAG-349		1	1	high	0.0091	0.0214	0.0167
+DS03	ITF-1-2.bin.76	Bacillota	Roseburia_A		1	1	high	0.0	0.0	0.0
+DS03	ITF-1-3.bin.133	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS03	ITF-1-3.bin.143	Verrucomicrobiota	UMGS1518		7	12	medium	0.0	0.0	0.0
+DS03	ITF-1-3.bin.48	Bacillota	unassigned		9	1	medium	0.0	0.0	0.0
+DS03	ITF-1-4.bin.105	Bacillota	Yeguia		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.107	Bacillota	unassigned		1	1	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.136	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS03	ITF-1-4.bin.15	Bacillota	Pelethousia		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.163	Bacillota	SIG588		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.17	Bacillota	CAVIQK01		1	1	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.23	Bacillota	Intestinimonas		2	0	medium	0.0	0.0	0.0
+DS03	ITF-1-4.bin.24	Bacillota	unassigned		3	1	high	0.00395	0.0093	0.0218
+DS03	ITF-1-4.bin.5	Verrucomicrobiota	Akkermansia		2	15	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.53	Verrucomicrobiota	Akkermansia		2	11	high	0.0	0.0	0.0
+DS03	ITF-1-4.bin.6	Bacillota	unassigned		1	0	high	0.00776	0.0182	0.0143
+DS03	ITF-1-4.bin.74	Bacillota	SUG2458		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-5.bin.100	Bacteroidota	Alistipes		1	4	medium	0.0	0.0	0.0
+DS03	ITF-1-5.bin.126	Bacillota	MGBC143606		4	1	high	0.0	0.0	0.0
+DS03	ITF-1-5.bin.18	Synergistota	Cloacibacillus		1	0	high	0.00479	0.0113	0.0088
+DS03	ITF-1-5.bin.43	Bacillota	unassigned		6	1	medium	0.0	0.0	0.0
+DS03	ITF-1-5.bin.62	Bacillota	MGBC143606		3	1	high	0.0	0.0	0.0
+DS03	ITF-1-5.bin.72	Bacillota	unassigned		1	1	high	0.0	0.0	0.0
+DS03	ITF-1-5.bin.82	Bacillota	Hespellia		1	0	medium	0.0	0.0	0.0
+DS03	ITF-1-6.bin.123	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS03	ITF-1-6.bin.161	Bacillota	CAG-510		2	0	medium	0.0	0.0	0.0
+DS03	ITF-1-6.bin.173	Bacillota	UBA7485		1	0	medium	0.0	0.0	0.0
+DS03	ITF-1-6.bin.176	Pseudomonadota	Ewingella	Ewingella americana	2	1	medium	0.0	0.0	0.0
+DS03	ITF-1-6.bin.61	Bacteroidota	Bacteroides		1	4	high	0.00876	0.0206	0.0161
+DS03	ITF-1-6.bin.70	Bacillota	HUN007	HUN007 sp030539275	2	0	medium	0.0	0.0	0.0
+DS03	ITF-1-6.bin.83	Bacillota	unassigned		2	0	high	0.0	0.0	0.0
+DS03	ITF-1-6.bin.95	Bacillota	unassigned		1	0	high	0.00435	0.0102	0.008
+DS03	ITF-2-1.bin.106	Bacillota	Kineothrix		3	1	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.126	Bacillota	Oscillibacter	Oscillibacter ruminantium	3	0	high	0.00059	0.0014	0.0033
+DS03	ITF-2-1.bin.143	Bacillota	JALENY01		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.21	Verrucomicrobiota	Akkermansia	Akkermansia muciniphila_C	2	12	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.22	Bacillota	Fimenecus		2	2	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.36	Bacillota	Roseburia_D		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.39	Bacillota	Limivivens		2	1	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.44	Bacillota	JAHZFN01		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.48	Bacillota	Oscillibacter		2	0	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.72	Bacillota	Clostridium	Clostridium butyricum	1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.79	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.80	Bacillota	unassigned		2	0	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.85	Bacillota	Hespellia	Hespellia sp028693555	1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.88	Bacillota	Hominibacterium		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-1.bin.93	Bacillota	SZUA-378		2	1	medium	0.0	0.0	0.0
+DS03	ITF-2-1.bin.98	Bacillota	Hespellia	Hespellia stercorisuis	2	0	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.111	Bacillota	Merdiplasma		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.12	Bacillota	Oscillibacter		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.141	Bacillota	Brotaphodocola		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-2.bin.142	Bacteroidota	Alistipes		3	4	high	0.00056	0.0013	0.0031
+DS03	ITF-2-2.bin.19	Bacillota	Monoglobus		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-2.bin.29	Bacillota	Suilimivivens		2	2	high	0.0	0.0	0.0
+DS03	ITF-2-2.bin.53	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.59	Bacillota	Eubacterium_G		2	0	high	0.0	0.0	0.0
+DS03	ITF-2-2.bin.80	Bacillota	Roseburia		2	1	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.9	Bacillota	Massilibacillus		2	0	high	0.0	0.0	0.0
+DS03	ITF-2-2.bin.92	Bacillota	Limiplasma		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-2.bin.94	Bacillota	Merdicola		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.11	Verrucomicrobiota	JAVBQJ01		1	12	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.120	Bacillota	unassigned		2	1	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.125	Bacillota	CAJGCS01		1	1	high	0.0	0.0	0.0
+DS03	ITF-2-3.bin.146	Bacteroidota	Alistipes		2	3	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.155	Bacillota	Yeguia		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.179	Bacillota	QALR01		1	2	high	0.0	0.0	0.0
+DS03	ITF-2-3.bin.184	Bacteroidota	Tidjanibacter		1	4	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.195	Bacillota	CAG-488		1	1	high	0.0	0.0	0.0
+DS03	ITF-2-3.bin.29	Bacillota	Butyrivibrio_A		2	0	high	0.0489	0.1149	0.18
+DS03	ITF-2-3.bin.57	Bacillota	unassigned		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-3.bin.69	Bacillota	Harrysmithiimonas		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-3.bin.93	Bacillota	Hespellia		2	0	high	0.0	0.0	0.0
+DS03	ITF-2-4.bin.137	Bacillota	Clostridium		3	1	medium	0.0	0.0	0.0
+DS03	ITF-2-4.bin.28	Bacillota	Lachnospira		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-5.bin.133	Bacillota	Choladousia		1	1	high	0.0	0.0	0.0
+DS03	ITF-2-5.bin.21	Bacillota	Roseburia_C		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-5.bin.30	Bacillota	Hespellia		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-5.bin.36	Bacteroidota	Bacteroides		1	6	high	0.00914	0.0215	0.0168
+DS03	ITF-2-5.bin.42	Bacillota	UBA2922		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-5.bin.68	Bacillota	UBA2658		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-5.bin.86	Bacillota	Eubacterium_U		6	0	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.105	Bacillota	unassigned		2	0	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.111	Bacillota	Roseburia		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.136	Bacillota	unassigned		1	0	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.151	Spirochaetota	Treponema_F		2	1	high	0.00074	0.0017	0.0027
+DS03	ITF-2-6.bin.155	Bacillota	unassigned		1	3	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.158	Bacillota	Enterocloster		1	0	medium	0.0	0.0	0.0
+DS03	ITF-2-6.bin.170	Bacillota	Acetatifactor		2	1	medium	0.0	0.0	0.0
+DS03	ITF-2-6.bin.51	Bacillota	CAKOMG01		6	1	high	0.0	0.0	0.0
+DS03	ITF-2-6.bin.54	Bacillota	unassigned		2	1	high	0.0028	0.0066	0.0103
+DS03	ITF-2-6.bin.98	Bacillota	unassigned		1	3	high	0.0	0.0	0.0
+DS03	PM.1.1.bin.27	Bacillota	Hominisplanchenecus		1	0	medium	0.00118	0.0028	0.0022
+DS03	PM.1.1.bin.36	Verrucomicrobiota	unassigned		1	6	high	0.05081	0.1193	0.0935
+DS03	PM.1.1.bin.61	Bacillota	SIG588		1	0	high	0.0211	0.0496	0.0388
+DS03	PM.1.2.bin.39	Bacillota	UMGS856		1	2	medium	0.00056	0.0013	0.001
+DS03	PM.1.2.bin.62	Bacteroidota	unassigned		2	2	medium	0.00053	0.0013	0.002
+DS03	PM.2.1.bin.17	Bacillota	unassigned		3	0	high	0.00082	0.0019	0.0045
+DS03	PM.2.1.bin.40	Synergistota	unassigned		1	0	medium	0.02738	0.0643	0.0504
+DS03	PM.2.1.bin.71	Bacillota	Limiplasma		1	1	high	0.00219	0.0052	0.004
+DS03	PM.2.1.bin.76	Bacillota	JAAYNV01		3	0	medium	0.00117	0.0027	0.0064
+DS03	PM.2.1.bin.9	Bacillota	UMGS1663		1	0	high	0.00247	0.0058	0.0046
+DS03	PM.2.2.bin.16	Bacillota	UMGS856		2	3	medium	0.00137	0.0032	0.005
+DS03	PM.2.3.bin.17	Bacillota	Limiplasma		1	2	high	0.00166	0.0039	0.0031
+DS03	PM.2.3.bin.27	Bacteroidota	Phocaeicola		1	4	high	0.01231	0.0289	0.0227
+DS03	PM.2.3.bin.48	Bacillota	Limivicinus		1	0	medium	0.00063	0.0015	0.0012
+DS03	PM.2.3.bin.94	Bacillota	Hespellia		1	0	high	0.00183	0.0043	0.0034
+DS03	PM.2.4.bin.12	Bacteroidota	Cacconaster	Cacconaster sp028686425	2	3	high	0.01345	0.0316	0.0495
+DS03	PM.2.4.bin.3	Verrucomicrobiota	Akkermansia		1	8	high	0.00243	0.0057	0.0045
+DS03	PM.2.4.bin.36	Bacteroidota	Alistipes		1	5	high	0.00987	0.0232	0.0182
+DS03	PM.2.4.bin.39	Bacteroidota	Egerieousia		1	4	high	0.0151	0.0355	0.0278
+DS03	PM.2.4.bin.44	Bacillota	unassigned		1	0	medium	0.00119	0.0028	0.0022
+DS03	PM.2.4.bin.80	Bacteroidota	Bacteroides	Bacteroides sp900552405	4	7	high	0.00121	0.0029	0.0089
+DS03	PM.2.5.bin.23	Bacillota	KM106-2		2	0	high	0.00153	0.0036	0.0056
+DS03	PM.2.5.bin.42	Bacillota	CAG-177		1	2	high	0.03726	0.0875	0.0686
+DS03	PM.2.5.bin.60	Bacillota	CAVIQK01		1	1	medium	0.00062	0.0015	0.0011

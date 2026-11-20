@@ -1,0 +1,16 @@
+# PROVENANCE ONLY - earlier genome release.
+# Gene_ID and Category use the first-release annotation names and its chromosome numbering. The
+# manuscript reports RNA-Seq coverage on Mimp_v3 chromosome 4: tables/71_rnaseq_gh18_locus_read_counts.tsv.
+# Coordinate correspondence: tables/45_gh18_locus_Mimp_v3_map.tsv.
+Gene_ID	Gene_Name	Category	Length_bp	IT3_Counts	IT4_Counts	IT3_TPM	IT4_TPM
+maker_gene_088392	Chitinase_chr3_1	Chitinase_chr3	1716	34	285	3.78	31.87
+maker_gene_088393	Chitinase_chr3_2	Chitinase_chr3	2154	3657	2013	323.76	179.34
+maker_gene_088402	Chitinase_chr3_3	Chitinase_chr3	3483	42	47	2.30	2.59
+maker_gene_065834	GFPT1	GlcNAc_pathway	2274	25	95	2.10	8.02
+maker_gene_140257	GNPDA1	GlcNAc_pathway	990	2052	898	395.27	174.07
+maker_gene_021510	HEXD	GlcNAc_pathway	1416	75	85	10.10	11.52
+maker_gene_047824	LYZ	GlcNAc_pathway	732	285	1554	74.25	407.40
+maker_gene_049412	NAGA	GlcNAc_pathway	210	4	7	3.63	6.40
+maker_gene_099366	NAGK	GlcNAc_pathway	1089	250	591	43.78	104.14
+maker_gene_120073	OGA	GlcNAc_pathway	2604	633	561	46.36	41.34
+maker_gene_081802	OGT	GlcNAc_pathway	2769	4399	3688	302.96	255.59

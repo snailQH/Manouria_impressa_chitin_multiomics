@@ -1,0 +1,7 @@
+# GH18 vs Bacteroides, Novogene cohorts only (DS02 n=13, DS03 n=7); vendor read-count tables 01 and 11.
+# Spearman GH18 vs Bacteroides reads across the 20 samples: rho=0.87, P=7.97e-07
+metric	H_tessellatus_mean	P_ostreatus_mean	fold	U	P
+GH18 read counts (as reported)	13946.053846153845	8253.228571428572	1.689769491473067	84.0	0.0011609907120743034
+Bacteroides fraction of genus-assigned reads	0.22277139576312516	0.08780650194738171	2.537071752347241	79.0	0.006346749226006192
+GH18 per million genus-assigned reads	603.9673590509169	376.3600445720843	1.6047595055889068	82.0	0.0024251805985552113
+GH18 per thousand Bacteroides reads	3.4103581466262898	4.816485532781688	0.7080594602464609	17.0	0.023606811145510834

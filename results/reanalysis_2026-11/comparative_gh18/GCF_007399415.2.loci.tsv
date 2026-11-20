@@ -1,0 +1,9 @@
+chrom	start	end	best_query	clade	identity	pseudogene	n_queries	in_interval	hmm_genes_overlapping	products
+NC_044325.1	140531598	140539957	MIMP3_g08469	088402a GH18+CBM14	0.939	False	1	True	LOC115650891	acidic mammalian chitinase-like isoform X2
+NC_044325.1	140545046	140553197	MIMP3_g08470	088402b GH18	0.977	False	1	True	LOC115650892	acidic mammalian chitinase-like
+NC_044325.1	140571066	140578171	MIMP3_g08472	CHIA-array L7	0.931	False	4	True	LOC115651612	acidic mammalian chitinase-like
+NC_044325.1	140590693	140599798	MIMP3_g08473	CHIA-array L6	0.905	True	4	True		
+NC_044325.1	140612451	140619890	MIMP3_g08476	L3 CHIA-related	0.916	True	1	True		
+NC_044325.1	140645178	140658060	MIMP3_g08478	088393 CLP	0.979	False	1	True	LOC115650895	chitotriosidase-1-like
+NC_044325.1	140660397	140669505	MIMP3_g08479	088392 CHIT1-clade	0.963	False	1	True	LOC115650897	chitotriosidase-1-like isoform X3
+# annotated GH18 genes in the interval not overlapped by a miniprot locus:

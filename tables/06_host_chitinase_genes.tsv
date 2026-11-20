@@ -1,0 +1,83 @@
+# Host chitinase and chitin metabolism genes in Manouria impressa genome (GWHHIVU00000000.1)
+# Generated: 2026-04-01
+#
+# !! SUPERSEDED IN PART - this is the 2026-04 annotation-only search, kept as the record of what
+# !! the annotation contained. Two conclusions in the NOTES below were WITHDRAWN after the genome
+# !! itself was searched (tBLASTn/miniprot): the locus holds EIGHT loci / NINE complete GH18 genes,
+# !! not three, and CHIA-clade orthologs ARE present. See tables/25 (full-length BLAST
+# !! verification), tables/32 (the genome-level locus map) and tables/45 (Mimp_v3 chromosome 4
+# !! coordinates). Coordinates here are the earlier assembly release; the manuscript uses Mimp_v3.
+# Source: GWHHIVU00000000.1.gff.gz + BLASTP vs GWHHIVU00000000.1.Protein.faa
+#
+# ============================================================================
+# SECTION 1: CHITINASE-RELATED GENES (BLAST hits - ab initio predicted, unannotated)
+# ============================================================================
+# These genes were identified by BLASTP against known chitinase sequences.
+# They lack functional annotation in the GFF (ab initio Augustus predictions).
+# These three ANNOTATED models are clustered on chromosome 3 (GWHHIVU00000003.1) of the earlier
+# release = chromosome 4 of Mimp_v3. The cluster holds five further loci that this annotation-only
+# search could not see (tables/32); the expansion is real but larger than three genes.
+#
+Gene_ID	Accession	Gene_Name	Description	Chromosome	Start	End	Strand	Protein_Length	Category
+maker_gene_088392	GWHGHIVU010568.1	augustus-scaffold_3-abinit-gene-124.1	Putative chitinase-like protein (CHI3L1 homolog)	GWHHIVU00000003.1	12417829	12434228	+	571	Chitinase_BLAST_hit
+maker_gene_088393	GWHGHIVU010569.1	augustus-scaffold_3-abinit-gene-124.2	Putative chitinase-like protein (CHI3L1/CHIA homolog)	GWHHIVU00000003.1	12437363	12467918	+	717	Chitinase_BLAST_hit
+maker_gene_088402	GWHGHIVU010570.1	augustus-scaffold_3-abinit-gene-126.0	Putative chitinase-like protein (CHI3L1/CHIA homolog)	GWHHIVU00000003.1	12586602	12621407	-	1160	Chitinase_BLAST_hit
+#
+# ============================================================================
+# SECTION 2: ANNOTATED CHITINASE/CHITIN-RELATED GENES
+# ============================================================================
+#
+maker_gene_021510	GWHGHIVU005276.1	HEXD	Hexosaminidase D	GWHHIVU00000015.1	19440952	19458783	+	NA	Hexosaminidase
+maker_gene_047824	GWHGHIVU000234.1	LYZ	Lysozyme (GH22 family, muramidase/chitinase-related)	GWHHIVU00000001.1	31621839	31634938	+	NA	Lysozyme
+#
+# ============================================================================
+# SECTION 3: GlcNAc (N-ACETYLGLUCOSAMINE) METABOLISM PATHWAY GENES
+# ============================================================================
+#
+maker_gene_099366	GWHGHIVU012245.1	NAGK	N-acetylglucosamine kinase	GWHHIVU00000004.1	773248	790748	+	NA	GlcNAc_metabolism
+maker_gene_049412	GWHGHIVU000431.1	NAGA	Alpha-N-acetylgalactosaminidase	GWHHIVU00000001.1	58247704	58251374	+	NA	GlcNAc_metabolism
+maker_gene_140257	GWHGHIVU017121.1	GNPDA1	Glucosamine-6-phosphate deaminase 1	GWHHIVU00000008.1	93985413	94013315	+	NA	GlcNAc_metabolism
+maker_gene_065834	GWHGHIVU007744.1	GFPT1	Glutamine-fructose-6-phosphate transaminase 1	GWHHIVU00000002.1	148506386	148548255	+	NA	GlcNAc_metabolism
+maker_gene_138695	GWHGHIVU016893.1	UAP1	UDP-N-acetylglucosamine pyrophosphorylase 1	GWHHIVU00000008.1	66667263	66703797	+	NA	GlcNAc_metabolism
+maker_gene_052088	GWHGHIVU008707.1	DPAGT1	Dolichyl-phosphate N-acetylglucosaminephosphotransferase 1	GWHHIVU00000020.1	417275	423921	+	NA	GlcNAc_metabolism
+#
+# ============================================================================
+# SECTION 4: O-GlcNAc SIGNALING GENES
+# ============================================================================
+#
+maker_gene_081802	GWHGHIVU012156.1	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase	GWHHIVU00000032.1	82795	117834	-	NA	O-GlcNAc_signaling
+maker_gene_120073	GWHGHIVU014266.1	OGA	O-GlcNAcase (MGEA5)	GWHHIVU00000006.1	1320956	1355902	+	NA	O-GlcNAc_signaling
+#
+# ============================================================================
+# SECTION 5: N-ACETYLGLUCOSAMINYLTRANSFERASES (GlcNAc transferases)
+# ============================================================================
+#
+maker_gene_010299	GWHGHIVU003951.1	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	GWHHIVU00000012.1	14857225	14858418	+	NA	GlcNAc_transferase
+maker_gene_019152	GWHGHIVU004817.1	B3GNT9	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 9	GWHHIVU00000014.1	12876187	12877464	-	NA	GlcNAc_transferase
+maker_gene_055380	GWHGHIVU009559.1	B3GNT3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	GWHHIVU00000023.1	17038704	17074351	+	NA	GlcNAc_transferase
+maker_gene_049567	GWHGHIVU000459.1	MGAT3	Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase	GWHHIVU00000001.1	60791840	60793339	-	NA	GlcNAc_transferase
+maker_gene_040104	GWHGHIVU001772.1	MGAT4A	Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A	GWHHIVU00000001.1	212604064	212630934	-	NA	GlcNAc_transferase
+maker_gene_008722	GWHGHIVU003718.1	MGAT5	Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase	GWHHIVU00000011.1	62504844	62543852	-	NA	GlcNAc_transferase
+maker_gene_008730	GWHGHIVU003721.1	MGAT5	Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase (copy 2)	GWHHIVU00000011.1	62651965	62655800	-	NA	GlcNAc_transferase
+#
+# ============================================================================
+# SECTION 6: HEXOKINASES (phosphorylate GlcNAc and glucose)
+# ============================================================================
+#
+maker_gene_122166	GWHGHIVU014553.1	HK1	Hexokinase 1	GWHHIVU00000006.1	44067276	44129520	-	NA	Hexokinase
+maker_gene_122171	GWHGHIVU014554.1	HKDC1	Hexokinase domain containing 1	GWHHIVU00000006.1	44165008	44173494	-	NA	Hexokinase
+#
+# ============================================================================
+# NOTES:
+# - No annotated CHIA, CHIT1, CHI3L1, CHI3L2, HEXA, HEXB, CTBS, or CHID1
+#   genes were found in the GFF annotation.
+# - Three unannotated ab initio genes on chr3 (12.4-12.6 Mb) show significant
+#   sequence similarity to chitinase-3-like protein 1 (CHI3L1/YKL-40) and
+#   acidic mammalian chitinase (CHIA).
+# - WITHDRAWN: "the cluster may represent chitinase-like proteins (CLPs)". Of the eight loci now
+#   known, seven carry an intact DxDxE catalytic motif and four (L4-L7) nest inside the amniote
+#   CHIA clade; only 088393 is an inactive CLP (tables/32, results/phylogeny/v2).
+# - WITHDRAWN: "CHIT1 had 0 BLAST hits, suggesting it may be absent". The queries were truncated.
+#   Full-length queries hit at E = 0.0 (tables/25). Testudines DO possess CHIA orthologs; CHIT1
+#   orthology for 088392 remains unresolved. Absence was never demonstrated.
+# ============================================================================

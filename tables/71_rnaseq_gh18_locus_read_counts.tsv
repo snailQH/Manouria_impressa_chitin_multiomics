@@ -1,0 +1,15 @@
+# RNA-seq read counts over the eight GH18 loci of the reference assembly Mimp_v3 (GWHHIVU00000000.2, chr4),
+# heart (IT3) and lung (IT4) of MI01. HISAT2 alignments produced for the Mimp_v3 annotation
+# (01.Genome_Assembly/new-version/05_annotation/Mimp_v3/rnaseq/IT{3,4}.bam);
+# samtools view -c -F 0x904 -q 1 (primary, mapped, non-supplementary, MAPQ >= 1) over each locus interval
+# of tables/45_gh18_locus_Mimp_v3_map.tsv. Counted 2026-11-16 on Mimp_v3 (the earlier count on the first
+# release gave the same picture: 98/606, 9291/5495, 0-2, 599/456).
+locus	Mimp_v3_gene_model	chr	start	end	IT3_heart_reads	IT4_lung_reads
+088392 (L1)	MIMP3_g08479	chr4	139240333	139249474	88	596
+088393 (L2)	MIMP3_g08478	chr4	139225190	139237983	8541	5094
+L3	MIMP3_g08476	chr4	139196157	139203581	2	0
+L4	MIMP3_g08475	chr4	139173587	139181416	0	0
+L5	MIMP3_g08474	chr4	139145687	139153543	0	3
+L6	MIMP3_g08473	chr4	139124773	139132612	0	1
+L7	MIMP3_g08472	chr4	139105528	139112462	0	0
+088402a/b	MIMP3_g08469, MIMP3_g08470	chr4	139053434	139088295	600	455
